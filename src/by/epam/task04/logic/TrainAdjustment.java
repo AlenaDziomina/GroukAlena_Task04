@@ -6,8 +6,11 @@
 
 package by.epam.task04.logic;
 
-import by.epam.task04.entity.*;
-//import by.epam.task04.entity.Tunnel;
+
+import by.epam.task04.entity.Train;
+import by.epam.task04.entity.TrainDirection;
+import by.epam.task04.entity.Tunnel;
+import by.epam.task04.entity.TunnelPool;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -20,7 +23,7 @@ public class TrainAdjustment {
     public static final int TUNNEL_COUNT = 2;
     private static final TunnelPool TUNNEL_POOL = new TunnelPool(TUNNEL_COUNT);
     
-    public static Tunnel getTunnel(Train.Direct direct) {
+    public static Tunnel getTunnel(TrainDirection direct) {
         return TUNNEL_POOL.getTunnel(direct);
     }
     

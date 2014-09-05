@@ -6,7 +6,7 @@
 
 package by.epam.task04.entity;
 
-import by.epam.task04.entity.Train.Direct;
+
 import static java.lang.Thread.sleep;
 import java.util.concurrent.Phaser;
 import java.util.logging.Level;
@@ -19,16 +19,16 @@ import java.util.logging.Logger;
 public class TunnelPhaser implements Runnable{
     private Phaser phaser;
     private Tunnel tunnel;
-    private Direct direct;
+    private TrainDirection direct;
     
     public TunnelPhaser(){}
-    public TunnelPhaser(Phaser phaser, Tunnel tunnel, Direct direct) {
+    public TunnelPhaser(Phaser phaser, Tunnel tunnel, TrainDirection direct) {
         this.phaser = phaser;
         this.tunnel = tunnel;
         this.direct = direct;
     }
     
-    public Direct getDirect() {
+    public TrainDirection getDirect() {
         return direct;
     }
     
@@ -60,7 +60,7 @@ public class TunnelPhaser implements Runnable{
         phaser.forceTermination();
         tunnel.currentPhaser = null;
         
-        if (Direct.LEFT == direct) {
+        if (TrainDirection.LEFT == direct) {
             
             int n = tunnel.left.availablePermits();
             if (0 == n) {
@@ -76,7 +76,7 @@ public class TunnelPhaser implements Runnable{
             
         }
         
-        if (Direct.RIGTH == direct) {
+        if (TrainDirection.RIGTH == direct) {
             
             int n = tunnel.rigth.availablePermits();
             if (0 == n) {

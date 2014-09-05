@@ -27,13 +27,16 @@ public class Tunnel {
     public static final int MAX_IN_SAME_DIRECTION = 5; 
 
     private int id;
-    public Semaphore left = new Semaphore(MAX_IN_SAME_DIRECTION, true);
-    public Semaphore rigth = new Semaphore(MAX_IN_SAME_DIRECTION, true);
+    
+    //public SemaphorePool semaphor;
+    public Semaphore sem1 = new Semaphore(MAX_IN_SAME_DIRECTION, true);
+    public Semaphore sem2 = new Semaphore(MAX_IN_SAME_DIRECTION, true);
     
     public BlockingQueue<Train> trainsInTunnel = new ArrayBlockingQueue(MAX_TRAIN_COUNT);
     public TunnelPhaser currentPhaser;
     
     public Lock lock = new ReentrantLock();
+    
     
     
     

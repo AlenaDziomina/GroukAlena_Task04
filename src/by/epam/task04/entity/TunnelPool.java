@@ -6,7 +6,7 @@
 
 package by.epam.task04.entity;
 
-import by.epam.task04.entity.Train.Direct;
+
 import java.util.Iterator;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.Phaser;
@@ -30,7 +30,7 @@ public class TunnelPool {
         }
     }
     
-    public Tunnel getTunnel(Train.Direct direct) {
+    public Tunnel getTunnel(TrainDirection direct) {
         switch (direct) {
             case LEFT: return getLeftTunnel(direct);
             case RIGTH: return getRigthTunnel(direct);
@@ -38,7 +38,7 @@ public class TunnelPool {
         }
     }
     
-    private Tunnel getLeftTunnel(Train.Direct direct){
+    private Tunnel getLeftTunnel(TrainDirection direct){
         
         while (true) {
             for (Iterator<Tunnel> it = tunnels.iterator(); it.hasNext();) {
@@ -68,7 +68,7 @@ public class TunnelPool {
                             new Thread(tp).start();
                             return tunnel;
                         } else {
-                            if (Direct.LEFT == tunnel.currentPhaser.getDirect()) {
+                            if (TrainDirection.LEFT == tunnel.currentPhaser.getDirect()) {
 
                                 //int n1 = tunnel.currentPhaser.getPhaser().getRegisteredParties();
                                 if (tunnel.currentPhaser.getPhaser().register() < 0) {
@@ -93,7 +93,7 @@ public class TunnelPool {
         
     }
     
-    private Tunnel getRigthTunnel(Train.Direct direct){
+    private Tunnel getRigthTunnel(TrainDirection direct){
         
         while (true) {
             for (Iterator<Tunnel> it = tunnels.iterator(); it.hasNext();) {
@@ -115,7 +115,7 @@ public class TunnelPool {
                             new Thread(tp).start();
                             return tunnel;
                         } else {
-                            if (Direct.RIGTH == tunnel.currentPhaser.getDirect()) {
+                            if (TrainDirection.RIGTH == tunnel.currentPhaser.getDirect()) {
 
 //                                int n1 = tunnel.currentPhaser.getPhaser().getRegisteredParties();
                                 tunnel.currentPhaser.getPhaser().register();

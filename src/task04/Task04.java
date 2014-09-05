@@ -7,7 +7,10 @@
 package task04;
 
 import by.epam.task04.entity.Train;
-import by.epam.task04.entity.Train.Direct;
+import by.epam.task04.entity.TrainDirection;
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
+
 
 /**
  *
@@ -15,17 +18,23 @@ import by.epam.task04.entity.Train.Direct;
  */
 public class Task04 {
 
+    private static final String LOG_PROPERTIES_FILE = "Log4J.properties";
+    public static Logger LOCAL_LOGGER = Logger.getLogger("localLoger");
+    static {
+        PropertyConfigurator.configure(LOG_PROPERTIES_FILE); 
+    }
    
     public static void main(String[] args) throws InterruptedException {
+        
         int i = 0;
         int N = 30;
         ThreadGroup trains = new ThreadGroup("Группа поездов");
         
         while (i < N) {
             
-            new Thread(trains, new Train(i, Direct.LEFT)).start();
+            new Thread(trains, new Train(i, TrainDirection.LEFT)).start();
             i++;
-            new Thread(trains, new Train(i, Direct.RIGTH)).start();
+            new Thread(trains, new Train(i, TrainDirection.RIGTH)).start();
             i++;
         }
         
