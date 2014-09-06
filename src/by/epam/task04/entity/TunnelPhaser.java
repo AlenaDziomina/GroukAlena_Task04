@@ -41,6 +41,6 @@ public class TunnelPhaser implements Runnable{
     @Override
     public void run() {
         phaser.arriveAndAwaitAdvance();
-        TunnelAndTrainAdjustment.terminateTunnelPhaser(this);
+        TunnelAndTrainAdjustment.terminateTunnelPhaser(tunnel);
     }
 }

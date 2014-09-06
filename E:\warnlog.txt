@@ -1232,3 +1232,1880 @@
 17:24:42,717  INFO localLoger:112 - Train@id: 10 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
 17:24:42,717  INFO localLoger:94 - Train@id: 10 direct: LEFT movement finished.
 17:24:42,717  INFO localLoger:100 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6 complite.
+19:19:12,580  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,592  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,592  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,592  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,592  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,591  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,591  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,591  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,591  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,590  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,589  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,588  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,587  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,584  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,584  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,584  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,583  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,583  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,583  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,583  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,583  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,582  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,582  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,582  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,582  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,581  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,581  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:19:12,580  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,580  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:19:12,580  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,488  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,492  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,492  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,488  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,492  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,491  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,491  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,491  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,491  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,491  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,491  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,491  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,491  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,490  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,490  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,490  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,490  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,490  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,490  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,489  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,489  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,489  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,489  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,489  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,489  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,488  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,488  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:42:12,488  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,488  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:42:12,488  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,355  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,361  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,361  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,360  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,360  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,363  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,360  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,360  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,396  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,359  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,358  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,358  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,358  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,357  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,357  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,357  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,357  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,356  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,356  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,356  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,356  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,356  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,355  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,404  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,396  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,372  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,362  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,362  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:43:17,361  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:43:17,361  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,499  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,506  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,506  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,505  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,507  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,507  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,515  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,505  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,505  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,504  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,504  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,504  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,503  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,503  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,502  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,502  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,501  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,501  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,500  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,500  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,500  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,500  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,500  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,500  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,499  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,499  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,499  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:44:51,611  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,510  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:44:51,507  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,797  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,802  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,801  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,801  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,801  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,801  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,797  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,800  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,800  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,800  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,800  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,800  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,800  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,799  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,799  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,799  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,799  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,799  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,799  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,798  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,798  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,798  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,798  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,798  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,798  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,798  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,797  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:49:08,797  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,797  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:49:08,803  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,374  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,378  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,378  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,377  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,376  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,376  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,374  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,374  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,389  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,393  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,387  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,387  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,386  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,385  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,385  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,384  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,402  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,384  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,382  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,402  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,399  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,407  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,410  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,411  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,412  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,413  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,414  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,416  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:49:36,417  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:49:36,418  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,818  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,823  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,823  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,822  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,822  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,821  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,826  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,825  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,831  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,832  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,831  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,833  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,832  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,832  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,833  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,834  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,837  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,837  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,836  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,838  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,840  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,840  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,842  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,843  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,844  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,844  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,846  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,846  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:51:00,846  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:51:00,849  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,817  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,821  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,821  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,820  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,819  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,819  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,818  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,817  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,818  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,818  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,817  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,817  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,825  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,902  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,902  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,902  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,902  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,901  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,901  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,901  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,900  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,900  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,900  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,900  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,899  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,899  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,899  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,899  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:53:27,899  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:53:27,898  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,183  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,190  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,190  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,191  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,189  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,189  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,188  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,188  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,187  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,187  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,187  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,186  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,186  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,185  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,185  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,184  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,184  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,184  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,183  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,183  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,195  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,195  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,195  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,194  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,194  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,194  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,194  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,194  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:54:21,193  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:54:21,191  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,938  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,942  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,942  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,942  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,942  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,942  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,942  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,952  INFO localLoger:111 - Train@id:12 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:55:57,942  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,953  INFO localLoger:111 - Train@id:11 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:55:57,942  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,941  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,941  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,941  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,940  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,940  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,939  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,938  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,938  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,938  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,954  INFO localLoger:111 - Train@id:9 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:55:57,968  INFO localLoger:123 - Train@id:9 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:55:57,953  INFO localLoger:111 - Train@id:10 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:55:57,971  INFO localLoger:123 - Train@id:10 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:55:57,953  INFO localLoger:123 - Train@id:11 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:55:57,953  INFO localLoger:123 - Train@id:12 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:55:57,952  INFO localLoger:111 - Train@id:13 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:55:57,975  INFO localLoger:123 - Train@id:13 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:55:57,948  INFO localLoger:111 - Train@id:14 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:55:57,948  INFO localLoger:111 - Train@id:17 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:55:57,948  INFO localLoger:111 - Train@id:15 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:55:57,947  INFO localLoger:111 - Train@id:0 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:55:57,947  INFO localLoger:111 - Train@id:16 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:55:57,945  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,945  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,982  INFO localLoger:123 - Train@id:14 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:55:57,945  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,945  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,945  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,944  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,944  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,944  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,944  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,944  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+19:55:57,943  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+19:55:57,943  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+19:56:07,990  INFO localLoger:133 - Train@id:12 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:08,012  INFO localLoger:115 - Train@id:12 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:08,011  INFO localLoger:123 - Train@id:16 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:08,011  INFO localLoger:133 - Train@id:11 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:08,011  INFO localLoger:123 - Train@id:15 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:08,011  INFO localLoger:133 - Train@id:9 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:08,015  INFO localLoger:115 - Train@id:9 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:08,011  INFO localLoger:133 - Train@id:10 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:08,020  INFO localLoger:115 - Train@id:10 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:07,990  INFO localLoger:123 - Train@id:0 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:07,990  INFO localLoger:123 - Train@id:17 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:07,990  INFO localLoger:133 - Train@id:14 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:08,023  INFO localLoger:115 - Train@id:14 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:07,990  INFO localLoger:133 - Train@id:13 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:08,023  INFO localLoger:115 - Train@id:13 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:08,015  INFO localLoger:115 - Train@id:11 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:18,014  INFO localLoger:133 - Train@id:16 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,015  INFO localLoger:115 - Train@id:16 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:18,016  INFO localLoger:133 - Train@id:15 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,016  INFO localLoger:115 - Train@id:15 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:18,023  INFO localLoger:133 - Train@id:0 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,024  INFO localLoger:115 - Train@id:0 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:18,023  INFO localLoger:133 - Train@id:17 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,024  INFO localLoger:115 - Train@id:17 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:18,025  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+19:56:18,025  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+19:56:18,026  INFO localLoger:111 - Train@id:5 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,026  INFO localLoger:123 - Train@id:5 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,037  INFO localLoger:111 - Train@id:6 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,043  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+19:56:18,039  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+19:56:18,045  INFO localLoger:111 - Train@id:25 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,047  INFO localLoger:123 - Train@id:25 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,053  INFO localLoger:123 - Train@id:6 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,062  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+19:56:18,116  INFO localLoger:111 - Train@id:21 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,116  INFO localLoger:123 - Train@id:21 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,123  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+19:56:18,124  INFO localLoger:111 - Train@id:20 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,124  INFO localLoger:123 - Train@id:20 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,130  INFO localLoger:111 - Train@id:23 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,130  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+19:56:18,130  INFO localLoger:111 - Train@id:19 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,131  INFO localLoger:111 - Train@id:2 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,132  INFO localLoger:123 - Train@id:2 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,132  INFO localLoger:111 - Train@id:4 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,133  INFO localLoger:111 - Train@id:28 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,132  INFO localLoger:111 - Train@id:22 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,136  INFO localLoger:111 - Train@id:24 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,136  INFO localLoger:111 - Train@id:18 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,144  INFO localLoger:111 - Train@id:26 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,145  INFO localLoger:111 - Train@id:29 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,145  INFO localLoger:111 - Train@id:27 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,144  INFO localLoger:111 - Train@id:8 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:18,145  INFO localLoger:111 - Train@id:3 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,145  INFO localLoger:111 - Train@id:7 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:18,145  INFO localLoger:111 - Train@id:1 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:28,027  INFO localLoger:133 - Train@id:5 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:28,027  INFO localLoger:123 - Train@id:23 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:28,027  INFO localLoger:115 - Train@id:5 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:28,048  INFO localLoger:133 - Train@id:25 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:28,048  INFO localLoger:123 - Train@id:19 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:28,048  INFO localLoger:115 - Train@id:25 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:28,055  INFO localLoger:133 - Train@id:6 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:28,055  INFO localLoger:123 - Train@id:4 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:28,055  INFO localLoger:115 - Train@id:6 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:28,117  INFO localLoger:133 - Train@id:21 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:28,117  INFO localLoger:123 - Train@id:29 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:28,117  INFO localLoger:115 - Train@id:21 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:28,125  INFO localLoger:133 - Train@id:20 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:28,125  INFO localLoger:123 - Train@id:28 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:28,125  INFO localLoger:115 - Train@id:20 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:28,133  INFO localLoger:133 - Train@id:2 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:28,133  INFO localLoger:115 - Train@id:2 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:28,133  INFO localLoger:123 - Train@id:22 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:38,028  INFO localLoger:133 - Train@id:23 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:38,028  INFO localLoger:115 - Train@id:23 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:38,028  INFO localLoger:123 - Train@id:27 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:38,050  INFO localLoger:133 - Train@id:19 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:38,050  INFO localLoger:115 - Train@id:19 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:38,050  INFO localLoger:123 - Train@id:3 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:38,057  INFO localLoger:133 - Train@id:4 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:38,057  INFO localLoger:123 - Train@id:24 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:38,057  INFO localLoger:115 - Train@id:4 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:38,118  INFO localLoger:133 - Train@id:29 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:38,118  INFO localLoger:123 - Train@id:7 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:38,119  INFO localLoger:115 - Train@id:29 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:38,125  INFO localLoger:133 - Train@id:28 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:38,126  INFO localLoger:115 - Train@id:28 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:38,125  INFO localLoger:123 - Train@id:18 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:38,134  INFO localLoger:133 - Train@id:22 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:38,134  INFO localLoger:123 - Train@id:26 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:38,134  INFO localLoger:115 - Train@id:22 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:48,030  INFO localLoger:123 - Train@id:1 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:48,030  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+19:56:48,030  INFO localLoger:133 - Train@id:27 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+19:56:48,031  INFO localLoger:115 - Train@id:27 from:DOMODOSSOLA to:BRIG movement finished.
+19:56:48,058  INFO localLoger:133 - Train@id:24 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:48,059  INFO localLoger:115 - Train@id:24 from:BRIG to:DOMODOSSOLA movement finished.
+19:56:48,058  INFO localLoger:123 - Train@id:8 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:48,126  INFO localLoger:133 - Train@id:18 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+19:56:48,126  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+19:56:48,127  INFO localLoger:115 - Train@id:18 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:09,412  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,418  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,418  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,418  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,418  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,416  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,415  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,413  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,413  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,426  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,427  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,412  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,427  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,412  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,427  INFO localLoger:111 - Train@id:9 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:09,428  INFO localLoger:123 - Train@id:9 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:09,427  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,427  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,426  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,426  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,435  INFO localLoger:111 - Train@id:5 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:09,436  INFO localLoger:123 - Train@id:5 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:09,426  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,426  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,424  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,424  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,438  INFO localLoger:111 - Train@id:25 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:09,438  INFO localLoger:123 - Train@id:25 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:09,424  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,423  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,423  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,422  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,422  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,422  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,422  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+20:00:09,420  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+20:00:09,437  INFO localLoger:111 - Train@id:3 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:09,431  INFO localLoger:111 - Train@id:0 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:09,431  INFO localLoger:111 - Train@id:8 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:09,431  INFO localLoger:111 - Train@id:2 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:09,429  INFO localLoger:111 - Train@id:10 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:09,428  INFO localLoger:111 - Train@id:7 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:09,428  INFO localLoger:111 - Train@id:26 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:09,563  INFO localLoger:123 - Train@id:8 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:09,563  INFO localLoger:123 - Train@id:2 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:09,563  INFO localLoger:123 - Train@id:0 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:19,434  INFO localLoger:133 - Train@id:9 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:19,434  INFO localLoger:115 - Train@id:9 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:19,435  INFO localLoger:123 - Train@id:3 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:19,437  INFO localLoger:133 - Train@id:5 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:19,437  INFO localLoger:123 - Train@id:7 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:19,437  INFO localLoger:115 - Train@id:5 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:19,439  INFO localLoger:133 - Train@id:25 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:19,439  INFO localLoger:115 - Train@id:25 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:19,566  INFO localLoger:133 - Train@id:8 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:19,566  INFO localLoger:115 - Train@id:8 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:19,566  INFO localLoger:133 - Train@id:2 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:19,567  INFO localLoger:115 - Train@id:2 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:19,567  INFO localLoger:133 - Train@id:0 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:19,567  INFO localLoger:115 - Train@id:0 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:19,568  INFO localLoger:123 - Train@id:10 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:19,568  INFO localLoger:123 - Train@id:26 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,436  INFO localLoger:133 - Train@id:3 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,436  INFO localLoger:115 - Train@id:3 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:29,440  INFO localLoger:133 - Train@id:7 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,441  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:00:29,441  INFO localLoger:115 - Train@id:7 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:29,490  INFO localLoger:111 - Train@id:14 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,490  INFO localLoger:123 - Train@id:14 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,491  INFO localLoger:111 - Train@id:28 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,491  INFO localLoger:123 - Train@id:28 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,491  INFO localLoger:111 - Train@id:4 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,491  INFO localLoger:123 - Train@id:4 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,493  INFO localLoger:111 - Train@id:16 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,490  INFO localLoger:111 - Train@id:12 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:29,569  INFO localLoger:133 - Train@id:10 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,569  INFO localLoger:115 - Train@id:10 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:29,570  INFO localLoger:133 - Train@id:26 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,570  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+20:00:29,570  INFO localLoger:115 - Train@id:26 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:29,581  INFO localLoger:111 - Train@id:27 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,581  INFO localLoger:123 - Train@id:27 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,595  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+20:00:29,606  INFO localLoger:111 - Train@id:19 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,607  INFO localLoger:123 - Train@id:19 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,609  INFO localLoger:111 - Train@id:17 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,609  INFO localLoger:123 - Train@id:17 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,615  INFO localLoger:111 - Train@id:21 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,615  INFO localLoger:111 - Train@id:11 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,696  INFO localLoger:111 - Train@id:13 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,697  INFO localLoger:111 - Train@id:29 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,697  INFO localLoger:111 - Train@id:1 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,698  INFO localLoger:111 - Train@id:15 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:29,698  INFO localLoger:111 - Train@id:23 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:39,491  INFO localLoger:133 - Train@id:14 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:39,491  INFO localLoger:115 - Train@id:14 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:39,491  INFO localLoger:123 - Train@id:16 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:39,492  INFO localLoger:133 - Train@id:4 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:39,492  INFO localLoger:115 - Train@id:4 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:39,493  INFO localLoger:123 - Train@id:12 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:39,493  INFO localLoger:133 - Train@id:28 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:39,493  INFO localLoger:115 - Train@id:28 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:39,582  INFO localLoger:133 - Train@id:27 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:39,582  INFO localLoger:115 - Train@id:27 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:39,582  INFO localLoger:123 - Train@id:21 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:39,608  INFO localLoger:123 - Train@id:11 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:39,608  INFO localLoger:133 - Train@id:19 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:39,608  INFO localLoger:115 - Train@id:19 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:39,611  INFO localLoger:123 - Train@id:13 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:39,611  INFO localLoger:133 - Train@id:17 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:39,611  INFO localLoger:115 - Train@id:17 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:49,493  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:00:49,493  INFO localLoger:133 - Train@id:16 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,493  INFO localLoger:115 - Train@id:16 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:49,493  INFO localLoger:133 - Train@id:12 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,494  INFO localLoger:115 - Train@id:12 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:49,583  INFO localLoger:133 - Train@id:21 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:49,584  INFO localLoger:115 - Train@id:21 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:49,583  INFO localLoger:123 - Train@id:29 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:49,595  INFO localLoger:111 - Train@id:18 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,595  INFO localLoger:111 - Train@id:6 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,595  INFO localLoger:111 - Train@id:24 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,595  INFO localLoger:123 - Train@id:6 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,595  INFO localLoger:111 - Train@id:20 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,595  INFO localLoger:111 - Train@id:22 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,595  INFO localLoger:123 - Train@id:18 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,595  INFO localLoger:123 - Train@id:24 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:49,609  INFO localLoger:133 - Train@id:11 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:49,609  INFO localLoger:123 - Train@id:1 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:49,610  INFO localLoger:115 - Train@id:11 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:49,611  INFO localLoger:133 - Train@id:13 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:49,611  INFO localLoger:115 - Train@id:13 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:49,611  INFO localLoger:123 - Train@id:15 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:59,585  INFO localLoger:133 - Train@id:29 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:59,585  INFO localLoger:123 - Train@id:23 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:59,586  INFO localLoger:115 - Train@id:29 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:59,597  INFO localLoger:133 - Train@id:6 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:59,597  INFO localLoger:123 - Train@id:22 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:59,597  INFO localLoger:133 - Train@id:24 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:59,597  INFO localLoger:133 - Train@id:18 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:59,597  INFO localLoger:123 - Train@id:20 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:00:59,598  INFO localLoger:115 - Train@id:18 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:59,598  INFO localLoger:115 - Train@id:24 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:59,597  INFO localLoger:115 - Train@id:6 from:BRIG to:DOMODOSSOLA movement finished.
+20:00:59,611  INFO localLoger:133 - Train@id:1 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:59,611  INFO localLoger:115 - Train@id:1 from:DOMODOSSOLA to:BRIG movement finished.
+20:00:59,613  INFO localLoger:133 - Train@id:15 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:00:59,613  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+20:00:59,613  INFO localLoger:115 - Train@id:15 from:DOMODOSSOLA to:BRIG movement finished.
+20:01:09,598  INFO localLoger:133 - Train@id:22 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:01:09,598  INFO localLoger:133 - Train@id:20 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:01:09,598  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:01:09,599  INFO localLoger:115 - Train@id:20 from:BRIG to:DOMODOSSOLA movement finished.
+20:01:09,599  INFO localLoger:115 - Train@id:22 from:BRIG to:DOMODOSSOLA movement finished.
+20:08:22,258  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,262  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,261  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,260  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,264  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,258  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,259  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,258  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,258  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,258  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,269  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,272  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,274  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,275  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,276  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,277  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,282  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,284  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,286  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,287  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,288  INFO localLoger:111 - Train@id:1 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:22,289  INFO localLoger:137 - Train@id:1 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:22,289  INFO localLoger:111 - Train@id:10 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:22,293  INFO localLoger:137 - Train@id:10 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:22,294  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,293  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,293  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,293  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,299  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,301  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,293  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,315  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,366  INFO localLoger:111 - Train@id:12 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:22,366  INFO localLoger:137 - Train@id:12 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:22,367  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+20:08:22,371  INFO localLoger:111 - Train@id:14 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:22,371  INFO localLoger:137 - Train@id:14 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:22,372  INFO localLoger:111 - Train@id:9 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:22,372  INFO localLoger:137 - Train@id:9 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:22,372  INFO localLoger:111 - Train@id:7 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:22,372  INFO localLoger:137 - Train@id:7 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:22,381  INFO localLoger:111 - Train@id:16 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:22,405  INFO localLoger:111 - Train@id:18 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:22,456  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+20:08:22,472  INFO localLoger:111 - Train@id:5 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:22,476  INFO localLoger:111 - Train@id:3 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:32,290  INFO localLoger:149 - Train@id:1 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:32,291  INFO localLoger:115 - Train@id:1 from:DOMODOSSOLA to:BRIG movement finished.
+20:08:32,291  INFO localLoger:137 - Train@id:5 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:32,295  INFO localLoger:149 - Train@id:10 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:32,296  INFO localLoger:115 - Train@id:10 from:BRIG to:DOMODOSSOLA movement finished.
+20:08:32,295  INFO localLoger:137 - Train@id:16 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:32,367  INFO localLoger:149 - Train@id:12 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:32,368  INFO localLoger:115 - Train@id:12 from:BRIG to:DOMODOSSOLA movement finished.
+20:08:32,368  INFO localLoger:137 - Train@id:18 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:32,372  INFO localLoger:149 - Train@id:14 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:32,373  INFO localLoger:115 - Train@id:14 from:BRIG to:DOMODOSSOLA movement finished.
+20:08:32,373  INFO localLoger:149 - Train@id:9 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:32,373  INFO localLoger:137 - Train@id:3 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:32,373  INFO localLoger:115 - Train@id:9 from:DOMODOSSOLA to:BRIG movement finished.
+20:08:32,378  INFO localLoger:149 - Train@id:7 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:32,378  INFO localLoger:115 - Train@id:7 from:DOMODOSSOLA to:BRIG movement finished.
+20:08:42,298  INFO localLoger:149 - Train@id:16 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,298  INFO localLoger:149 - Train@id:5 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,299  INFO localLoger:115 - Train@id:16 from:BRIG to:DOMODOSSOLA movement finished.
+20:08:42,300  INFO localLoger:115 - Train@id:5 from:DOMODOSSOLA to:BRIG movement finished.
+20:08:42,370  INFO localLoger:149 - Train@id:18 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,370  INFO localLoger:115 - Train@id:18 from:BRIG to:DOMODOSSOLA movement finished.
+20:08:42,384  INFO localLoger:149 - Train@id:3 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,385  INFO localLoger:115 - Train@id:3 from:DOMODOSSOLA to:BRIG movement finished.
+20:08:42,385  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:08:42,387  INFO localLoger:111 - Train@id:20 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,388  INFO localLoger:137 - Train@id:20 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,474  INFO localLoger:111 - Train@id:2 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,475  INFO localLoger:111 - Train@id:6 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,476  INFO localLoger:137 - Train@id:6 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,388  INFO localLoger:111 - Train@id:26 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,541  INFO localLoger:137 - Train@id:26 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,475  INFO localLoger:111 - Train@id:8 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:42,608  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+20:08:42,610  INFO localLoger:111 - Train@id:17 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,611  INFO localLoger:137 - Train@id:17 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,626  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+20:08:42,646  INFO localLoger:111 - Train@id:27 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,647  INFO localLoger:137 - Train@id:27 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,735  INFO localLoger:111 - Train@id:29 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,736  INFO localLoger:137 - Train@id:29 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,737  INFO localLoger:111 - Train@id:21 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,737  INFO localLoger:111 - Train@id:13 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,743  INFO localLoger:111 - Train@id:15 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,745  INFO localLoger:111 - Train@id:23 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,746  INFO localLoger:111 - Train@id:19 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:42,745  INFO localLoger:111 - Train@id:25 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:52,388  INFO localLoger:149 - Train@id:20 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:52,388  INFO localLoger:137 - Train@id:8 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:52,389  INFO localLoger:115 - Train@id:20 from:BRIG to:DOMODOSSOLA movement finished.
+20:08:52,477  INFO localLoger:149 - Train@id:6 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:52,478  INFO localLoger:115 - Train@id:6 from:BRIG to:DOMODOSSOLA movement finished.
+20:08:52,477  INFO localLoger:137 - Train@id:2 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:52,542  INFO localLoger:149 - Train@id:26 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:08:52,543  INFO localLoger:115 - Train@id:26 from:BRIG to:DOMODOSSOLA movement finished.
+20:08:52,612  INFO localLoger:149 - Train@id:17 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:52,613  INFO localLoger:115 - Train@id:17 from:DOMODOSSOLA to:BRIG movement finished.
+20:08:52,612  INFO localLoger:137 - Train@id:21 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:52,737  INFO localLoger:137 - Train@id:13 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:52,737  INFO localLoger:149 - Train@id:27 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:52,737  INFO localLoger:115 - Train@id:27 from:DOMODOSSOLA to:BRIG movement finished.
+20:08:52,739  INFO localLoger:149 - Train@id:29 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:08:52,740  INFO localLoger:115 - Train@id:29 from:DOMODOSSOLA to:BRIG movement finished.
+20:08:52,739  INFO localLoger:137 - Train@id:15 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:09:02,390  INFO localLoger:149 - Train@id:8 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,390  INFO localLoger:115 - Train@id:8 from:BRIG to:DOMODOSSOLA movement finished.
+20:09:02,480  INFO localLoger:149 - Train@id:2 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,480  INFO localLoger:115 - Train@id:2 from:BRIG to:DOMODOSSOLA movement finished.
+20:09:02,482  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:09:02,485  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:09:02,487  INFO localLoger:111 - Train@id:11 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,487  INFO localLoger:137 - Train@id:11 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,583  INFO localLoger:111 - Train@id:28 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,584  INFO localLoger:137 - Train@id:28 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,583  INFO localLoger:111 - Train@id:22 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,585  INFO localLoger:137 - Train@id:22 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,584  INFO localLoger:111 - Train@id:4 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,584  INFO localLoger:111 - Train@id:0 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,585  INFO localLoger:111 - Train@id:24 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:02,615  INFO localLoger:149 - Train@id:21 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:09:02,615  INFO localLoger:115 - Train@id:21 from:DOMODOSSOLA to:BRIG movement finished.
+20:09:02,615  INFO localLoger:137 - Train@id:23 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:09:02,738  INFO localLoger:149 - Train@id:13 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:09:02,738  INFO localLoger:115 - Train@id:13 from:DOMODOSSOLA to:BRIG movement finished.
+20:09:02,738  INFO localLoger:137 - Train@id:19 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:09:02,741  INFO localLoger:149 - Train@id:15 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:09:02,741  INFO localLoger:115 - Train@id:15 from:DOMODOSSOLA to:BRIG movement finished.
+20:09:02,742  INFO localLoger:137 - Train@id:25 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:09:12,488  INFO localLoger:149 - Train@id:11 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:12,488  INFO localLoger:137 - Train@id:4 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:12,489  INFO localLoger:115 - Train@id:11 from:DOMODOSSOLA to:BRIG movement finished.
+20:09:12,585  INFO localLoger:149 - Train@id:22 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:12,586  INFO localLoger:115 - Train@id:22 from:BRIG to:DOMODOSSOLA movement finished.
+20:09:12,586  INFO localLoger:137 - Train@id:24 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:12,585  INFO localLoger:137 - Train@id:0 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:12,586  INFO localLoger:149 - Train@id:28 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:12,587  INFO localLoger:115 - Train@id:28 from:BRIG to:DOMODOSSOLA movement finished.
+20:09:12,617  INFO localLoger:149 - Train@id:23 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:09:12,618  INFO localLoger:115 - Train@id:23 from:DOMODOSSOLA to:BRIG movement finished.
+20:09:12,740  INFO localLoger:149 - Train@id:19 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:09:12,740  INFO localLoger:115 - Train@id:19 from:DOMODOSSOLA to:BRIG movement finished.
+20:09:12,740  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+20:09:22,490  INFO localLoger:149 - Train@id:4 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:22,490  INFO localLoger:115 - Train@id:4 from:BRIG to:DOMODOSSOLA movement finished.
+20:09:22,587  INFO localLoger:149 - Train@id:0 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:22,588  INFO localLoger:115 - Train@id:0 from:BRIG to:DOMODOSSOLA movement finished.
+20:09:22,588  INFO localLoger:149 - Train@id:24 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:09:22,588  INFO localLoger:115 - Train@id:24 from:BRIG to:DOMODOSSOLA movement finished.
+20:09:22,589  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:13:02,557  INFO localLoger:107 - Train@id:0 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,562  INFO localLoger:107 - Train@id:16 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,562  INFO localLoger:107 - Train@id:15 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,563  INFO localLoger:107 - Train@id:19 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,562  INFO localLoger:107 - Train@id:14 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,564  INFO localLoger:107 - Train@id:20 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,569  INFO localLoger:111 - Train@id:20 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:02,569  INFO localLoger:111 - Train@id:14 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:02,569  INFO localLoger:137 - Train@id:14 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:02,561  INFO localLoger:107 - Train@id:13 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,570  INFO localLoger:111 - Train@id:13 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:02,570  INFO localLoger:137 - Train@id:13 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:02,561  INFO localLoger:107 - Train@id:12 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,572  INFO localLoger:111 - Train@id:12 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:02,572  INFO localLoger:137 - Train@id:12 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:02,560  INFO localLoger:107 - Train@id:11 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,575  INFO localLoger:111 - Train@id:11 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:02,560  INFO localLoger:107 - Train@id:10 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,560  INFO localLoger:107 - Train@id:9 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,576  INFO localLoger:111 - Train@id:9 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:02,576  INFO localLoger:137 - Train@id:9 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:02,559  INFO localLoger:107 - Train@id:8 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,559  INFO localLoger:107 - Train@id:7 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,559  INFO localLoger:107 - Train@id:6 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,559  INFO localLoger:107 - Train@id:5 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,558  INFO localLoger:107 - Train@id:4 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,558  INFO localLoger:107 - Train@id:3 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,558  INFO localLoger:107 - Train@id:2 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,557  INFO localLoger:107 - Train@id:1 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,576  INFO localLoger:137 - Train@id:11 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:02,569  INFO localLoger:137 - Train@id:20 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:02,567  INFO localLoger:111 - Train@id:0 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:02,567  INFO localLoger:111 - Train@id:19 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:02,567  INFO localLoger:111 - Train@id:15 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:02,567  INFO localLoger:111 - Train@id:16 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:02,566  INFO localLoger:107 - Train@id:29 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,566  INFO localLoger:107 - Train@id:28 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,566  INFO localLoger:107 - Train@id:27 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,566  INFO localLoger:107 - Train@id:26 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,566  INFO localLoger:107 - Train@id:25 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,566  INFO localLoger:107 - Train@id:24 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,566  INFO localLoger:107 - Train@id:23 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,565  INFO localLoger:107 - Train@id:22 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,565  INFO localLoger:107 - Train@id:21 from:DOMODOSSOLA to:BRIG is running.
+20:13:02,563  INFO localLoger:107 - Train@id:18 from:BRIG to:DOMODOSSOLA is running.
+20:13:02,563  INFO localLoger:107 - Train@id:17 from:DOMODOSSOLA to:BRIG is running.
+20:13:12,581  INFO localLoger:137 - Train@id:19 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:12,582  INFO localLoger:137 - Train@id:0 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:12,581  INFO localLoger:149 - Train@id:13 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:12,615  INFO localLoger:115 - Train@id:13 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:12,581  INFO localLoger:149 - Train@id:14 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:12,615  INFO localLoger:115 - Train@id:14 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:12,619  INFO localLoger:149 - Train@id:9 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:12,620  INFO localLoger:115 - Train@id:9 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:12,620  INFO localLoger:149 - Train@id:12 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:12,621  INFO localLoger:115 - Train@id:12 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:12,621  INFO localLoger:149 - Train@id:20 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:12,621  INFO localLoger:115 - Train@id:20 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:12,622  INFO localLoger:137 - Train@id:16 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:12,624  INFO localLoger:137 - Train@id:15 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:12,624  INFO localLoger:149 - Train@id:11 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:12,624  INFO localLoger:115 - Train@id:11 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:22,615  INFO localLoger:149 - Train@id:19 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,616  INFO localLoger:115 - Train@id:19 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:22,615  INFO localLoger:149 - Train@id:0 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,617  INFO localLoger:115 - Train@id:0 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:22,624  INFO localLoger:149 - Train@id:16 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,625  INFO localLoger:115 - Train@id:16 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:22,627  INFO localLoger:149 - Train@id:15 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,628  INFO localLoger:115 - Train@id:15 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:22,639  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:13:22,639  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+20:13:22,646  INFO localLoger:111 - Train@id:4 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,647  INFO localLoger:137 - Train@id:4 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,648  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:13:22,648  INFO localLoger:111 - Train@id:5 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,655  INFO localLoger:137 - Train@id:5 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,655  INFO localLoger:111 - Train@id:27 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,656  INFO localLoger:137 - Train@id:27 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,650  INFO localLoger:111 - Train@id:3 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,657  INFO localLoger:137 - Train@id:3 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,655  INFO localLoger:111 - Train@id:22 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,659  INFO localLoger:111 - Train@id:2 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,659  INFO localLoger:111 - Train@id:10 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,669  INFO localLoger:137 - Train@id:22 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,655  INFO localLoger:111 - Train@id:23 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,655  INFO localLoger:111 - Train@id:17 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,659  INFO localLoger:137 - Train@id:2 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,674  INFO localLoger:111 - Train@id:6 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:22,756  INFO localLoger:111 - Train@id:29 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,757  INFO localLoger:111 - Train@id:1 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,757  INFO localLoger:111 - Train@id:21 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,760  INFO localLoger:111 - Train@id:7 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:22,762  INFO localLoger:111 - Train@id:25 from:DOMODOSSOLA to:BRIG obtain permission to pass in the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:32,648  INFO localLoger:137 - Train@id:10 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:32,648  INFO localLoger:149 - Train@id:4 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:32,648  INFO localLoger:115 - Train@id:4 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:32,656  INFO localLoger:149 - Train@id:5 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:32,656  INFO localLoger:137 - Train@id:23 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:32,656  INFO localLoger:115 - Train@id:5 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:32,657  INFO localLoger:149 - Train@id:27 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:32,657  INFO localLoger:137 - Train@id:17 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:32,657  INFO localLoger:115 - Train@id:27 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:32,657  INFO localLoger:149 - Train@id:3 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:32,657  INFO localLoger:137 - Train@id:29 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:32,657  INFO localLoger:115 - Train@id:3 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:32,670  INFO localLoger:149 - Train@id:22 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:32,671  INFO localLoger:115 - Train@id:22 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:32,670  INFO localLoger:137 - Train@id:6 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:32,673  INFO localLoger:149 - Train@id:2 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:32,673  INFO localLoger:115 - Train@id:2 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:42,649  INFO localLoger:149 - Train@id:10 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:42,650  INFO localLoger:115 - Train@id:10 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:42,658  INFO localLoger:149 - Train@id:17 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:42,658  INFO localLoger:115 - Train@id:17 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:42,659  INFO localLoger:149 - Train@id:23 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:42,659  INFO localLoger:115 - Train@id:23 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:42,659  INFO localLoger:149 - Train@id:29 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:42,659  INFO localLoger:137 - Train@id:7 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:42,658  INFO localLoger:137 - Train@id:1 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:42,659  INFO localLoger:115 - Train@id:29 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:42,659  INFO localLoger:137 - Train@id:21 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:42,672  INFO localLoger:149 - Train@id:6 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:42,673  INFO localLoger:115 - Train@id:6 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:42,673  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+20:13:42,776  INFO localLoger:111 - Train@id:18 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:42,777  INFO localLoger:111 - Train@id:8 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:42,776  INFO localLoger:111 - Train@id:28 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:42,778  INFO localLoger:137 - Train@id:28 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:42,778  INFO localLoger:137 - Train@id:8 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:42,777  INFO localLoger:111 - Train@id:24 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:42,777  INFO localLoger:111 - Train@id:26 from:BRIG to:DOMODOSSOLA obtain permission to pass in the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:42,777  INFO localLoger:137 - Train@id:18 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:52,661  INFO localLoger:149 - Train@id:21 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:52,661  INFO localLoger:137 - Train@id:25 from:DOMODOSSOLA to:BRIG enter the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:52,661  INFO localLoger:149 - Train@id:7 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:52,661  INFO localLoger:115 - Train@id:21 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:52,661  INFO localLoger:149 - Train@id:1 from:DOMODOSSOLA to:BRIG exit the Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:13:52,661  INFO localLoger:115 - Train@id:7 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:52,662  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77 complite.
+20:13:52,662  INFO localLoger:115 - Train@id:1 from:DOMODOSSOLA to:BRIG movement finished.
+20:13:52,779  INFO localLoger:149 - Train@id:28 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:52,779  INFO localLoger:115 - Train@id:28 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:52,779  INFO localLoger:149 - Train@id:8 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:52,779  INFO localLoger:115 - Train@id:8 from:BRIG to:DOMODOSSOLA movement finished.
+20:13:52,779  INFO localLoger:137 - Train@id:24 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:52,780  INFO localLoger:137 - Train@id:26 from:BRIG to:DOMODOSSOLA enter the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:52,780  INFO localLoger:149 - Train@id:18 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:13:52,780  INFO localLoger:115 - Train@id:18 from:BRIG to:DOMODOSSOLA movement finished.
+20:14:02,663  INFO localLoger:151 - java.lang.NullPointerException
+20:14:02,666  INFO localLoger:152 - ERROR TRAIN: Train@id:25 from:DOMODOSSOLA to:BRIG
+20:14:02,666  INFO localLoger:153 - ERROR TUNNEL: Tunnel@id:1 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@506e1b77
+20:14:02,666  INFO localLoger:115 - Train@id:25 from:DOMODOSSOLA to:BRIG movement finished.
+20:14:02,780  INFO localLoger:149 - Train@id:26 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:14:02,781  INFO localLoger:115 - Train@id:26 from:BRIG to:DOMODOSSOLA movement finished.
+20:14:02,781  INFO localLoger:149 - Train@id:24 from:BRIG to:DOMODOSSOLA exit the Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d
+20:14:02,781  INFO localLoger:115 - Train@id:24 from:BRIG to:DOMODOSSOLA movement finished.
+20:14:02,781  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel@id:2 point1:BRIG point2:DOMODOSSOLA control: by.epam.task04.entity.TunnelControlSystem@4fca772d complite.
+20:16:18,875  INFO localLoger:109 - Train_1 is running.
+20:16:18,879  INFO localLoger:109 - Train_29 is running.
+20:16:18,879  INFO localLoger:109 - Train_28 is running.
+20:16:18,878  INFO localLoger:109 - Train_27 is running.
+20:16:18,878  INFO localLoger:109 - Train_26 is running.
+20:16:18,878  INFO localLoger:109 - Train_25 is running.
+20:16:18,878  INFO localLoger:109 - Train_24 is running.
+20:16:18,878  INFO localLoger:109 - Train_23 is running.
+20:16:18,878  INFO localLoger:109 - Train_22 is running.
+20:16:18,887  INFO localLoger:113 - Train_22 obtain permission to pass in the Tunnel_1
+20:16:18,887  INFO localLoger:137 - Train_22 enter the Tunnel_1
+20:16:18,877  INFO localLoger:109 - Train_21 is running.
+20:16:18,877  INFO localLoger:109 - Train_20 is running.
+20:16:18,887  INFO localLoger:113 - Train_20 obtain permission to pass in the Tunnel_1
+20:16:18,888  INFO localLoger:137 - Train_20 enter the Tunnel_1
+20:16:18,877  INFO localLoger:109 - Train_19 is running.
+20:16:18,877  INFO localLoger:109 - Train_18 is running.
+20:16:18,877  INFO localLoger:109 - Train_17 is running.
+20:16:18,877  INFO localLoger:109 - Train_16 is running.
+20:16:18,877  INFO localLoger:109 - Train_15 is running.
+20:16:18,877  INFO localLoger:109 - Train_14 is running.
+20:16:18,877  INFO localLoger:109 - Train_13 is running.
+20:16:18,877  INFO localLoger:109 - Train_12 is running.
+20:16:18,876  INFO localLoger:109 - Train_11 is running.
+20:16:18,876  INFO localLoger:109 - Train_10 is running.
+20:16:18,876  INFO localLoger:109 - Train_9 is running.
+20:16:18,876  INFO localLoger:109 - Train_2 is running.
+20:16:18,876  INFO localLoger:109 - Train_3 is running.
+20:16:18,876  INFO localLoger:109 - Train_4 is running.
+20:16:18,876  INFO localLoger:109 - Train_5 is running.
+20:16:18,876  INFO localLoger:109 - Train_6 is running.
+20:16:18,875  INFO localLoger:109 - Train_0 is running.
+20:16:18,875  INFO localLoger:109 - Train_8 is running.
+20:16:18,875  INFO localLoger:109 - Train_7 is running.
+20:16:18,886  INFO localLoger:113 - Train_23 obtain permission to pass in the Tunnel_2
+20:16:18,938  INFO localLoger:137 - Train_23 enter the Tunnel_2
+20:16:18,886  INFO localLoger:113 - Train_24 obtain permission to pass in the Tunnel_1
+20:16:18,947  INFO localLoger:137 - Train_24 enter the Tunnel_1
+20:16:18,886  INFO localLoger:113 - Train_25 obtain permission to pass in the Tunnel_2
+20:16:18,948  INFO localLoger:137 - Train_25 enter the Tunnel_2
+20:16:18,886  INFO localLoger:113 - Train_27 obtain permission to pass in the Tunnel_2
+20:16:19,055  INFO localLoger:137 - Train_27 enter the Tunnel_2
+20:16:18,886  INFO localLoger:113 - Train_29 obtain permission to pass in the Tunnel_2
+20:16:18,886  INFO localLoger:113 - Train_1 obtain permission to pass in the Tunnel_2
+20:16:18,885  INFO localLoger:113 - Train_28 obtain permission to pass in the Tunnel_1
+20:16:18,885  INFO localLoger:113 - Train_26 obtain permission to pass in the Tunnel_1
+20:16:28,888  INFO localLoger:149 - Train_22 exit the Tunnel_1
+20:16:28,889  INFO localLoger:117 - Train_22 movement finished.
+20:16:28,889  INFO localLoger:149 - Train_20 exit the Tunnel_1
+20:16:28,889  INFO localLoger:117 - Train_20 movement finished.
+20:16:28,889  INFO localLoger:137 - Train_28 enter the Tunnel_1
+20:16:28,893  INFO localLoger:137 - Train_26 enter the Tunnel_1
+20:16:28,939  INFO localLoger:149 - Train_23 exit the Tunnel_2
+20:16:28,940  INFO localLoger:117 - Train_23 movement finished.
+20:16:28,939  INFO localLoger:137 - Train_29 enter the Tunnel_2
+20:16:28,948  INFO localLoger:149 - Train_24 exit the Tunnel_1
+20:16:28,949  INFO localLoger:117 - Train_24 movement finished.
+20:16:29,055  INFO localLoger:149 - Train_25 exit the Tunnel_2
+20:16:29,055  INFO localLoger:117 - Train_25 movement finished.
+20:16:29,056  INFO localLoger:137 - Train_1 enter the Tunnel_2
+20:16:29,056  INFO localLoger:149 - Train_27 exit the Tunnel_2
+20:16:29,056  INFO localLoger:117 - Train_27 movement finished.
+20:16:38,932  INFO localLoger:149 - Train_28 exit the Tunnel_1
+20:16:38,932  INFO localLoger:117 - Train_28 movement finished.
+20:16:38,932  INFO localLoger:149 - Train_26 exit the Tunnel_1
+20:16:38,933  INFO localLoger:117 - Train_26 movement finished.
+20:16:38,933  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+20:16:38,938  INFO localLoger:113 - Train_11 obtain permission to pass in the Tunnel_1
+20:16:38,939  INFO localLoger:137 - Train_11 enter the Tunnel_1
+20:16:38,941  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_1 complite.
+20:16:38,942  INFO localLoger:149 - Train_29 exit the Tunnel_2
+20:16:38,942  INFO localLoger:113 - Train_15 obtain permission to pass in the Tunnel_1
+20:16:38,942  INFO localLoger:117 - Train_29 movement finished.
+20:16:38,943  INFO localLoger:113 - Train_13 obtain permission to pass in the Tunnel_1
+20:16:38,943  INFO localLoger:137 - Train_13 enter the Tunnel_1
+20:16:38,943  INFO localLoger:113 - Train_5 obtain permission to pass in the Tunnel_1
+20:16:38,943  INFO localLoger:113 - Train_7 obtain permission to pass in the Tunnel_1
+20:16:38,943  INFO localLoger:137 - Train_15 enter the Tunnel_1
+20:16:39,043  INFO localLoger:113 - Train_17 obtain permission to pass in the Tunnel_1
+20:16:39,046  INFO localLoger:113 - Train_21 obtain permission to pass in the Tunnel_1
+20:16:39,047  INFO localLoger:113 - Train_9 obtain permission to pass in the Tunnel_1
+20:16:39,048  INFO localLoger:113 - Train_3 obtain permission to pass in the Tunnel_1
+20:16:39,047  INFO localLoger:113 - Train_19 obtain permission to pass in the Tunnel_1
+20:16:39,059  INFO localLoger:149 - Train_1 exit the Tunnel_2
+20:16:39,059  INFO localLoger:117 - Train_1 movement finished.
+20:16:39,060  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_2 complite.
+20:16:39,062  INFO localLoger:113 - Train_10 obtain permission to pass in the Tunnel_2
+20:16:39,062  INFO localLoger:137 - Train_10 enter the Tunnel_2
+20:16:39,064  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:16:39,065  INFO localLoger:113 - Train_8 obtain permission to pass in the Tunnel_2
+20:16:39,066  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:16:39,068  INFO localLoger:113 - Train_14 obtain permission to pass in the Tunnel_2
+20:16:39,069  INFO localLoger:137 - Train_14 enter the Tunnel_2
+20:16:39,070  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:16:39,071  INFO localLoger:113 - Train_12 obtain permission to pass in the Tunnel_2
+20:16:39,068  INFO localLoger:137 - Train_8 enter the Tunnel_2
+20:16:39,071  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:16:39,073  INFO localLoger:113 - Train_18 obtain permission to pass in the Tunnel_2
+20:16:39,166  INFO localLoger:113 - Train_2 obtain permission to pass in the Tunnel_2
+20:16:39,166  INFO localLoger:113 - Train_6 obtain permission to pass in the Tunnel_2
+20:16:39,166  INFO localLoger:113 - Train_4 obtain permission to pass in the Tunnel_2
+20:16:39,166  INFO localLoger:113 - Train_16 obtain permission to pass in the Tunnel_2
+20:16:39,166  INFO localLoger:113 - Train_0 obtain permission to pass in the Tunnel_2
+20:16:48,940  INFO localLoger:149 - Train_11 exit the Tunnel_1
+20:16:48,940  INFO localLoger:137 - Train_5 enter the Tunnel_1
+20:16:48,940  INFO localLoger:117 - Train_11 movement finished.
+20:16:48,944  INFO localLoger:149 - Train_15 exit the Tunnel_1
+20:16:48,944  INFO localLoger:117 - Train_15 movement finished.
+20:16:48,944  INFO localLoger:137 - Train_7 enter the Tunnel_1
+20:16:48,944  INFO localLoger:149 - Train_13 exit the Tunnel_1
+20:16:48,945  INFO localLoger:117 - Train_13 movement finished.
+20:16:48,945  INFO localLoger:137 - Train_17 enter the Tunnel_1
+20:16:49,063  INFO localLoger:149 - Train_10 exit the Tunnel_2
+20:16:49,063  INFO localLoger:137 - Train_12 enter the Tunnel_2
+20:16:49,064  INFO localLoger:117 - Train_10 movement finished.
+20:16:49,070  INFO localLoger:137 - Train_18 enter the Tunnel_2
+20:16:49,070  INFO localLoger:149 - Train_14 exit the Tunnel_2
+20:16:49,071  INFO localLoger:117 - Train_14 movement finished.
+20:16:49,074  INFO localLoger:149 - Train_8 exit the Tunnel_2
+20:16:49,074  INFO localLoger:137 - Train_2 enter the Tunnel_2
+20:16:49,074  INFO localLoger:117 - Train_8 movement finished.
+20:16:58,942  INFO localLoger:149 - Train_5 exit the Tunnel_1
+20:16:58,942  INFO localLoger:117 - Train_5 movement finished.
+20:16:58,942  INFO localLoger:137 - Train_21 enter the Tunnel_1
+20:16:58,945  INFO localLoger:137 - Train_9 enter the Tunnel_1
+20:16:58,945  INFO localLoger:149 - Train_7 exit the Tunnel_1
+20:16:58,946  INFO localLoger:117 - Train_7 movement finished.
+20:16:58,946  INFO localLoger:137 - Train_3 enter the Tunnel_1
+20:16:58,946  INFO localLoger:149 - Train_17 exit the Tunnel_1
+20:16:58,947  INFO localLoger:117 - Train_17 movement finished.
+20:16:59,065  INFO localLoger:149 - Train_12 exit the Tunnel_2
+20:16:59,065  INFO localLoger:137 - Train_6 enter the Tunnel_2
+20:16:59,066  INFO localLoger:117 - Train_12 movement finished.
+20:16:59,072  INFO localLoger:137 - Train_4 enter the Tunnel_2
+20:16:59,072  INFO localLoger:149 - Train_18 exit the Tunnel_2
+20:16:59,073  INFO localLoger:117 - Train_18 movement finished.
+20:16:59,075  INFO localLoger:149 - Train_2 exit the Tunnel_2
+20:16:59,075  INFO localLoger:117 - Train_2 movement finished.
+20:16:59,075  INFO localLoger:137 - Train_16 enter the Tunnel_2
+20:16:59,075  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:17:08,944  INFO localLoger:149 - Train_21 exit the Tunnel_1
+20:17:08,944  INFO localLoger:137 - Train_19 enter the Tunnel_1
+20:17:08,944  INFO localLoger:117 - Train_21 movement finished.
+20:17:08,947  INFO localLoger:149 - Train_9 exit the Tunnel_1
+20:17:08,947  INFO localLoger:117 - Train_9 movement finished.
+20:17:08,947  INFO localLoger:149 - Train_3 exit the Tunnel_1
+20:17:08,948  INFO localLoger:117 - Train_3 movement finished.
+20:17:08,948  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_1 complite.
+20:17:09,067  INFO localLoger:137 - Train_0 enter the Tunnel_2
+20:17:09,067  INFO localLoger:151 - java.lang.NullPointerException
+20:17:09,068  INFO localLoger:152 - ERROR TRAIN: Train_6
+20:17:09,068  INFO localLoger:153 - ERROR TUNNEL: Tunnel_2
+20:17:09,068  INFO localLoger:117 - Train_6 movement finished.
+20:17:09,073  INFO localLoger:151 - java.lang.NullPointerException
+20:17:09,074  INFO localLoger:152 - ERROR TRAIN: Train_4
+20:17:09,074  INFO localLoger:153 - ERROR TUNNEL: Tunnel_2
+20:17:09,074  INFO localLoger:117 - Train_4 movement finished.
+20:17:09,076  INFO localLoger:151 - java.lang.NullPointerException
+20:17:09,077  INFO localLoger:152 - ERROR TRAIN: Train_16
+20:17:09,077  INFO localLoger:153 - ERROR TUNNEL: Tunnel_2
+20:17:09,077  INFO localLoger:117 - Train_16 movement finished.
+20:17:18,945  INFO localLoger:151 - java.lang.NullPointerException
+20:17:18,946  INFO localLoger:152 - ERROR TRAIN: Train_19
+20:17:18,946  INFO localLoger:153 - ERROR TUNNEL: Tunnel_1
+20:17:18,946  INFO localLoger:117 - Train_19 movement finished.
+20:17:19,068  INFO localLoger:151 - java.lang.NullPointerException
+20:17:19,069  INFO localLoger:152 - ERROR TRAIN: Train_0
+20:17:19,069  INFO localLoger:153 - ERROR TUNNEL: Tunnel_2
+20:17:19,069  INFO localLoger:117 - Train_0 movement finished.
+20:18:37,393  INFO localLoger:109 - Train_0 is running.
+20:18:37,399  INFO localLoger:109 - Train_17 is running.
+20:18:37,399  INFO localLoger:109 - Train_16 is running.
+20:18:37,399  INFO localLoger:109 - Train_15 is running.
+20:18:37,399  INFO localLoger:109 - Train_14 is running.
+20:18:37,403  INFO localLoger:113 - Train_14 obtain permission to pass in the Tunnel_1
+20:18:37,398  INFO localLoger:109 - Train_13 is running.
+20:18:37,398  INFO localLoger:109 - Train_12 is running.
+20:18:37,398  INFO localLoger:109 - Train_10 is running.
+20:18:37,398  INFO localLoger:109 - Train_11 is running.
+20:18:37,397  INFO localLoger:109 - Train_9 is running.
+20:18:37,397  INFO localLoger:109 - Train_6 is running.
+20:18:37,397  INFO localLoger:109 - Train_8 is running.
+20:18:37,396  INFO localLoger:109 - Train_7 is running.
+20:18:37,395  INFO localLoger:109 - Train_5 is running.
+20:18:37,395  INFO localLoger:109 - Train_4 is running.
+20:18:37,394  INFO localLoger:109 - Train_2 is running.
+20:18:37,394  INFO localLoger:109 - Train_3 is running.
+20:18:37,394  INFO localLoger:109 - Train_1 is running.
+20:18:37,408  INFO localLoger:113 - Train_9 obtain permission to pass in the Tunnel_2
+20:18:37,440  INFO localLoger:137 - Train_9 enter the Tunnel_2
+20:18:37,408  INFO localLoger:113 - Train_11 obtain permission to pass in the Tunnel_2
+20:18:37,408  INFO localLoger:113 - Train_10 obtain permission to pass in the Tunnel_1
+20:18:37,474  INFO localLoger:137 - Train_10 enter the Tunnel_1
+20:18:37,408  INFO localLoger:113 - Train_12 obtain permission to pass in the Tunnel_1
+20:18:37,475  INFO localLoger:137 - Train_12 enter the Tunnel_1
+20:18:37,407  INFO localLoger:113 - Train_13 obtain permission to pass in the Tunnel_2
+20:18:37,476  INFO localLoger:137 - Train_13 enter the Tunnel_2
+20:18:37,407  INFO localLoger:137 - Train_14 enter the Tunnel_1
+20:18:37,405  INFO localLoger:109 - Train_29 is running.
+20:18:37,405  INFO localLoger:109 - Train_28 is running.
+20:18:37,405  INFO localLoger:109 - Train_27 is running.
+20:18:37,405  INFO localLoger:109 - Train_26 is running.
+20:18:37,405  INFO localLoger:109 - Train_25 is running.
+20:18:37,405  INFO localLoger:109 - Train_24 is running.
+20:18:37,405  INFO localLoger:109 - Train_23 is running.
+20:18:37,405  INFO localLoger:109 - Train_22 is running.
+20:18:37,404  INFO localLoger:109 - Train_21 is running.
+20:18:37,404  INFO localLoger:109 - Train_20 is running.
+20:18:37,404  INFO localLoger:109 - Train_19 is running.
+20:18:37,404  INFO localLoger:109 - Train_18 is running.
+20:18:37,404  INFO localLoger:113 - Train_17 obtain permission to pass in the Tunnel_2
+20:18:37,404  INFO localLoger:113 - Train_16 obtain permission to pass in the Tunnel_1
+20:18:37,403  INFO localLoger:113 - Train_0 obtain permission to pass in the Tunnel_1
+20:18:37,403  INFO localLoger:113 - Train_15 obtain permission to pass in the Tunnel_2
+20:18:37,474  INFO localLoger:137 - Train_11 enter the Tunnel_2
+20:18:47,442  INFO localLoger:149 - Train_9 exit the Tunnel_2
+20:18:47,442  INFO localLoger:117 - Train_9 movement finished.
+20:18:47,442  INFO localLoger:137 - Train_17 enter the Tunnel_2
+20:18:47,476  INFO localLoger:149 - Train_10 exit the Tunnel_1
+20:18:47,476  INFO localLoger:117 - Train_10 movement finished.
+20:18:47,476  INFO localLoger:137 - Train_16 enter the Tunnel_1
+20:18:47,478  INFO localLoger:149 - Train_12 exit the Tunnel_1
+20:18:47,478  INFO localLoger:137 - Train_0 enter the Tunnel_1
+20:18:47,479  INFO localLoger:137 - Train_15 enter the Tunnel_2
+20:18:47,478  INFO localLoger:149 - Train_14 exit the Tunnel_1
+20:18:47,479  INFO localLoger:117 - Train_14 movement finished.
+20:18:47,478  INFO localLoger:149 - Train_13 exit the Tunnel_2
+20:18:47,480  INFO localLoger:117 - Train_13 movement finished.
+20:18:47,478  INFO localLoger:117 - Train_12 movement finished.
+20:18:47,608  INFO localLoger:149 - Train_11 exit the Tunnel_2
+20:18:47,609  INFO localLoger:117 - Train_11 movement finished.
+20:18:57,444  INFO localLoger:149 - Train_17 exit the Tunnel_2
+20:18:57,444  INFO localLoger:117 - Train_17 movement finished.
+20:18:57,478  INFO localLoger:149 - Train_16 exit the Tunnel_1
+20:18:57,478  INFO localLoger:117 - Train_16 movement finished.
+20:18:57,479  INFO localLoger:149 - Train_0 exit the Tunnel_1
+20:18:57,479  INFO localLoger:117 - Train_0 movement finished.
+20:18:57,480  INFO localLoger:149 - Train_15 exit the Tunnel_2
+20:18:57,480  INFO localLoger:117 - Train_15 movement finished.
+20:18:57,480  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_2 complite.
+20:18:57,511  INFO localLoger:113 - Train_6 obtain permission to pass in the Tunnel_2
+20:18:57,512  INFO localLoger:137 - Train_6 enter the Tunnel_2
+20:18:57,514  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:18:57,515  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+20:18:57,515  INFO localLoger:113 - Train_8 obtain permission to pass in the Tunnel_2
+20:18:57,515  INFO localLoger:137 - Train_8 enter the Tunnel_2
+20:18:57,516  INFO localLoger:113 - Train_23 obtain permission to pass in the Tunnel_1
+20:18:57,516  INFO localLoger:137 - Train_23 enter the Tunnel_1
+20:18:57,532  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_1 complite.
+20:18:57,534  INFO localLoger:113 - Train_25 obtain permission to pass in the Tunnel_1
+20:18:57,535  INFO localLoger:137 - Train_25 enter the Tunnel_1
+20:18:57,575  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:18:57,580  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_1 complite.
+20:18:57,592  INFO localLoger:113 - Train_7 obtain permission to pass in the Tunnel_1
+20:18:57,592  INFO localLoger:137 - Train_7 enter the Tunnel_1
+20:18:57,615  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_1 complite.
+20:18:57,616  INFO localLoger:113 - Train_2 obtain permission to pass in the Tunnel_2
+20:18:57,616  INFO localLoger:137 - Train_2 enter the Tunnel_2
+20:18:57,617  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:18:57,617  INFO localLoger:113 - Train_3 obtain permission to pass in the Tunnel_1
+20:18:57,618  INFO localLoger:113 - Train_19 obtain permission to pass in the Tunnel_2
+20:18:57,624  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_2 complite.
+20:18:57,625  INFO localLoger:113 - Train_1 obtain permission to pass in the Tunnel_2
+20:18:57,626  INFO localLoger:113 - Train_27 obtain permission to pass in the Tunnel_2
+20:18:57,626  INFO localLoger:113 - Train_5 obtain permission to pass in the Tunnel_2
+20:18:57,626  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_1 complite.
+20:18:57,627  INFO localLoger:113 - Train_21 obtain permission to pass in the Tunnel_1
+20:18:57,627  INFO localLoger:113 - Train_29 obtain permission to pass in the Tunnel_1
+20:19:07,514  INFO localLoger:149 - Train_6 exit the Tunnel_2
+20:19:07,514  INFO localLoger:137 - Train_19 enter the Tunnel_2
+20:19:07,514  INFO localLoger:117 - Train_6 movement finished.
+20:19:07,516  INFO localLoger:149 - Train_8 exit the Tunnel_2
+20:19:07,516  INFO localLoger:117 - Train_8 movement finished.
+20:19:07,517  INFO localLoger:137 - Train_3 enter the Tunnel_1
+20:19:07,516  INFO localLoger:149 - Train_23 exit the Tunnel_1
+20:19:07,516  INFO localLoger:137 - Train_1 enter the Tunnel_2
+20:19:07,518  INFO localLoger:117 - Train_23 movement finished.
+20:19:07,544  INFO localLoger:149 - Train_25 exit the Tunnel_1
+20:19:07,544  INFO localLoger:137 - Train_21 enter the Tunnel_1
+20:19:07,544  INFO localLoger:117 - Train_25 movement finished.
+20:19:07,545  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_1 complite.
+20:19:07,546  INFO localLoger:113 - Train_24 obtain permission to pass in the Tunnel_1
+20:19:07,547  INFO localLoger:113 - Train_4 obtain permission to pass in the Tunnel_1
+20:19:07,547  INFO localLoger:113 - Train_26 obtain permission to pass in the Tunnel_1
+20:19:07,550  INFO localLoger:113 - Train_28 obtain permission to pass in the Tunnel_1
+20:19:07,551  INFO localLoger:113 - Train_20 obtain permission to pass in the Tunnel_1
+20:19:07,594  INFO localLoger:149 - Train_7 exit the Tunnel_1
+20:19:07,594  INFO localLoger:137 - Train_29 enter the Tunnel_1
+20:19:07,594  INFO localLoger:117 - Train_7 movement finished.
+20:19:07,617  INFO localLoger:149 - Train_2 exit the Tunnel_2
+20:19:07,617  INFO localLoger:137 - Train_27 enter the Tunnel_2
+20:19:07,618  INFO localLoger:117 - Train_2 movement finished.
+20:19:07,618  INFO localLoger:112 - Phase mooving to the BRIG in Tunnel_2 complite.
+20:19:07,619  INFO localLoger:113 - Train_18 obtain permission to pass in the Tunnel_2
+20:19:07,619  INFO localLoger:113 - Train_22 obtain permission to pass in the Tunnel_2
+20:19:17,516  INFO localLoger:137 - Train_5 enter the Tunnel_2
+20:19:17,516  INFO localLoger:149 - Train_19 exit the Tunnel_2
+20:19:17,516  INFO localLoger:117 - Train_19 movement finished.
+20:19:17,518  INFO localLoger:137 - Train_24 enter the Tunnel_1
+20:19:17,518  INFO localLoger:149 - Train_3 exit the Tunnel_1
+20:19:17,519  INFO localLoger:117 - Train_3 movement finished.
+20:19:17,519  INFO localLoger:149 - Train_1 exit the Tunnel_2
+20:19:17,519  INFO localLoger:117 - Train_1 movement finished.
+20:19:17,520  INFO localLoger:137 - Train_18 enter the Tunnel_2
+20:19:17,520  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:19:17,546  INFO localLoger:149 - Train_21 exit the Tunnel_1
+20:19:17,546  INFO localLoger:137 - Train_4 enter the Tunnel_1
+20:19:17,546  INFO localLoger:117 - Train_21 movement finished.
+20:19:17,594  INFO localLoger:149 - Train_29 exit the Tunnel_1
+20:19:17,594  INFO localLoger:137 - Train_26 enter the Tunnel_1
+20:19:17,595  INFO localLoger:117 - Train_29 movement finished.
+20:19:17,619  INFO localLoger:137 - Train_22 enter the Tunnel_2
+20:19:17,619  INFO localLoger:151 - java.lang.NullPointerException
+20:19:17,620  INFO localLoger:152 - ERROR TRAIN: Train_27
+20:19:17,620  INFO localLoger:153 - ERROR TUNNEL: Tunnel_2
+20:19:17,620  INFO localLoger:117 - Train_27 movement finished.
+20:19:27,517  INFO localLoger:151 - java.lang.NullPointerException
+20:19:27,518  INFO localLoger:152 - ERROR TRAIN: Train_5
+20:19:27,518  INFO localLoger:153 - ERROR TUNNEL: Tunnel_2
+20:19:27,518  INFO localLoger:117 - Train_5 movement finished.
+20:19:27,519  INFO localLoger:149 - Train_24 exit the Tunnel_1
+20:19:27,519  INFO localLoger:137 - Train_28 enter the Tunnel_1
+20:19:27,519  INFO localLoger:112 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+20:19:27,519  INFO localLoger:117 - Train_24 movement finished.
+20:19:27,521  INFO localLoger:151 - java.lang.NullPointerException
+20:19:27,521  INFO localLoger:152 - ERROR TRAIN: Train_18
+20:19:27,521  INFO localLoger:153 - ERROR TUNNEL: Tunnel_2
+20:19:27,521  INFO localLoger:117 - Train_18 movement finished.
+20:19:27,548  INFO localLoger:137 - Train_20 enter the Tunnel_1
+20:19:27,548  INFO localLoger:151 - java.lang.NullPointerException
+20:19:27,549  INFO localLoger:152 - ERROR TRAIN: Train_4
+20:19:27,549  INFO localLoger:153 - ERROR TUNNEL: Tunnel_1
+20:19:27,549  INFO localLoger:117 - Train_4 movement finished.
+20:19:27,596  INFO localLoger:151 - java.lang.NullPointerException
+20:19:27,597  INFO localLoger:152 - ERROR TRAIN: Train_26
+20:19:27,597  INFO localLoger:153 - ERROR TUNNEL: Tunnel_1
+20:19:27,597  INFO localLoger:117 - Train_26 movement finished.
+20:19:27,620  INFO localLoger:151 - java.lang.NullPointerException
+20:19:27,621  INFO localLoger:152 - ERROR TRAIN: Train_22
+20:19:27,621  INFO localLoger:153 - ERROR TUNNEL: Tunnel_2
+20:19:27,621  INFO localLoger:117 - Train_22 movement finished.
+20:19:37,521  INFO localLoger:151 - java.lang.NullPointerException
+20:19:37,521  INFO localLoger:152 - ERROR TRAIN: Train_28
+20:19:37,521  INFO localLoger:153 - ERROR TUNNEL: Tunnel_1
+20:19:37,521  INFO localLoger:117 - Train_28 movement finished.
+20:19:37,550  INFO localLoger:151 - java.lang.NullPointerException
+20:19:37,550  INFO localLoger:152 - ERROR TRAIN: Train_20
+20:19:37,551  INFO localLoger:153 - ERROR TUNNEL: Tunnel_1
+20:19:37,551  INFO localLoger:117 - Train_20 movement finished.
+20:27:26,888  INFO localLoger:109 - Train_0 is running.
+20:27:26,893  INFO localLoger:109 - Train_19 is running.
+20:27:26,892  INFO localLoger:109 - Train_18 is running.
+20:27:26,892  INFO localLoger:109 - Train_17 is running.
+20:27:26,892  INFO localLoger:109 - Train_16 is running.
+20:27:26,892  INFO localLoger:109 - Train_15 is running.
+20:27:26,888  INFO localLoger:109 - Train_1 is running.
+20:27:26,892  INFO localLoger:109 - Train_14 is running.
+20:27:26,899  INFO localLoger:113 - Train_14 obtain permission to pass in the Tunnel_2
+20:27:26,892  INFO localLoger:109 - Train_13 is running.
+20:27:26,892  INFO localLoger:109 - Train_12 is running.
+20:27:26,900  INFO localLoger:113 - Train_12 obtain permission to pass in the Tunnel_2
+20:27:26,900  INFO localLoger:134 - Train_12 enter the Tunnel_2
+20:27:26,892  INFO localLoger:109 - Train_11 is running.
+20:27:26,892  INFO localLoger:109 - Train_10 is running.
+20:27:26,892  INFO localLoger:109 - Train_9 is running.
+20:27:26,891  INFO localLoger:109 - Train_8 is running.
+20:27:26,891  INFO localLoger:109 - Train_7 is running.
+20:27:26,891  INFO localLoger:109 - Train_6 is running.
+20:27:26,891  INFO localLoger:109 - Train_5 is running.
+20:27:26,890  INFO localLoger:109 - Train_4 is running.
+20:27:26,890  INFO localLoger:109 - Train_3 is running.
+20:27:26,889  INFO localLoger:109 - Train_2 is running.
+20:27:26,900  INFO localLoger:113 - Train_13 obtain permission to pass in the Tunnel_1
+20:27:26,956  INFO localLoger:134 - Train_13 enter the Tunnel_1
+20:27:26,900  INFO localLoger:134 - Train_14 enter the Tunnel_2
+20:27:26,899  INFO localLoger:113 - Train_1 obtain permission to pass in the Tunnel_1
+20:27:26,957  INFO localLoger:134 - Train_1 enter the Tunnel_1
+20:27:26,899  INFO localLoger:113 - Train_15 obtain permission to pass in the Tunnel_1
+20:27:26,958  INFO localLoger:134 - Train_15 enter the Tunnel_1
+20:27:26,898  INFO localLoger:109 - Train_29 is running.
+20:27:26,898  INFO localLoger:109 - Train_28 is running.
+20:27:26,897  INFO localLoger:109 - Train_27 is running.
+20:27:26,897  INFO localLoger:109 - Train_26 is running.
+20:27:26,896  INFO localLoger:113 - Train_0 obtain permission to pass in the Tunnel_2
+20:27:26,896  INFO localLoger:109 - Train_25 is running.
+20:27:26,896  INFO localLoger:113 - Train_18 obtain permission to pass in the Tunnel_2
+20:27:26,896  INFO localLoger:113 - Train_16 obtain permission to pass in the Tunnel_2
+20:27:26,896  INFO localLoger:113 - Train_17 obtain permission to pass in the Tunnel_1
+20:27:26,896  INFO localLoger:109 - Train_24 is running.
+20:27:26,896  INFO localLoger:109 - Train_23 is running.
+20:27:26,896  INFO localLoger:109 - Train_22 is running.
+20:27:26,896  INFO localLoger:113 - Train_19 obtain permission to pass in the Tunnel_1
+20:27:26,895  INFO localLoger:109 - Train_21 is running.
+20:27:26,893  INFO localLoger:109 - Train_20 is running.
+20:27:27,005  INFO localLoger:134 - Train_0 enter the Tunnel_2
+20:27:36,902  INFO localLoger:146 - Train_12 exit the Tunnel_2
+20:27:36,902  INFO localLoger:117 - Train_12 movement finished.
+20:27:36,902  INFO localLoger:134 - Train_18 enter the Tunnel_2
+20:27:36,957  INFO localLoger:146 - Train_13 exit the Tunnel_1
+20:27:36,958  INFO localLoger:117 - Train_13 movement finished.
+20:27:36,959  INFO localLoger:146 - Train_14 exit the Tunnel_2
+20:27:36,959  INFO localLoger:117 - Train_14 movement finished.
+20:27:36,959  INFO localLoger:146 - Train_1 exit the Tunnel_1
+20:27:36,959  INFO localLoger:117 - Train_1 movement finished.
+20:27:36,966  INFO localLoger:134 - Train_17 enter the Tunnel_1
+20:27:36,966  INFO localLoger:146 - Train_15 exit the Tunnel_1
+20:27:36,966  INFO localLoger:117 - Train_15 movement finished.
+20:27:36,967  INFO localLoger:134 - Train_16 enter the Tunnel_2
+20:27:36,967  INFO localLoger:134 - Train_19 enter the Tunnel_1
+20:27:37,173  INFO localLoger:146 - Train_0 exit the Tunnel_2
+20:27:37,173  INFO localLoger:117 - Train_0 movement finished.
+20:27:46,903  INFO localLoger:146 - Train_18 exit the Tunnel_2
+20:27:46,903  INFO localLoger:117 - Train_18 movement finished.
+20:27:46,968  INFO localLoger:146 - Train_16 exit the Tunnel_2
+20:27:46,969  INFO localLoger:117 - Train_16 movement finished.
+20:27:46,969  INFO localLoger:146 - Train_19 exit the Tunnel_1
+20:27:46,969  INFO localLoger:117 - Train_19 movement finished.
+20:27:46,970  INFO localLoger:146 - Train_17 exit the Tunnel_1
+20:27:46,970  INFO localLoger:117 - Train_17 movement finished.
+20:27:46,970  INFO localLoger:109 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:27:46,970  INFO localLoger:109 - Phase mooving to the BRIG in Tunnel_1 complite.
+20:27:46,974  INFO localLoger:113 - Train_10 obtain permission to pass in the Tunnel_1
+20:27:46,974  INFO localLoger:134 - Train_10 enter the Tunnel_1
+20:27:46,980  INFO localLoger:113 - Train_24 obtain permission to pass in the Tunnel_1
+20:27:46,982  INFO localLoger:134 - Train_24 enter the Tunnel_1
+20:27:46,982  INFO localLoger:113 - Train_4 obtain permission to pass in the Tunnel_1
+20:27:46,982  INFO localLoger:134 - Train_4 enter the Tunnel_1
+20:27:46,984  INFO localLoger:113 - Train_28 obtain permission to pass in the Tunnel_1
+20:27:46,985  INFO localLoger:113 - Train_8 obtain permission to pass in the Tunnel_1
+20:27:46,996  INFO localLoger:113 - Train_29 obtain permission to pass in the Tunnel_2
+20:27:46,996  INFO localLoger:134 - Train_29 enter the Tunnel_2
+20:27:47,017  INFO localLoger:109 - Phase mooving to the BRIG in Tunnel_2 complite.
+20:27:47,027  INFO localLoger:113 - Train_3 obtain permission to pass in the Tunnel_2
+20:27:47,028  INFO localLoger:134 - Train_3 enter the Tunnel_2
+20:27:47,037  INFO localLoger:109 - Phase mooving to the BRIG in Tunnel_2 complite.
+20:27:47,037  INFO localLoger:113 - Train_9 obtain permission to pass in the Tunnel_2
+20:27:47,038  INFO localLoger:134 - Train_9 enter the Tunnel_2
+20:27:47,041  INFO localLoger:109 - Phase mooving to the BRIG in Tunnel_2 complite.
+20:27:47,047  INFO localLoger:113 - Train_11 obtain permission to pass in the Tunnel_2
+20:27:47,048  INFO localLoger:109 - Phase mooving to the BRIG in Tunnel_2 complite.
+20:27:47,050  INFO localLoger:109 - Phase mooving to the BRIG in Tunnel_2 complite.
+20:27:47,051  INFO localLoger:113 - Train_23 obtain permission to pass in the Tunnel_2
+20:27:47,074  INFO localLoger:113 - Train_2 obtain permission to pass in the Tunnel_2
+20:27:47,089  INFO localLoger:109 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:27:47,091  INFO localLoger:113 - Train_26 obtain permission to pass in the Tunnel_2
+20:27:47,091  INFO localLoger:113 - Train_20 obtain permission to pass in the Tunnel_2
+20:27:47,093  INFO localLoger:113 - Train_22 obtain permission to pass in the Tunnel_2
+20:27:47,093  INFO localLoger:113 - Train_6 obtain permission to pass in the Tunnel_2
+20:27:56,975  INFO localLoger:146 - Train_10 exit the Tunnel_1
+20:27:56,975  INFO localLoger:134 - Train_28 enter the Tunnel_1
+20:27:56,975  INFO localLoger:117 - Train_10 movement finished.
+20:27:56,982  INFO localLoger:134 - Train_8 enter the Tunnel_1
+20:27:56,982  INFO localLoger:146 - Train_24 exit the Tunnel_1
+20:27:56,983  INFO localLoger:117 - Train_24 movement finished.
+20:27:56,983  INFO localLoger:146 - Train_4 exit the Tunnel_1
+20:27:56,983  INFO localLoger:117 - Train_4 movement finished.
+20:27:56,997  INFO localLoger:146 - Train_29 exit the Tunnel_2
+20:27:56,997  INFO localLoger:134 - Train_11 enter the Tunnel_2
+20:27:56,998  INFO localLoger:117 - Train_29 movement finished.
+20:27:57,028  INFO localLoger:146 - Train_3 exit the Tunnel_2
+20:27:57,028  INFO localLoger:134 - Train_23 enter the Tunnel_2
+20:27:57,029  INFO localLoger:117 - Train_3 movement finished.
+20:27:57,039  INFO localLoger:146 - Train_9 exit the Tunnel_2
+20:27:57,039  INFO localLoger:117 - Train_9 movement finished.
+20:27:57,039  INFO localLoger:134 - Train_2 enter the Tunnel_2
+20:28:06,977  INFO localLoger:146 - Train_28 exit the Tunnel_1
+20:28:06,977  INFO localLoger:117 - Train_28 movement finished.
+20:28:06,983  INFO localLoger:146 - Train_8 exit the Tunnel_1
+20:28:06,983  INFO localLoger:117 - Train_8 movement finished.
+20:28:06,984  INFO localLoger:109 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+20:28:06,984  INFO localLoger:113 - Train_5 obtain permission to pass in the Tunnel_1
+20:28:06,984  INFO localLoger:134 - Train_5 enter the Tunnel_1
+20:28:06,984  INFO localLoger:113 - Train_25 obtain permission to pass in the Tunnel_1
+20:28:06,984  INFO localLoger:113 - Train_27 obtain permission to pass in the Tunnel_1
+20:28:06,984  INFO localLoger:113 - Train_7 obtain permission to pass in the Tunnel_1
+20:28:06,984  INFO localLoger:113 - Train_21 obtain permission to pass in the Tunnel_1
+20:28:06,985  INFO localLoger:134 - Train_27 enter the Tunnel_1
+20:28:06,985  INFO localLoger:134 - Train_25 enter the Tunnel_1
+20:28:06,999  INFO localLoger:134 - Train_26 enter the Tunnel_2
+20:28:06,999  INFO localLoger:146 - Train_11 exit the Tunnel_2
+20:28:07,000  INFO localLoger:117 - Train_11 movement finished.
+20:28:07,001  INFO localLoger:109 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+20:28:07,030  INFO localLoger:134 - Train_20 enter the Tunnel_2
+20:28:07,031  INFO localLoger:148 - java.lang.NullPointerException
+20:28:07,031  INFO localLoger:149 - ERROR TRAIN: Train_23
+20:28:07,032  INFO localLoger:150 - ERROR TUNNEL: Tunnel_2
+20:28:07,032  INFO localLoger:117 - Train_23 movement finished.
+20:28:07,041  INFO localLoger:134 - Train_22 enter the Tunnel_2
+20:28:07,041  INFO localLoger:148 - java.lang.NullPointerException
+20:28:07,041  INFO localLoger:149 - ERROR TRAIN: Train_2
+20:28:07,041  INFO localLoger:150 - ERROR TUNNEL: Tunnel_2
+20:28:07,042  INFO localLoger:117 - Train_2 movement finished.
+20:28:16,986  INFO localLoger:146 - Train_5 exit the Tunnel_1
+20:28:16,986  INFO localLoger:134 - Train_7 enter the Tunnel_1
+20:28:16,986  INFO localLoger:134 - Train_21 enter the Tunnel_1
+20:28:16,986  INFO localLoger:146 - Train_27 exit the Tunnel_1
+20:28:16,986  INFO localLoger:117 - Train_27 movement finished.
+20:28:16,986  INFO localLoger:117 - Train_5 movement finished.
+20:28:16,987  INFO localLoger:146 - Train_25 exit the Tunnel_1
+20:28:16,987  INFO localLoger:117 - Train_25 movement finished.
+20:28:17,001  INFO localLoger:134 - Train_6 enter the Tunnel_2
+20:28:17,001  INFO localLoger:148 - java.lang.NullPointerException
+20:28:17,002  INFO localLoger:149 - ERROR TRAIN: Train_26
+20:28:17,002  INFO localLoger:150 - ERROR TUNNEL: Tunnel_2
+20:28:17,002  INFO localLoger:117 - Train_26 movement finished.
+20:28:17,032  INFO localLoger:148 - java.lang.NullPointerException
+20:28:17,032  INFO localLoger:149 - ERROR TRAIN: Train_20
+20:28:17,033  INFO localLoger:150 - ERROR TUNNEL: Tunnel_2
+20:28:17,033  INFO localLoger:117 - Train_20 movement finished.
+20:28:17,042  INFO localLoger:148 - java.lang.NullPointerException
+20:28:17,043  INFO localLoger:149 - ERROR TRAIN: Train_22
+20:28:17,043  INFO localLoger:150 - ERROR TUNNEL: Tunnel_2
+20:28:17,043  INFO localLoger:117 - Train_22 movement finished.
+20:28:26,987  INFO localLoger:146 - Train_21 exit the Tunnel_1
+20:28:26,987  INFO localLoger:117 - Train_21 movement finished.
+20:28:26,987  INFO localLoger:146 - Train_7 exit the Tunnel_1
+20:28:26,988  INFO localLoger:117 - Train_7 movement finished.
+20:28:26,988  INFO localLoger:109 - Phase mooving to the BRIG in Tunnel_1 complite.
+20:28:27,002  INFO localLoger:148 - java.lang.NullPointerException
+20:28:27,002  INFO localLoger:149 - ERROR TRAIN: Train_6
+20:28:27,003  INFO localLoger:150 - ERROR TUNNEL: Tunnel_2
+20:28:27,003  INFO localLoger:117 - Train_6 movement finished.
+21:11:44,392  INFO localLoger:109 - Train_0 is running.
+21:11:44,396  INFO localLoger:109 - Train_11 is running.
+21:11:44,396  INFO localLoger:109 - Train_10 is running.
+21:11:44,396  INFO localLoger:109 - Train_9 is running.
+21:11:44,396  INFO localLoger:109 - Train_8 is running.
+21:11:44,395  INFO localLoger:109 - Train_7 is running.
+21:11:44,405  INFO localLoger:113 - Train_7 obtain permission to pass in the Tunnel_2
+21:11:44,394  INFO localLoger:109 - Train_6 is running.
+21:11:44,393  INFO localLoger:109 - Train_5 is running.
+21:11:44,406  INFO localLoger:113 - Train_5 obtain permission to pass in the Tunnel_2
+21:11:44,407  INFO localLoger:141 - Train_5 enter the Tunnel_2
+21:11:44,393  INFO localLoger:109 - Train_4 is running.
+21:11:44,393  INFO localLoger:109 - Train_3 is running.
+21:11:44,392  INFO localLoger:109 - Train_2 is running.
+21:11:44,392  INFO localLoger:109 - Train_1 is running.
+21:11:44,408  INFO localLoger:113 - Train_3 obtain permission to pass in the Tunnel_2
+21:11:44,412  INFO localLoger:141 - Train_3 enter the Tunnel_2
+21:11:44,407  INFO localLoger:113 - Train_4 obtain permission to pass in the Tunnel_1
+21:11:44,414  INFO localLoger:141 - Train_4 enter the Tunnel_1
+21:11:44,406  INFO localLoger:113 - Train_6 obtain permission to pass in the Tunnel_1
+21:11:44,414  INFO localLoger:141 - Train_6 enter the Tunnel_1
+21:11:44,406  INFO localLoger:141 - Train_7 enter the Tunnel_2
+21:11:44,404  INFO localLoger:109 - Train_29 is running.
+21:11:44,404  INFO localLoger:109 - Train_28 is running.
+21:11:44,404  INFO localLoger:109 - Train_27 is running.
+21:11:44,404  INFO localLoger:109 - Train_26 is running.
+21:11:44,403  INFO localLoger:109 - Train_25 is running.
+21:11:44,403  INFO localLoger:109 - Train_24 is running.
+21:11:44,403  INFO localLoger:109 - Train_23 is running.
+21:11:44,403  INFO localLoger:109 - Train_22 is running.
+21:11:44,403  INFO localLoger:109 - Train_21 is running.
+21:11:44,403  INFO localLoger:109 - Train_20 is running.
+21:11:44,403  INFO localLoger:109 - Train_19 is running.
+21:11:44,403  INFO localLoger:109 - Train_18 is running.
+21:11:44,403  INFO localLoger:109 - Train_17 is running.
+21:11:44,402  INFO localLoger:109 - Train_16 is running.
+21:11:44,402  INFO localLoger:113 - Train_11 obtain permission to pass in the Tunnel_2
+21:11:44,402  INFO localLoger:109 - Train_15 is running.
+21:11:44,402  INFO localLoger:113 - Train_10 obtain permission to pass in the Tunnel_1
+21:11:44,433  INFO localLoger:141 - Train_10 enter the Tunnel_1
+21:11:44,401  INFO localLoger:109 - Train_14 is running.
+21:11:44,401  INFO localLoger:113 - Train_8 obtain permission to pass in the Tunnel_1
+21:11:44,400  INFO localLoger:113 - Train_9 obtain permission to pass in the Tunnel_2
+21:11:44,399  INFO localLoger:113 - Train_0 obtain permission to pass in the Tunnel_1
+21:11:44,399  INFO localLoger:109 - Train_13 is running.
+21:11:44,397  INFO localLoger:109 - Train_12 is running.
+21:11:54,407  INFO localLoger:153 - Train_5 exit the Tunnel_2
+21:11:54,407  INFO localLoger:141 - Train_11 enter the Tunnel_2
+21:11:54,408  INFO localLoger:117 - Train_5 movement finished.
+21:11:54,413  INFO localLoger:153 - Train_3 exit the Tunnel_2
+21:11:54,413  INFO localLoger:117 - Train_3 movement finished.
+21:11:54,414  INFO localLoger:141 - Train_9 enter the Tunnel_2
+21:11:54,415  INFO localLoger:141 - Train_8 enter the Tunnel_1
+21:11:54,414  INFO localLoger:153 - Train_6 exit the Tunnel_1
+21:11:54,415  INFO localLoger:117 - Train_6 movement finished.
+21:11:54,415  INFO localLoger:141 - Train_0 enter the Tunnel_1
+21:11:54,415  INFO localLoger:153 - Train_4 exit the Tunnel_1
+21:11:54,415  INFO localLoger:153 - Train_7 exit the Tunnel_2
+21:11:54,416  INFO localLoger:117 - Train_7 movement finished.
+21:11:54,416  INFO localLoger:117 - Train_4 movement finished.
+21:11:54,433  INFO localLoger:153 - Train_10 exit the Tunnel_1
+21:11:54,434  INFO localLoger:117 - Train_10 movement finished.
+21:12:04,409  INFO localLoger:153 - Train_11 exit the Tunnel_2
+21:12:04,409  INFO localLoger:117 - Train_11 movement finished.
+21:12:04,416  INFO localLoger:153 - Train_8 exit the Tunnel_1
+21:12:04,416  INFO localLoger:117 - Train_8 movement finished.
+21:12:04,416  INFO localLoger:153 - Train_9 exit the Tunnel_2
+21:12:04,417  INFO localLoger:117 - Train_9 movement finished.
+21:12:04,417  INFO localLoger:113 - Phase mooving to the BRIG in Tunnel_2 complite.
+21:12:04,418  INFO localLoger:153 - Train_0 exit the Tunnel_1
+21:12:04,418  INFO localLoger:117 - Train_0 movement finished.
+21:12:04,419  INFO localLoger:113 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+21:12:04,419  INFO localLoger:113 - Train_18 obtain permission to pass in the Tunnel_2
+21:12:04,419  INFO localLoger:141 - Train_18 enter the Tunnel_2
+21:12:04,420  INFO localLoger:113 - Phase mooving to the BRIG in Tunnel_1 complite.
+21:12:04,421  INFO localLoger:113 - Train_20 obtain permission to pass in the Tunnel_2
+21:12:04,421  INFO localLoger:141 - Train_20 enter the Tunnel_2
+21:12:04,422  INFO localLoger:113 - Train_28 obtain permission to pass in the Tunnel_2
+21:12:04,422  INFO localLoger:141 - Train_28 enter the Tunnel_2
+21:12:04,421  INFO localLoger:113 - Train_19 obtain permission to pass in the Tunnel_1
+21:12:04,425  INFO localLoger:141 - Train_19 enter the Tunnel_1
+21:12:04,425  INFO localLoger:113 - Train_21 obtain permission to pass in the Tunnel_1
+21:12:04,425  INFO localLoger:141 - Train_21 enter the Tunnel_1
+21:12:04,425  INFO localLoger:113 - Train_1 obtain permission to pass in the Tunnel_1
+21:12:04,426  INFO localLoger:141 - Train_1 enter the Tunnel_1
+21:12:04,425  INFO localLoger:113 - Train_14 obtain permission to pass in the Tunnel_2
+21:12:04,425  INFO localLoger:113 - Train_22 obtain permission to pass in the Tunnel_2
+21:12:04,425  INFO localLoger:113 - Train_25 obtain permission to pass in the Tunnel_1
+21:12:04,429  INFO localLoger:113 - Train_15 obtain permission to pass in the Tunnel_1
+21:12:04,430  INFO localLoger:113 - Train_29 obtain permission to pass in the Tunnel_1
+21:12:14,420  INFO localLoger:141 - Train_22 enter the Tunnel_2
+21:12:14,420  INFO localLoger:153 - Train_18 exit the Tunnel_2
+21:12:14,421  INFO localLoger:117 - Train_18 movement finished.
+21:12:14,423  INFO localLoger:153 - Train_20 exit the Tunnel_2
+21:12:14,423  INFO localLoger:117 - Train_20 movement finished.
+21:12:14,423  INFO localLoger:141 - Train_14 enter the Tunnel_2
+21:12:14,424  INFO localLoger:153 - Train_28 exit the Tunnel_2
+21:12:14,425  INFO localLoger:117 - Train_28 movement finished.
+21:12:14,426  INFO localLoger:153 - Train_19 exit the Tunnel_1
+21:12:14,426  INFO localLoger:117 - Train_19 movement finished.
+21:12:14,426  INFO localLoger:141 - Train_25 enter the Tunnel_1
+21:12:14,429  INFO localLoger:153 - Train_21 exit the Tunnel_1
+21:12:14,429  INFO localLoger:117 - Train_21 movement finished.
+21:12:14,429  INFO localLoger:141 - Train_15 enter the Tunnel_1
+21:12:14,429  INFO localLoger:141 - Train_29 enter the Tunnel_1
+21:12:14,429  INFO localLoger:153 - Train_1 exit the Tunnel_1
+21:12:14,430  INFO localLoger:117 - Train_1 movement finished.
+21:12:24,422  INFO localLoger:153 - Train_22 exit the Tunnel_2
+21:12:24,422  INFO localLoger:117 - Train_22 movement finished.
+21:12:24,424  INFO localLoger:153 - Train_14 exit the Tunnel_2
+21:12:24,425  INFO localLoger:117 - Train_14 movement finished.
+21:12:24,425  INFO localLoger:113 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+21:12:24,426  INFO localLoger:113 - Train_17 obtain permission to pass in the Tunnel_2
+21:12:24,426  INFO localLoger:141 - Train_17 enter the Tunnel_2
+21:12:24,426  INFO localLoger:113 - Train_23 obtain permission to pass in the Tunnel_2
+21:12:24,426  INFO localLoger:113 - Train_27 obtain permission to pass in the Tunnel_2
+21:12:24,426  INFO localLoger:141 - Train_27 enter the Tunnel_2
+21:12:24,426  INFO localLoger:113 - Train_13 obtain permission to pass in the Tunnel_2
+21:12:24,426  INFO localLoger:141 - Train_23 enter the Tunnel_2
+21:12:24,428  INFO localLoger:153 - Train_25 exit the Tunnel_1
+21:12:24,428  INFO localLoger:117 - Train_25 movement finished.
+21:12:24,430  INFO localLoger:153 - Train_15 exit the Tunnel_1
+21:12:24,431  INFO localLoger:117 - Train_15 movement finished.
+21:12:24,431  INFO localLoger:153 - Train_29 exit the Tunnel_1
+21:12:24,431  INFO localLoger:117 - Train_29 movement finished.
+21:12:24,432  INFO localLoger:113 - Phase mooving to the BRIG in Tunnel_1 complite.
+21:12:24,432  INFO localLoger:113 - Train_2 obtain permission to pass in the Tunnel_1
+21:12:24,433  INFO localLoger:141 - Train_2 enter the Tunnel_1
+21:12:24,433  INFO localLoger:113 - Train_16 obtain permission to pass in the Tunnel_1
+21:12:24,433  INFO localLoger:141 - Train_16 enter the Tunnel_1
+21:12:24,432  INFO localLoger:113 - Train_24 obtain permission to pass in the Tunnel_1
+21:12:24,433  INFO localLoger:141 - Train_24 enter the Tunnel_1
+21:12:24,434  INFO localLoger:113 - Train_26 obtain permission to pass in the Tunnel_1
+21:12:24,433  INFO localLoger:113 - Train_12 obtain permission to pass in the Tunnel_1
+21:12:34,427  INFO localLoger:141 - Train_13 enter the Tunnel_2
+21:12:34,427  INFO localLoger:153 - Train_17 exit the Tunnel_2
+21:12:34,427  INFO localLoger:117 - Train_17 movement finished.
+21:12:34,427  INFO localLoger:153 - Train_27 exit the Tunnel_2
+21:12:34,428  INFO localLoger:117 - Train_27 movement finished.
+21:12:34,428  INFO localLoger:153 - Train_23 exit the Tunnel_2
+21:12:34,428  INFO localLoger:117 - Train_23 movement finished.
+21:12:34,433  INFO localLoger:141 - Train_26 enter the Tunnel_1
+21:12:34,433  INFO localLoger:153 - Train_2 exit the Tunnel_1
+21:12:34,433  INFO localLoger:117 - Train_2 movement finished.
+21:12:34,434  INFO localLoger:153 - Train_16 exit the Tunnel_1
+21:12:34,435  INFO localLoger:117 - Train_16 movement finished.
+21:12:34,434  INFO localLoger:141 - Train_12 enter the Tunnel_1
+21:12:34,435  INFO localLoger:153 - Train_24 exit the Tunnel_1
+21:12:34,435  INFO localLoger:117 - Train_24 movement finished.
+21:12:44,428  INFO localLoger:153 - Train_13 exit the Tunnel_2
+21:12:44,429  INFO localLoger:117 - Train_13 movement finished.
+21:12:44,429  INFO localLoger:113 - Phase mooving to the BRIG in Tunnel_2 complite.
+21:12:44,434  INFO localLoger:153 - Train_26 exit the Tunnel_1
+21:12:44,435  INFO localLoger:117 - Train_26 movement finished.
+21:12:44,436  INFO localLoger:153 - Train_12 exit the Tunnel_1
+21:12:44,437  INFO localLoger:117 - Train_12 movement finished.
+21:12:44,437  INFO localLoger:113 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+21:27:14,937  INFO localLoger:109 - Train_5 is running.
+21:27:14,941  INFO localLoger:109 - Train_29 is running.
+21:27:14,941  INFO localLoger:109 - Train_28 is running.
+21:27:14,941  INFO localLoger:109 - Train_27 is running.
+21:27:14,941  INFO localLoger:109 - Train_26 is running.
+21:27:14,941  INFO localLoger:109 - Train_25 is running.
+21:27:14,940  INFO localLoger:109 - Train_24 is running.
+21:27:14,940  INFO localLoger:109 - Train_23 is running.
+21:27:14,940  INFO localLoger:109 - Train_22 is running.
+21:27:14,948  INFO localLoger:113 - Train_22 obtain permission to pass in the Tunnel_1
+21:27:14,940  INFO localLoger:109 - Train_21 is running.
+21:27:14,940  INFO localLoger:109 - Train_20 is running.
+21:27:14,949  INFO localLoger:113 - Train_20 obtain permission to pass in the Tunnel_1
+21:27:14,949  INFO localLoger:138 - Train_20 enter the Tunnel_1
+21:27:14,940  INFO localLoger:109 - Train_19 is running.
+21:27:14,940  INFO localLoger:109 - Train_17 is running.
+21:27:14,940  INFO localLoger:109 - Train_18 is running.
+21:27:14,939  INFO localLoger:109 - Train_16 is running.
+21:27:14,939  INFO localLoger:109 - Train_15 is running.
+21:27:14,939  INFO localLoger:109 - Train_14 is running.
+21:27:14,939  INFO localLoger:109 - Train_13 is running.
+21:27:14,939  INFO localLoger:109 - Train_12 is running.
+21:27:14,939  INFO localLoger:109 - Train_11 is running.
+21:27:14,938  INFO localLoger:109 - Train_10 is running.
+21:27:14,938  INFO localLoger:109 - Train_9 is running.
+21:27:14,938  INFO localLoger:109 - Train_8 is running.
+21:27:14,938  INFO localLoger:109 - Train_7 is running.
+21:27:14,938  INFO localLoger:109 - Train_0 is running.
+21:27:14,938  INFO localLoger:109 - Train_1 is running.
+21:27:14,938  INFO localLoger:109 - Train_2 is running.
+21:27:14,937  INFO localLoger:109 - Train_3 is running.
+21:27:14,937  INFO localLoger:109 - Train_4 is running.
+21:27:14,937  INFO localLoger:109 - Train_6 is running.
+21:27:14,948  INFO localLoger:138 - Train_22 enter the Tunnel_1
+21:27:14,948  INFO localLoger:113 - Train_23 obtain permission to pass in the Tunnel_2
+21:27:14,974  INFO localLoger:138 - Train_23 enter the Tunnel_2
+21:27:14,948  INFO localLoger:113 - Train_24 obtain permission to pass in the Tunnel_1
+21:27:14,976  INFO localLoger:138 - Train_24 enter the Tunnel_1
+21:27:14,947  INFO localLoger:113 - Train_25 obtain permission to pass in the Tunnel_2
+21:27:14,977  INFO localLoger:138 - Train_25 enter the Tunnel_2
+21:27:14,945  INFO localLoger:113 - Train_29 obtain permission to pass in the Tunnel_2
+21:27:14,977  INFO localLoger:138 - Train_29 enter the Tunnel_2
+21:27:14,945  INFO localLoger:113 - Train_5 obtain permission to pass in the Tunnel_2
+21:27:14,945  INFO localLoger:113 - Train_26 obtain permission to pass in the Tunnel_1
+21:27:14,945  INFO localLoger:113 - Train_27 obtain permission to pass in the Tunnel_2
+21:27:14,944  INFO localLoger:113 - Train_28 obtain permission to pass in the Tunnel_1
+21:27:24,951  INFO localLoger:150 - Train_20 exit the Tunnel_1
+21:27:24,951  INFO localLoger:138 - Train_26 enter the Tunnel_1
+21:27:24,951  INFO localLoger:117 - Train_20 movement finished.
+21:27:24,975  INFO localLoger:150 - Train_22 exit the Tunnel_1
+21:27:24,975  INFO localLoger:138 - Train_5 enter the Tunnel_2
+21:27:24,975  INFO localLoger:138 - Train_28 enter the Tunnel_1
+21:27:24,975  INFO localLoger:150 - Train_23 exit the Tunnel_2
+21:27:24,976  INFO localLoger:117 - Train_22 movement finished.
+21:27:24,976  INFO localLoger:117 - Train_23 movement finished.
+21:27:24,977  INFO localLoger:150 - Train_24 exit the Tunnel_1
+21:27:24,977  INFO localLoger:117 - Train_24 movement finished.
+21:27:24,978  INFO localLoger:150 - Train_25 exit the Tunnel_2
+21:27:24,978  INFO localLoger:117 - Train_25 movement finished.
+21:27:24,978  INFO localLoger:138 - Train_27 enter the Tunnel_2
+21:27:24,982  INFO localLoger:150 - Train_29 exit the Tunnel_2
+21:27:24,983  INFO localLoger:117 - Train_29 movement finished.
+21:27:34,953  INFO localLoger:150 - Train_26 exit the Tunnel_1
+21:27:34,953  INFO localLoger:117 - Train_26 movement finished.
+21:27:34,977  INFO localLoger:150 - Train_5 exit the Tunnel_2
+21:27:34,977  INFO localLoger:150 - Train_28 exit the Tunnel_1
+21:27:34,977  INFO localLoger:117 - Train_5 movement finished.
+21:27:34,977  INFO localLoger:117 - Train_28 movement finished.
+21:27:34,978  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+21:27:34,978  INFO localLoger:113 - Train_9 obtain permission to pass in the Tunnel_1
+21:27:34,979  INFO localLoger:138 - Train_9 enter the Tunnel_1
+21:27:34,979  INFO localLoger:113 - Train_13 obtain permission to pass in the Tunnel_1
+21:27:34,979  INFO localLoger:113 - Train_3 obtain permission to pass in the Tunnel_1
+21:27:34,979  INFO localLoger:113 - Train_7 obtain permission to pass in the Tunnel_1
+21:27:34,979  INFO localLoger:113 - Train_17 obtain permission to pass in the Tunnel_1
+21:27:34,979  INFO localLoger:138 - Train_3 enter the Tunnel_1
+21:27:34,980  INFO localLoger:150 - Train_27 exit the Tunnel_2
+21:27:34,981  INFO localLoger:117 - Train_27 movement finished.
+21:27:34,979  INFO localLoger:138 - Train_13 enter the Tunnel_1
+21:27:34,982  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_2 complite.
+21:27:34,982  INFO localLoger:113 - Train_4 obtain permission to pass in the Tunnel_2
+21:27:34,982  INFO localLoger:138 - Train_4 enter the Tunnel_2
+21:27:34,985  INFO localLoger:113 - Train_16 obtain permission to pass in the Tunnel_2
+21:27:34,985  INFO localLoger:138 - Train_16 enter the Tunnel_2
+21:27:34,985  INFO localLoger:113 - Train_18 obtain permission to pass in the Tunnel_2
+21:27:34,986  INFO localLoger:138 - Train_18 enter the Tunnel_2
+21:27:34,987  INFO localLoger:113 - Train_2 obtain permission to pass in the Tunnel_2
+21:27:34,987  INFO localLoger:113 - Train_10 obtain permission to pass in the Tunnel_2
+21:27:44,980  INFO localLoger:150 - Train_9 exit the Tunnel_1
+21:27:44,980  INFO localLoger:138 - Train_7 enter the Tunnel_1
+21:27:44,980  INFO localLoger:117 - Train_9 movement finished.
+21:27:44,981  INFO localLoger:150 - Train_3 exit the Tunnel_1
+21:27:44,981  INFO localLoger:138 - Train_17 enter the Tunnel_1
+21:27:44,981  INFO localLoger:117 - Train_3 movement finished.
+21:27:44,983  INFO localLoger:150 - Train_13 exit the Tunnel_1
+21:27:44,983  INFO localLoger:117 - Train_13 movement finished.
+21:27:44,984  INFO localLoger:150 - Train_4 exit the Tunnel_2
+21:27:44,984  INFO localLoger:117 - Train_4 movement finished.
+21:27:44,984  INFO localLoger:138 - Train_2 enter the Tunnel_2
+21:27:44,986  INFO localLoger:150 - Train_16 exit the Tunnel_2
+21:27:44,986  INFO localLoger:138 - Train_10 enter the Tunnel_2
+21:27:44,986  INFO localLoger:117 - Train_16 movement finished.
+21:27:44,987  INFO localLoger:150 - Train_18 exit the Tunnel_2
+21:27:44,987  INFO localLoger:117 - Train_18 movement finished.
+21:27:54,982  INFO localLoger:150 - Train_7 exit the Tunnel_1
+21:27:54,982  INFO localLoger:117 - Train_7 movement finished.
+21:27:54,983  INFO localLoger:150 - Train_17 exit the Tunnel_1
+21:27:54,983  INFO localLoger:117 - Train_17 movement finished.
+21:27:54,985  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_1 complite.
+21:27:54,985  INFO localLoger:150 - Train_2 exit the Tunnel_2
+21:27:54,986  INFO localLoger:113 - Train_0 obtain permission to pass in the Tunnel_1
+21:27:54,986  INFO localLoger:138 - Train_0 enter the Tunnel_1
+21:27:54,986  INFO localLoger:113 - Train_12 obtain permission to pass in the Tunnel_1
+21:27:54,986  INFO localLoger:138 - Train_12 enter the Tunnel_1
+21:27:54,986  INFO localLoger:117 - Train_2 movement finished.
+21:27:54,988  INFO localLoger:150 - Train_10 exit the Tunnel_2
+21:27:54,988  INFO localLoger:117 - Train_10 movement finished.
+21:27:54,988  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+21:27:54,989  INFO localLoger:113 - Train_8 obtain permission to pass in the Tunnel_1
+21:27:54,989  INFO localLoger:138 - Train_8 enter the Tunnel_1
+21:27:54,991  INFO localLoger:113 - Train_15 obtain permission to pass in the Tunnel_2
+21:27:54,991  INFO localLoger:138 - Train_15 enter the Tunnel_2
+21:27:54,991  INFO localLoger:113 - Train_21 obtain permission to pass in the Tunnel_2
+21:27:54,991  INFO localLoger:138 - Train_21 enter the Tunnel_2
+21:27:54,993  INFO localLoger:113 - Train_11 obtain permission to pass in the Tunnel_2
+21:27:54,993  INFO localLoger:138 - Train_11 enter the Tunnel_2
+21:27:54,993  INFO localLoger:113 - Train_19 obtain permission to pass in the Tunnel_2
+21:27:54,993  INFO localLoger:113 - Train_6 obtain permission to pass in the Tunnel_1
+21:27:54,993  INFO localLoger:113 - Train_14 obtain permission to pass in the Tunnel_1
+21:27:54,993  INFO localLoger:113 - Train_1 obtain permission to pass in the Tunnel_2
+21:28:04,987  INFO localLoger:138 - Train_6 enter the Tunnel_1
+21:28:04,987  INFO localLoger:150 - Train_0 exit the Tunnel_1
+21:28:04,988  INFO localLoger:117 - Train_0 movement finished.
+21:28:04,988  INFO localLoger:138 - Train_14 enter the Tunnel_1
+21:28:04,988  INFO localLoger:150 - Train_12 exit the Tunnel_1
+21:28:04,988  INFO localLoger:117 - Train_12 movement finished.
+21:28:04,990  INFO localLoger:150 - Train_8 exit the Tunnel_1
+21:28:04,990  INFO localLoger:117 - Train_8 movement finished.
+21:28:04,991  INFO localLoger:150 - Train_15 exit the Tunnel_2
+21:28:04,992  INFO localLoger:117 - Train_15 movement finished.
+21:28:04,992  INFO localLoger:138 - Train_19 enter the Tunnel_2
+21:28:04,993  INFO localLoger:150 - Train_21 exit the Tunnel_2
+21:28:04,993  INFO localLoger:117 - Train_21 movement finished.
+21:28:04,993  INFO localLoger:138 - Train_1 enter the Tunnel_2
+21:28:04,994  INFO localLoger:150 - Train_11 exit the Tunnel_2
+21:28:04,994  INFO localLoger:117 - Train_11 movement finished.
+21:28:14,989  INFO localLoger:150 - Train_6 exit the Tunnel_1
+21:28:14,989  INFO localLoger:117 - Train_6 movement finished.
+21:28:14,989  INFO localLoger:150 - Train_14 exit the Tunnel_1
+21:28:14,990  INFO localLoger:117 - Train_14 movement finished.
+21:28:14,990  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+21:28:14,992  INFO localLoger:150 - Train_19 exit the Tunnel_2
+21:28:14,993  INFO localLoger:117 - Train_19 movement finished.
+21:28:14,994  INFO localLoger:150 - Train_1 exit the Tunnel_2
+21:28:14,995  INFO localLoger:117 - Train_1 movement finished.
+21:28:14,995  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_2 complite.
+21:33:22,759  INFO localLoger:109 - Train_0 is running.
+21:33:22,764  INFO localLoger:109 - Train_20 is running.
+21:33:22,764  INFO localLoger:109 - Train_19 is running.
+21:33:22,764  INFO localLoger:109 - Train_23 is running.
+21:33:22,764  INFO localLoger:109 - Train_18 is running.
+21:33:22,763  INFO localLoger:109 - Train_17 is running.
+21:33:22,763  INFO localLoger:109 - Train_16 is running.
+21:33:22,771  INFO localLoger:113 - Train_16 obtain permission to pass in the Tunnel_2
+21:33:22,763  INFO localLoger:109 - Train_15 is running.
+21:33:22,763  INFO localLoger:109 - Train_14 is running.
+21:33:22,763  INFO localLoger:109 - Train_13 is running.
+21:33:22,763  INFO localLoger:109 - Train_12 is running.
+21:33:22,763  INFO localLoger:109 - Train_11 is running.
+21:33:22,763  INFO localLoger:109 - Train_10 is running.
+21:33:22,762  INFO localLoger:109 - Train_9 is running.
+21:33:22,762  INFO localLoger:109 - Train_8 is running.
+21:33:22,762  INFO localLoger:109 - Train_7 is running.
+21:33:22,762  INFO localLoger:109 - Train_6 is running.
+21:33:22,762  INFO localLoger:109 - Train_5 is running.
+21:33:22,761  INFO localLoger:109 - Train_4 is running.
+21:33:22,761  INFO localLoger:109 - Train_3 is running.
+21:33:22,760  INFO localLoger:109 - Train_2 is running.
+21:33:22,759  INFO localLoger:109 - Train_1 is running.
+21:33:22,772  INFO localLoger:113 - Train_13 obtain permission to pass in the Tunnel_1
+21:33:22,786  INFO localLoger:138 - Train_13 enter the Tunnel_1
+21:33:22,772  INFO localLoger:113 - Train_14 obtain permission to pass in the Tunnel_2
+21:33:22,787  INFO localLoger:138 - Train_14 enter the Tunnel_2
+21:33:22,772  INFO localLoger:113 - Train_15 obtain permission to pass in the Tunnel_1
+21:33:22,787  INFO localLoger:138 - Train_15 enter the Tunnel_1
+21:33:22,772  INFO localLoger:138 - Train_16 enter the Tunnel_2
+21:33:22,771  INFO localLoger:113 - Train_17 obtain permission to pass in the Tunnel_1
+21:33:22,787  INFO localLoger:138 - Train_17 enter the Tunnel_1
+21:33:22,770  INFO localLoger:109 - Train_29 is running.
+21:33:22,770  INFO localLoger:109 - Train_28 is running.
+21:33:22,769  INFO localLoger:109 - Train_27 is running.
+21:33:22,769  INFO localLoger:109 - Train_26 is running.
+21:33:22,768  INFO localLoger:109 - Train_25 is running.
+21:33:22,768  INFO localLoger:113 - Train_0 obtain permission to pass in the Tunnel_2
+21:33:22,792  INFO localLoger:138 - Train_0 enter the Tunnel_2
+21:33:22,768  INFO localLoger:113 - Train_20 obtain permission to pass in the Tunnel_2
+21:33:22,767  INFO localLoger:113 - Train_18 obtain permission to pass in the Tunnel_2
+21:33:22,767  INFO localLoger:113 - Train_19 obtain permission to pass in the Tunnel_1
+21:33:22,767  INFO localLoger:109 - Train_24 is running.
+21:33:22,767  INFO localLoger:113 - Train_23 obtain permission to pass in the Tunnel_1
+21:33:22,764  INFO localLoger:109 - Train_22 is running.
+21:33:22,764  INFO localLoger:109 - Train_21 is running.
+21:33:32,788  INFO localLoger:150 - Train_13 exit the Tunnel_1
+21:33:32,788  INFO localLoger:150 - Train_16 exit the Tunnel_2
+21:33:32,788  INFO localLoger:138 - Train_19 enter the Tunnel_1
+21:33:32,788  INFO localLoger:138 - Train_20 enter the Tunnel_2
+21:33:32,788  INFO localLoger:138 - Train_18 enter the Tunnel_2
+21:33:32,788  INFO localLoger:150 - Train_14 exit the Tunnel_2
+21:33:32,788  INFO localLoger:117 - Train_16 movement finished.
+21:33:32,788  INFO localLoger:138 - Train_23 enter the Tunnel_1
+21:33:32,788  INFO localLoger:150 - Train_15 exit the Tunnel_1
+21:33:32,788  INFO localLoger:117 - Train_13 movement finished.
+21:33:32,790  INFO localLoger:117 - Train_15 movement finished.
+21:33:32,789  INFO localLoger:117 - Train_14 movement finished.
+21:33:32,790  INFO localLoger:150 - Train_17 exit the Tunnel_1
+21:33:32,791  INFO localLoger:117 - Train_17 movement finished.
+21:33:32,793  INFO localLoger:150 - Train_0 exit the Tunnel_2
+21:33:32,794  INFO localLoger:117 - Train_0 movement finished.
+21:33:42,790  INFO localLoger:150 - Train_19 exit the Tunnel_1
+21:33:42,790  INFO localLoger:150 - Train_18 exit the Tunnel_2
+21:33:42,790  INFO localLoger:117 - Train_19 movement finished.
+21:33:42,790  INFO localLoger:117 - Train_18 movement finished.
+21:33:42,791  INFO localLoger:150 - Train_23 exit the Tunnel_1
+21:33:42,791  INFO localLoger:117 - Train_23 movement finished.
+21:33:42,791  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_1 complite.
+21:33:42,790  INFO localLoger:150 - Train_20 exit the Tunnel_2
+21:33:42,792  INFO localLoger:117 - Train_20 movement finished.
+21:33:42,793  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+21:33:42,793  INFO localLoger:113 - Train_10 obtain permission to pass in the Tunnel_1
+21:33:42,793  INFO localLoger:138 - Train_10 enter the Tunnel_1
+21:33:42,794  INFO localLoger:113 - Train_28 obtain permission to pass in the Tunnel_1
+21:33:42,794  INFO localLoger:138 - Train_28 enter the Tunnel_1
+21:33:42,794  INFO localLoger:113 - Train_11 obtain permission to pass in the Tunnel_2
+21:33:42,794  INFO localLoger:113 - Train_4 obtain permission to pass in the Tunnel_1
+21:33:42,795  INFO localLoger:138 - Train_4 enter the Tunnel_1
+21:33:42,795  INFO localLoger:113 - Train_21 obtain permission to pass in the Tunnel_2
+21:33:42,795  INFO localLoger:138 - Train_21 enter the Tunnel_2
+21:33:42,795  INFO localLoger:113 - Train_6 obtain permission to pass in the Tunnel_1
+21:33:42,795  INFO localLoger:113 - Train_25 obtain permission to pass in the Tunnel_2
+21:33:42,797  INFO localLoger:138 - Train_25 enter the Tunnel_2
+21:33:42,797  INFO localLoger:113 - Train_5 obtain permission to pass in the Tunnel_2
+21:33:42,797  INFO localLoger:113 - Train_1 obtain permission to pass in the Tunnel_2
+21:33:42,795  INFO localLoger:138 - Train_11 enter the Tunnel_2
+21:33:42,795  INFO localLoger:113 - Train_8 obtain permission to pass in the Tunnel_1
+21:33:52,794  INFO localLoger:150 - Train_10 exit the Tunnel_1
+21:33:52,794  INFO localLoger:138 - Train_6 enter the Tunnel_1
+21:33:52,794  INFO localLoger:117 - Train_10 movement finished.
+21:33:52,795  INFO localLoger:150 - Train_28 exit the Tunnel_1
+21:33:52,795  INFO localLoger:138 - Train_8 enter the Tunnel_1
+21:33:52,795  INFO localLoger:117 - Train_28 movement finished.
+21:33:52,796  INFO localLoger:150 - Train_4 exit the Tunnel_1
+21:33:52,796  INFO localLoger:117 - Train_4 movement finished.
+21:33:52,797  INFO localLoger:150 - Train_21 exit the Tunnel_2
+21:33:52,797  INFO localLoger:138 - Train_5 enter the Tunnel_2
+21:33:52,797  INFO localLoger:117 - Train_21 movement finished.
+21:33:52,798  INFO localLoger:150 - Train_25 exit the Tunnel_2
+21:33:52,798  INFO localLoger:138 - Train_1 enter the Tunnel_2
+21:33:52,798  INFO localLoger:117 - Train_25 movement finished.
+21:33:52,798  INFO localLoger:150 - Train_11 exit the Tunnel_2
+21:33:52,799  INFO localLoger:117 - Train_11 movement finished.
+21:34:02,795  INFO localLoger:150 - Train_6 exit the Tunnel_1
+21:34:02,796  INFO localLoger:117 - Train_6 movement finished.
+21:34:02,797  INFO localLoger:150 - Train_8 exit the Tunnel_1
+21:34:02,797  INFO localLoger:117 - Train_8 movement finished.
+21:34:02,798  INFO localLoger:150 - Train_5 exit the Tunnel_2
+21:34:02,798  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+21:34:02,798  INFO localLoger:117 - Train_5 movement finished.
+21:34:02,799  INFO localLoger:113 - Train_9 obtain permission to pass in the Tunnel_1
+21:34:02,799  INFO localLoger:138 - Train_9 enter the Tunnel_1
+21:34:02,801  INFO localLoger:150 - Train_1 exit the Tunnel_2
+21:34:02,801  INFO localLoger:117 - Train_1 movement finished.
+21:34:02,799  INFO localLoger:113 - Train_3 obtain permission to pass in the Tunnel_1
+21:34:02,803  INFO localLoger:138 - Train_3 enter the Tunnel_1
+21:34:02,801  INFO localLoger:113 - Train_27 obtain permission to pass in the Tunnel_1
+21:34:02,801  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_2 complite.
+21:34:02,801  INFO localLoger:113 - Train_7 obtain permission to pass in the Tunnel_1
+21:34:02,801  INFO localLoger:113 - Train_29 obtain permission to pass in the Tunnel_1
+21:34:02,803  INFO localLoger:138 - Train_27 enter the Tunnel_1
+21:34:02,804  INFO localLoger:113 - Train_26 obtain permission to pass in the Tunnel_2
+21:34:02,804  INFO localLoger:138 - Train_26 enter the Tunnel_2
+21:34:02,804  INFO localLoger:113 - Train_2 obtain permission to pass in the Tunnel_2
+21:34:02,805  INFO localLoger:138 - Train_2 enter the Tunnel_2
+21:34:02,804  INFO localLoger:113 - Train_22 obtain permission to pass in the Tunnel_2
+21:34:02,805  INFO localLoger:138 - Train_22 enter the Tunnel_2
+21:34:02,805  INFO localLoger:113 - Train_24 obtain permission to pass in the Tunnel_2
+21:34:02,804  INFO localLoger:113 - Train_12 obtain permission to pass in the Tunnel_2
+21:34:12,801  INFO localLoger:138 - Train_7 enter the Tunnel_1
+21:34:12,801  INFO localLoger:150 - Train_9 exit the Tunnel_1
+21:34:12,802  INFO localLoger:117 - Train_9 movement finished.
+21:34:12,804  INFO localLoger:150 - Train_3 exit the Tunnel_1
+21:34:12,804  INFO localLoger:117 - Train_3 movement finished.
+21:34:12,804  INFO localLoger:138 - Train_29 enter the Tunnel_1
+21:34:12,805  INFO localLoger:150 - Train_27 exit the Tunnel_1
+21:34:12,805  INFO localLoger:138 - Train_24 enter the Tunnel_2
+21:34:12,805  INFO localLoger:150 - Train_26 exit the Tunnel_2
+21:34:12,805  INFO localLoger:117 - Train_27 movement finished.
+21:34:12,806  INFO localLoger:117 - Train_26 movement finished.
+21:34:12,806  INFO localLoger:138 - Train_12 enter the Tunnel_2
+21:34:12,806  INFO localLoger:150 - Train_2 exit the Tunnel_2
+21:34:12,806  INFO localLoger:117 - Train_2 movement finished.
+21:34:12,806  INFO localLoger:150 - Train_22 exit the Tunnel_2
+21:34:12,807  INFO localLoger:117 - Train_22 movement finished.
+21:34:22,802  INFO localLoger:150 - Train_7 exit the Tunnel_1
+21:34:22,803  INFO localLoger:117 - Train_7 movement finished.
+21:34:22,805  INFO localLoger:150 - Train_24 exit the Tunnel_2
+21:34:22,805  INFO localLoger:150 - Train_29 exit the Tunnel_1
+21:34:22,806  INFO localLoger:117 - Train_24 movement finished.
+21:34:22,806  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_1 complite.
+21:34:22,806  INFO localLoger:117 - Train_29 movement finished.
+21:34:22,807  INFO localLoger:150 - Train_12 exit the Tunnel_2
+21:34:22,807  INFO localLoger:117 - Train_12 movement finished.
+21:34:22,807  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.

@@ -22,15 +22,33 @@ public class Tunnel {
     public static final int MAX_TRAIN_COUNT = 3; 
      
     private int id;
+    private String name;
+    private TrainDirection point1;
+    private TrainDirection point2;
     public TunnelControlSystem control;
 
     public Tunnel(){}
-    public Tunnel(int id, TrainDirection direct1, TrainDirection direct2) {
+    public Tunnel(int id, String name, TrainDirection direct1, TrainDirection direct2) {
         this.id = id;
+        this.name = name;
+        point1 = direct1;
+        point2 = direct2;
         control = new TunnelControlSystem(direct1, direct2);
     }
     public int getId(){
         return this.id;
+    }
+    
+    public String getName(){
+        return this.name;
+    }
+    
+    public TrainDirection getPoint1(){
+        return point1;
+    }
+    
+    public TrainDirection getPoint2(){
+        return point2;
     }
     
     @Override
@@ -54,6 +72,14 @@ public class Tunnel {
             return false;
         }
         
+        if(point1 != tunnel.point1) {
+            return false;
+        }
+        
+        if(point2 != tunnel.point2) {
+            return false;
+        }
+        
         if(! control.equals(tunnel.control)) {
             return false;
         }
@@ -63,20 +89,29 @@ public class Tunnel {
     @Override
     public int hashCode() {
         int hash = 5;
-        hash = 29 * hash + this.id;
-        hash = 29 * hash + Objects.hashCode(this.control);
+        hash = 97 * hash + this.id;
+        hash = 97 * hash + Objects.hashCode(this.point1);
+        hash = 97 * hash + Objects.hashCode(this.point2);
+        hash = 97 * hash + Objects.hashCode(this.control);
         return hash;
     }
+
+    
     
     @Override
     public String toString(){
-        StringBuilder str = new StringBuilder(getClass().getSimpleName());
-        str.append('@');
-        str.append("id: ");
-        str.append(id);  
-        str.append(" control: ");
-        str.append(control);
-        return str.toString();
+//        StringBuilder str = new StringBuilder(getClass().getSimpleName());
+//        str.append('@');
+//        str.append("id:");
+//        str.append(id);  
+//        str.append(" point1:");
+//        str.append(point1); 
+//        str.append(" point2:");
+//        str.append(point2); 
+//        str.append(" control: ");
+//        str.append(control);
+//        return str.toString();
+        return "Tunnel_" + id;
     }
     
 }

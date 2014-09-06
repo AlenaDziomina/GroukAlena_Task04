@@ -3,7 +3,7 @@ package by.epam.task04.entity;
 import by.epam.task04.implement.FollowTheTunnel;
 import by.epam.task04.logic.TunnelAndTrainAdjustment;
 import java.util.Objects;
-import static task04.Task04.LOCAL_LOGGER;
+import static by.epam.task04.main.Task04.LOCAL_LOGGER;
 
 
 /**
@@ -14,35 +14,51 @@ public class Train implements Runnable, FollowTheTunnel{
     
     public static final int FOLLOW_THE_TUNNEL_TIME = 10000;
     private int id;
-    private TrainDirection direct;
+    private String name;
+    private TrainDirection from;
+    private TrainDirection to;
     
     public Train(){}
-    public Train(int id, TrainDirection direct){
+    public Train(int id, String name, TrainDirection from, TrainDirection to){
         this.id = id;
-        this.direct = direct;
+        this.name = name;
+        this.from = from;
+        this.to = to;
     }
     
     public int getId(){
         return this.id;
     }
     
-    public TrainDirection getDirect(){
-        return this.direct;
+    public TrainDirection getFrom(){
+        return this.from;
     }
     
-    public void setDirect(TrainDirection direct){
-        this.direct = direct;
+    public void setFrom(TrainDirection from){
+        this.from = from;
+    }
+    
+    public TrainDirection getTo(){
+        return this.to;
+    }
+    
+    public void setTo(TrainDirection to){
+        this.to = to;
     }
     
     @Override
     public String toString(){
-        StringBuilder str = new StringBuilder(getClass().getSimpleName());
-        str.append('@');
-        str.append("id: ");
-        str.append(id);  
-        str.append(" direct: ");
-        str.append(direct);
-        return str.toString();
+//        StringBuilder str = new StringBuilder(getClass().getSimpleName());
+//        str.append('@');
+//        str.append("id:");
+//        str.append(id);  
+//        str.append(" from:");
+//        str.append(from);
+//        str.append(" to:");
+//        str.append(to);
+//        return str.toString();
+        
+        return "Train_"+id;
     }
     
     @Override
@@ -66,7 +82,11 @@ public class Train implements Runnable, FollowTheTunnel{
             return false;
         }
         
-        if(direct != train.direct) {
+        if(from != train.from) {
+            return false;
+        }
+        
+        if(to != train.to) {
             return false;
         }
         return true;
@@ -76,16 +96,19 @@ public class Train implements Runnable, FollowTheTunnel{
     public int hashCode() {
         int hash = 7;
         hash = 97 * hash + this.id;
-        hash = 97 * hash + Objects.hashCode(this.direct);
+        hash = 97 * hash + Objects.hashCode(this.from);
+        hash = 97 * hash + Objects.hashCode(this.to);
         return hash;
     }
+
+    
 
     @Override
     public void run() {
         
         LOCAL_LOGGER.info(this + " is running.");
         
-        Tunnel tunnel = TunnelAndTrainAdjustment.getTunnel(this.direct);
+        Tunnel tunnel = TunnelAndTrainAdjustment.getTunnel(this.from, this.to);
         
         LOCAL_LOGGER.info(this + " obtain permission to pass in the " + tunnel);
         
@@ -99,7 +122,7 @@ public class Train implements Runnable, FollowTheTunnel{
     public void moveThrowTunnel(Tunnel tunnel) {
         
         TunnelAndTrainAdjustment.enterTheTunnel(this, tunnel);
-        LOCAL_LOGGER.info(this + " enter the " + tunnel);
+        
         
         try {
             Thread.sleep(Train.FOLLOW_THE_TUNNEL_TIME);
@@ -109,7 +132,7 @@ public class Train implements Runnable, FollowTheTunnel{
         }
         
         TunnelAndTrainAdjustment.exitTunnel(this, tunnel);
-        LOCAL_LOGGER.info(this + " exit the " + tunnel);
+        
     }
     
     

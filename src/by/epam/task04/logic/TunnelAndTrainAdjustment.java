@@ -13,11 +13,13 @@ import by.epam.task04.entity.Tunnel;
 import by.epam.task04.entity.TunnelControlSystem;
 import by.epam.task04.entity.TunnelPhaser;
 import by.epam.task04.entity.TunnelSemaphore;
+import by.epam.task04.exeption.EntityInitException;
+import static by.epam.task04.main.Task04.LOCAL_LOGGER;
 import static java.lang.Thread.sleep;
+import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.Phaser;
-import static task04.Task04.LOCAL_LOGGER;
 
 /**
  *
@@ -26,47 +28,62 @@ import static task04.Task04.LOCAL_LOGGER;
 public class TunnelAndTrainAdjustment {
     
     public static final int TUNNEL_COUNT = 2;
-    private static ConcurrentHashMap<String, Tunnel> tunnels = new ConcurrentHashMap();
+    private static ConcurrentHashMap<Integer, Tunnel> tunnels = new ConcurrentHashMap();
     
     private TunnelAndTrainAdjustment(){}
     
-    public static void addTunnel(Tunnel tunnel) {
-        tunnels.put("id" + tunnel.getId(), tunnel);
+    public static void addTunnel(Tunnel tunnel) throws EntityInitException {
+        if (null == tunnel) {
+            throw new EntityInitException("Can't add tunnel = null.");
+        }
+        tunnels.put(tunnel.getId(), tunnel);
     }
     
-    public static void addAllTunnels(Map<String, Tunnel> tunnels) {
-        tunnels.putAll(tunnels);
+    public static void addAllTunnels(HashMap<Integer, Tunnel> tunnels) {
+        TunnelAndTrainAdjustment.tunnels.putAll(tunnels);
+        System.out.println("!!!!!!!!!!!" + tunnels);
     }
     
-    public static Tunnel getTunnel(TrainDirection direct) { 
+    public static Tunnel getTunnel(TrainDirection from, TrainDirection to) {
+        TrainDirection direct = to;
+        
         while (true) {
-            for (Map.Entry<String, Tunnel> ent: tunnels.entrySet()) {
+            for (Map.Entry<Integer, Tunnel> ent : tunnels.entrySet()) {
                 Tunnel tunnel = ent.getValue();
-                TunnelControlSystem control = tunnel.control;
-                TunnelSemaphore semaphore = control.getSemaphore(direct);
-                
-                if (null != semaphore && semaphore.tryAcquire())
-                {
+                TunnelSemaphore semaphore = tunnel.control.getSemaphore(direct);
+                if (null != semaphore) {
                     try {
-                        control.controlLock.lock();
-                        TunnelPhaser tp = control.tunnelPhaser;
-                        if (null == tp) {
-                            tp = createTunnelPhaser(tunnel, direct);
-                            tp.getPhaser().register();
-                            return tunnel;
-                        } else {
-                            if (direct == tp.getDirect() && tp.getPhaser().register() >= 0) {
+                        tunnel.control.controlLock.lock();
+                        if (semaphore.tryAcquire()) {
+                            TunnelPhaser tp = tunnel.control.tunnelPhaser;
+                            if (null == tp) {
+                                tp = createTunnelPhaser(tunnel, direct);
+                                tp.getPhaser().register();
                                 return tunnel;
                             } else {
-                                semaphore.release();
+                                if (direct == tp.getDirect() && tp.getPhaser().register() >= 0) {
+                                    return tunnel;
+                                } else {
+                                    semaphore.release();
+                                }
                             }
                         }
                     } finally {
-                        control.controlLock.unlock();
+                        tunnel.control.controlLock.unlock();
                     }
                 }
             }
         }
+    }
+    
+    private static boolean isSameDirection(TrainDirection from, TrainDirection to, Tunnel tunnel) {
+        if (tunnel.getPoint1() == from && tunnel.getPoint2() == to) {
+            return true;
+        }
+        if (tunnel.getPoint1() == to && tunnel.getPoint2() == from) {
+            return true;
+        }
+        return false;
     }
     
     private static TunnelPhaser createTunnelPhaser(Tunnel tunnel, TrainDirection direct){
@@ -85,23 +102,25 @@ public class TunnelAndTrainAdjustment {
         return tp;                    
     }
     
-    public static void terminateTunnelPhaser(TunnelPhaser tunnelPhaser){
+    public static void terminateTunnelPhaser(Tunnel tunnel){
         
-        TunnelControlSystem control = tunnelPhaser.getTunnel().control;
+        TunnelControlSystem control = tunnel.control;
         
         try { 
             control.controlLock.lock();
-            LOCAL_LOGGER.info("Phase mooving to the " + tunnelPhaser.getDirect() + " in " + tunnelPhaser.getTunnel() + " complite.");
+            LOCAL_LOGGER.info("Phase mooving to the " + control.tunnelPhaser.getDirect() + " in " + control.tunnelPhaser.getTunnel() + " complite.");
+            
+            
+            TunnelSemaphore semaphore = control.getSemaphore(control.tunnelPhaser.getDirect());
+            int permitsCount = semaphore.availablePermits();
             control.tunnelPhaser = null;
             
-            TunnelSemaphore semaphore = control.getSemaphore(tunnelPhaser.getDirect());
-            int permitsCount = semaphore.availablePermits();
             if (0 == permitsCount) {
                 control.controlLock.unlock();
                 try {
                     sleep(100); //позволяем противоположному направлению завладеть потоком
                 } catch (InterruptedException ex) {
-                    LOCAL_LOGGER.error("Expectation of the opposite flow in " + tunnelPhaser.getTunnel() + "was interrupted.");
+                    LOCAL_LOGGER.error("Expectation of the opposite flow in " + control.tunnelPhaser.getTunnel() + "was interrupted.");
                 }
                 control.controlLock.lock();
             }
@@ -116,6 +135,7 @@ public class TunnelAndTrainAdjustment {
         
         try {
             tunnel.control.trainsInTunnel.put(train);
+            LOCAL_LOGGER.info(train + " enter the " + tunnel);
         } catch (InterruptedException ex) {
             LOCAL_LOGGER.error("Enter the " + train + " in the " + tunnel + " was interrupted");
         }
@@ -123,8 +143,18 @@ public class TunnelAndTrainAdjustment {
     }
     
     public static void exitTunnel(Train train, Tunnel tunnel) {
-        tunnel.control.trainsInTunnel.remove(train);    
-        tunnel.control.tunnelPhaser.getPhaser().arrive();
+        try { 
+            tunnel.control.controlLock.lock();
+            tunnel.control.trainsInTunnel.remove(train);    
+            tunnel.control.tunnelPhaser.getPhaser().arrive();
+            LOCAL_LOGGER.info(train + " exit the " + tunnel);
+        } catch (NullPointerException ex) {
+            LOCAL_LOGGER.info(ex);
+            LOCAL_LOGGER.info("ERROR TRAIN: " + train);
+            LOCAL_LOGGER.info(("ERROR TUNNEL: " + tunnel));
+        } finally {
+            tunnel.control.controlLock.unlock();
+        }
     }
 
     

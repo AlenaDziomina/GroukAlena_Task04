@@ -12,6 +12,6 @@ package by.epam.task04.entity;
  */
 public enum TrainDirection {
     
-    LEFT, RIGTH;
+    BRIG, DOMODOSSOLA, BARDONECCHIA, MODANE;
     
 }
