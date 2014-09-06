@@ -4,8 +4,10 @@
  * and open the template in the editor.
  */
 
-package by.epam.task04.entity;
+package by.epam.task04.logic;
 
+import by.epam.task04.entity.Train;
+import by.epam.task04.entity.TrainDirection;
 import static by.epam.task04.entity.Tunnel.MAX_IN_SAME_DIRECTION;
 import static by.epam.task04.entity.Tunnel.MAX_TRAIN_COUNT;
 import java.util.concurrent.ArrayBlockingQueue;

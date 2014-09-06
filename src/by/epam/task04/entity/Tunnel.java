@@ -1,5 +1,6 @@
 package by.epam.task04.entity;
 
+import by.epam.task04.logic.TunnelControlSystem;
 import java.util.Objects;
 
 /*

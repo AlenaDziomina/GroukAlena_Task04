@@ -4,9 +4,11 @@
  * and open the template in the editor.
  */
 
-package by.epam.task04.entity;
+package by.epam.task04.logic;
 
 
+import by.epam.task04.entity.TrainDirection;
+import by.epam.task04.entity.Tunnel;
 import by.epam.task04.logic.TunnelAndTrainAdjustment;
 import java.util.concurrent.Phaser;
 

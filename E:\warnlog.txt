@@ -3109,3 +3109,321 @@
 21:34:22,807  INFO localLoger:150 - Train_12 exit the Tunnel_2
 21:34:22,807  INFO localLoger:117 - Train_12 movement finished.
 21:34:22,807  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+21:44:10,177  INFO localLoger:109 - Train_0 is running.
+21:44:10,185  INFO localLoger:109 - Train_12 is running.
+21:44:10,183  INFO localLoger:109 - Train_11 is running.
+21:44:10,183  INFO localLoger:109 - Train_10 is running.
+21:44:10,182  INFO localLoger:109 - Train_9 is running.
+21:44:10,182  INFO localLoger:109 - Train_8 is running.
+21:44:10,182  INFO localLoger:109 - Train_7 is running.
+21:44:10,192  INFO localLoger:109 - Train_20 is running.
+21:44:10,192  INFO localLoger:109 - Train_21 is running.
+21:44:10,182  INFO localLoger:109 - Train_6 is running.
+21:44:10,192  INFO localLoger:109 - Train_23 is running.
+21:44:10,193  INFO localLoger:109 - Train_24 is running.
+21:44:10,181  INFO localLoger:109 - Train_5 is running.
+21:44:10,193  INFO localLoger:109 - Train_26 is running.
+21:44:10,194  INFO localLoger:109 - Train_28 is running.
+21:44:10,195  INFO localLoger:113 - Train_28 obtain permission to pass in the Tunnel_1
+21:44:10,181  INFO localLoger:109 - Train_4 is running.
+21:44:10,199  INFO localLoger:113 - Train_4 obtain permission to pass in the Tunnel_1
+21:44:10,199  INFO localLoger:138 - Train_4 enter the Tunnel_1
+21:44:10,199  INFO localLoger:113 - Train_9 obtain permission to pass in the Tunnel_2
+21:44:10,199  INFO localLoger:138 - Train_9 enter the Tunnel_2
+21:44:10,181  INFO localLoger:109 - Train_3 is running.
+21:44:10,200  INFO localLoger:113 - Train_3 obtain permission to pass in the Tunnel_2
+21:44:10,200  INFO localLoger:138 - Train_3 enter the Tunnel_2
+21:44:10,180  INFO localLoger:109 - Train_2 is running.
+21:44:10,180  INFO localLoger:109 - Train_1 is running.
+21:44:10,202  INFO localLoger:113 - Train_1 obtain permission to pass in the Tunnel_2
+21:44:10,202  INFO localLoger:138 - Train_1 enter the Tunnel_2
+21:44:10,198  INFO localLoger:113 - Train_10 obtain permission to pass in the Tunnel_1
+21:44:10,204  INFO localLoger:138 - Train_10 enter the Tunnel_1
+21:44:10,204  INFO localLoger:113 - Train_7 obtain permission to pass in the Tunnel_2
+21:44:10,198  INFO localLoger:138 - Train_28 enter the Tunnel_1
+21:44:10,196  INFO localLoger:113 - Train_11 obtain permission to pass in the Tunnel_2
+21:44:10,195  INFO localLoger:113 - Train_0 obtain permission to pass in the Tunnel_1
+21:44:10,194  INFO localLoger:113 - Train_12 obtain permission to pass in the Tunnel_1
+21:44:10,194  INFO localLoger:109 - Train_29 is running.
+21:44:10,193  INFO localLoger:109 - Train_27 is running.
+21:44:10,193  INFO localLoger:109 - Train_25 is running.
+21:44:10,192  INFO localLoger:109 - Train_22 is running.
+21:44:10,190  INFO localLoger:109 - Train_19 is running.
+21:44:10,189  INFO localLoger:109 - Train_18 is running.
+21:44:10,189  INFO localLoger:109 - Train_17 is running.
+21:44:10,188  INFO localLoger:109 - Train_16 is running.
+21:44:10,188  INFO localLoger:109 - Train_15 is running.
+21:44:10,188  INFO localLoger:109 - Train_14 is running.
+21:44:10,187  INFO localLoger:109 - Train_13 is running.
+21:44:20,199  INFO localLoger:150 - Train_4 exit the Tunnel_1
+21:44:20,199  INFO localLoger:138 - Train_0 enter the Tunnel_1
+21:44:20,200  INFO localLoger:117 - Train_4 movement finished.
+21:44:20,201  INFO localLoger:150 - Train_3 exit the Tunnel_2
+21:44:20,201  INFO localLoger:117 - Train_3 movement finished.
+21:44:20,201  INFO localLoger:138 - Train_7 enter the Tunnel_2
+21:44:20,202  INFO localLoger:150 - Train_9 exit the Tunnel_2
+21:44:20,202  INFO localLoger:117 - Train_9 movement finished.
+21:44:20,202  INFO localLoger:138 - Train_11 enter the Tunnel_2
+21:44:20,203  INFO localLoger:150 - Train_1 exit the Tunnel_2
+21:44:20,203  INFO localLoger:117 - Train_1 movement finished.
+21:44:20,204  INFO localLoger:150 - Train_10 exit the Tunnel_1
+21:44:20,204  INFO localLoger:138 - Train_12 enter the Tunnel_1
+21:44:20,205  INFO localLoger:117 - Train_10 movement finished.
+21:44:20,205  INFO localLoger:150 - Train_28 exit the Tunnel_1
+21:44:20,205  INFO localLoger:117 - Train_28 movement finished.
+21:44:30,201  INFO localLoger:150 - Train_0 exit the Tunnel_1
+21:44:30,201  INFO localLoger:117 - Train_0 movement finished.
+21:44:30,203  INFO localLoger:150 - Train_7 exit the Tunnel_2
+21:44:30,203  INFO localLoger:117 - Train_7 movement finished.
+21:44:30,204  INFO localLoger:150 - Train_11 exit the Tunnel_2
+21:44:30,204  INFO localLoger:117 - Train_11 movement finished.
+21:44:30,204  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_2 complite.
+21:44:30,205  INFO localLoger:113 - Train_2 obtain permission to pass in the Tunnel_2
+21:44:30,205  INFO localLoger:138 - Train_2 enter the Tunnel_2
+21:44:30,205  INFO localLoger:113 - Train_6 obtain permission to pass in the Tunnel_2
+21:44:30,205  INFO localLoger:113 - Train_26 obtain permission to pass in the Tunnel_2
+21:44:30,205  INFO localLoger:113 - Train_16 obtain permission to pass in the Tunnel_2
+21:44:30,205  INFO localLoger:113 - Train_24 obtain permission to pass in the Tunnel_2
+21:44:30,205  INFO localLoger:138 - Train_6 enter the Tunnel_2
+21:44:30,205  INFO localLoger:138 - Train_26 enter the Tunnel_2
+21:44:30,206  INFO localLoger:150 - Train_12 exit the Tunnel_1
+21:44:30,206  INFO localLoger:117 - Train_12 movement finished.
+21:44:30,208  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+21:44:30,209  INFO localLoger:113 - Train_5 obtain permission to pass in the Tunnel_1
+21:44:30,209  INFO localLoger:138 - Train_5 enter the Tunnel_1
+21:44:30,209  INFO localLoger:113 - Train_17 obtain permission to pass in the Tunnel_1
+21:44:30,209  INFO localLoger:138 - Train_17 enter the Tunnel_1
+21:44:30,209  INFO localLoger:113 - Train_25 obtain permission to pass in the Tunnel_1
+21:44:30,210  INFO localLoger:138 - Train_25 enter the Tunnel_1
+21:44:30,209  INFO localLoger:113 - Train_27 obtain permission to pass in the Tunnel_1
+21:44:30,210  INFO localLoger:113 - Train_13 obtain permission to pass in the Tunnel_1
+21:44:40,206  INFO localLoger:138 - Train_16 enter the Tunnel_2
+21:44:40,206  INFO localLoger:150 - Train_2 exit the Tunnel_2
+21:44:40,206  INFO localLoger:117 - Train_2 movement finished.
+21:44:40,207  INFO localLoger:150 - Train_6 exit the Tunnel_2
+21:44:40,207  INFO localLoger:138 - Train_24 enter the Tunnel_2
+21:44:40,207  INFO localLoger:150 - Train_26 exit the Tunnel_2
+21:44:40,207  INFO localLoger:117 - Train_26 movement finished.
+21:44:40,207  INFO localLoger:117 - Train_6 movement finished.
+21:44:40,209  INFO localLoger:150 - Train_5 exit the Tunnel_1
+21:44:40,209  INFO localLoger:117 - Train_5 movement finished.
+21:44:40,209  INFO localLoger:138 - Train_27 enter the Tunnel_1
+21:44:40,210  INFO localLoger:150 - Train_25 exit the Tunnel_1
+21:44:40,210  INFO localLoger:138 - Train_13 enter the Tunnel_1
+21:44:40,210  INFO localLoger:117 - Train_25 movement finished.
+21:44:40,211  INFO localLoger:150 - Train_17 exit the Tunnel_1
+21:44:40,211  INFO localLoger:117 - Train_17 movement finished.
+21:44:50,207  INFO localLoger:150 - Train_16 exit the Tunnel_2
+21:44:50,207  INFO localLoger:117 - Train_16 movement finished.
+21:44:50,208  INFO localLoger:150 - Train_24 exit the Tunnel_2
+21:44:50,208  INFO localLoger:117 - Train_24 movement finished.
+21:44:50,209  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+21:44:50,209  INFO localLoger:113 - Train_29 obtain permission to pass in the Tunnel_2
+21:44:50,209  INFO localLoger:113 - Train_15 obtain permission to pass in the Tunnel_2
+21:44:50,210  INFO localLoger:138 - Train_15 enter the Tunnel_2
+21:44:50,210  INFO localLoger:138 - Train_29 enter the Tunnel_2
+21:44:50,209  INFO localLoger:113 - Train_23 obtain permission to pass in the Tunnel_2
+21:44:50,210  INFO localLoger:138 - Train_23 enter the Tunnel_2
+21:44:50,210  INFO localLoger:113 - Train_21 obtain permission to pass in the Tunnel_2
+21:44:50,211  INFO localLoger:113 - Train_19 obtain permission to pass in the Tunnel_2
+21:44:50,211  INFO localLoger:150 - Train_27 exit the Tunnel_1
+21:44:50,211  INFO localLoger:117 - Train_27 movement finished.
+21:44:50,211  INFO localLoger:150 - Train_13 exit the Tunnel_1
+21:44:50,211  INFO localLoger:117 - Train_13 movement finished.
+21:44:50,212  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_1 complite.
+21:44:50,212  INFO localLoger:113 - Train_20 obtain permission to pass in the Tunnel_1
+21:44:50,212  INFO localLoger:113 - Train_22 obtain permission to pass in the Tunnel_1
+21:44:50,212  INFO localLoger:138 - Train_22 enter the Tunnel_1
+21:44:50,212  INFO localLoger:113 - Train_8 obtain permission to pass in the Tunnel_1
+21:44:50,212  INFO localLoger:138 - Train_20 enter the Tunnel_1
+21:44:50,213  INFO localLoger:138 - Train_8 enter the Tunnel_1
+21:44:50,212  INFO localLoger:113 - Train_14 obtain permission to pass in the Tunnel_1
+21:44:50,212  INFO localLoger:113 - Train_18 obtain permission to pass in the Tunnel_1
+21:45:00,247  INFO localLoger:138 - Train_21 enter the Tunnel_2
+21:45:00,247  INFO localLoger:150 - Train_22 exit the Tunnel_1
+21:45:00,247  INFO localLoger:138 - Train_14 enter the Tunnel_1
+21:45:00,247  INFO localLoger:150 - Train_15 exit the Tunnel_2
+21:45:00,288  INFO localLoger:117 - Train_15 movement finished.
+21:45:00,288  INFO localLoger:150 - Train_29 exit the Tunnel_2
+21:45:00,288  INFO localLoger:117 - Train_29 movement finished.
+21:45:00,289  INFO localLoger:150 - Train_23 exit the Tunnel_2
+21:45:00,289  INFO localLoger:117 - Train_23 movement finished.
+21:45:00,290  INFO localLoger:117 - Train_22 movement finished.
+21:45:00,291  INFO localLoger:150 - Train_8 exit the Tunnel_1
+21:45:00,291  INFO localLoger:117 - Train_8 movement finished.
+21:45:00,291  INFO localLoger:150 - Train_20 exit the Tunnel_1
+21:45:00,292  INFO localLoger:117 - Train_20 movement finished.
+21:45:00,294  INFO localLoger:138 - Train_18 enter the Tunnel_1
+21:45:00,294  INFO localLoger:138 - Train_19 enter the Tunnel_2
+21:45:10,288  INFO localLoger:150 - Train_14 exit the Tunnel_1
+21:45:10,288  INFO localLoger:150 - Train_21 exit the Tunnel_2
+21:45:10,289  INFO localLoger:117 - Train_21 movement finished.
+21:45:10,289  INFO localLoger:117 - Train_14 movement finished.
+21:45:10,295  INFO localLoger:150 - Train_18 exit the Tunnel_1
+21:45:10,296  INFO localLoger:117 - Train_18 movement finished.
+21:45:10,295  INFO localLoger:150 - Train_19 exit the Tunnel_2
+21:45:10,296  INFO localLoger:117 - Train_19 movement finished.
+21:45:10,296  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_2 complite.
+21:45:10,296  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+01:02:09,306  INFO localLoger:109 - Train_1 is running.
+01:02:09,314  INFO localLoger:109 - Train_29 is running.
+01:02:09,306  INFO localLoger:109 - Train_5 is running.
+01:02:09,314  INFO localLoger:109 - Train_28 is running.
+01:02:09,314  INFO localLoger:109 - Train_27 is running.
+01:02:09,313  INFO localLoger:109 - Train_26 is running.
+01:02:09,313  INFO localLoger:109 - Train_25 is running.
+01:02:09,336  INFO localLoger:113 - Train_25 obtain permission to pass in the Tunnel_1
+01:02:09,313  INFO localLoger:109 - Train_24 is running.
+01:02:09,313  INFO localLoger:109 - Train_23 is running.
+01:02:09,313  INFO localLoger:109 - Train_22 is running.
+01:02:09,313  INFO localLoger:109 - Train_21 is running.
+01:02:09,313  INFO localLoger:109 - Train_20 is running.
+01:02:09,338  INFO localLoger:113 - Train_20 obtain permission to pass in the Tunnel_2
+01:02:09,338  INFO localLoger:138 - Train_20 enter the Tunnel_2
+01:02:09,313  INFO localLoger:109 - Train_19 is running.
+01:02:09,312  INFO localLoger:109 - Train_18 is running.
+01:02:09,312  INFO localLoger:109 - Train_17 is running.
+01:02:09,312  INFO localLoger:109 - Train_16 is running.
+01:02:09,312  INFO localLoger:109 - Train_15 is running.
+01:02:09,310  INFO localLoger:109 - Train_14 is running.
+01:02:09,310  INFO localLoger:109 - Train_13 is running.
+01:02:09,310  INFO localLoger:109 - Train_12 is running.
+01:02:09,309  INFO localLoger:109 - Train_11 is running.
+01:02:09,309  INFO localLoger:109 - Train_10 is running.
+01:02:09,309  INFO localLoger:109 - Train_9 is running.
+01:02:09,308  INFO localLoger:109 - Train_8 is running.
+01:02:09,307  INFO localLoger:109 - Train_7 is running.
+01:02:09,307  INFO localLoger:109 - Train_4 is running.
+01:02:09,307  INFO localLoger:109 - Train_0 is running.
+01:02:09,307  INFO localLoger:109 - Train_2 is running.
+01:02:09,307  INFO localLoger:109 - Train_3 is running.
+01:02:09,306  INFO localLoger:109 - Train_6 is running.
+01:02:09,337  INFO localLoger:113 - Train_22 obtain permission to pass in the Tunnel_2
+01:02:09,336  INFO localLoger:113 - Train_24 obtain permission to pass in the Tunnel_2
+01:02:09,363  INFO localLoger:138 - Train_24 enter the Tunnel_2
+01:02:09,336  INFO localLoger:138 - Train_25 enter the Tunnel_1
+01:02:09,336  INFO localLoger:113 - Train_26 obtain permission to pass in the Tunnel_2
+01:02:09,326  INFO localLoger:113 - Train_28 obtain permission to pass in the Tunnel_2
+01:02:09,325  INFO localLoger:113 - Train_27 obtain permission to pass in the Tunnel_1
+01:02:09,365  INFO localLoger:138 - Train_27 enter the Tunnel_1
+01:02:09,325  INFO localLoger:113 - Train_5 obtain permission to pass in the Tunnel_1
+01:02:09,367  INFO localLoger:138 - Train_5 enter the Tunnel_1
+01:02:09,325  INFO localLoger:113 - Train_29 obtain permission to pass in the Tunnel_1
+01:02:09,325  INFO localLoger:113 - Train_1 obtain permission to pass in the Tunnel_1
+01:02:09,363  INFO localLoger:138 - Train_22 enter the Tunnel_2
+01:02:19,339  INFO localLoger:138 - Train_26 enter the Tunnel_2
+01:02:19,339  INFO localLoger:150 - Train_20 exit the Tunnel_2
+01:02:19,340  INFO localLoger:117 - Train_20 movement finished.
+01:02:19,365  INFO localLoger:138 - Train_29 enter the Tunnel_1
+01:02:19,365  INFO localLoger:138 - Train_28 enter the Tunnel_2
+01:02:19,365  INFO localLoger:150 - Train_24 exit the Tunnel_2
+01:02:19,365  INFO localLoger:117 - Train_24 movement finished.
+01:02:19,365  INFO localLoger:150 - Train_25 exit the Tunnel_1
+01:02:19,366  INFO localLoger:117 - Train_25 movement finished.
+01:02:19,367  INFO localLoger:150 - Train_27 exit the Tunnel_1
+01:02:19,368  INFO localLoger:117 - Train_27 movement finished.
+01:02:19,368  INFO localLoger:138 - Train_1 enter the Tunnel_1
+01:02:19,371  INFO localLoger:150 - Train_22 exit the Tunnel_2
+01:02:19,372  INFO localLoger:117 - Train_22 movement finished.
+01:02:19,371  INFO localLoger:150 - Train_5 exit the Tunnel_1
+01:02:19,372  INFO localLoger:117 - Train_5 movement finished.
+01:02:29,340  INFO localLoger:150 - Train_26 exit the Tunnel_2
+01:02:29,341  INFO localLoger:117 - Train_26 movement finished.
+01:02:29,366  INFO localLoger:150 - Train_29 exit the Tunnel_1
+01:02:29,366  INFO localLoger:150 - Train_28 exit the Tunnel_2
+01:02:29,366  INFO localLoger:117 - Train_29 movement finished.
+01:02:29,366  INFO localLoger:117 - Train_28 movement finished.
+01:02:29,367  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+01:02:29,368  INFO localLoger:113 - Train_13 obtain permission to pass in the Tunnel_2
+01:02:29,368  INFO localLoger:138 - Train_13 enter the Tunnel_2
+01:02:29,368  INFO localLoger:113 - Train_21 obtain permission to pass in the Tunnel_2
+01:02:29,368  INFO localLoger:138 - Train_21 enter the Tunnel_2
+01:02:29,369  INFO localLoger:113 - Train_23 obtain permission to pass in the Tunnel_2
+01:02:29,370  INFO localLoger:138 - Train_23 enter the Tunnel_2
+01:02:29,370  INFO localLoger:113 - Train_3 obtain permission to pass in the Tunnel_2
+01:02:29,370  INFO localLoger:113 - Train_17 obtain permission to pass in the Tunnel_2
+01:02:29,372  INFO localLoger:150 - Train_1 exit the Tunnel_1
+01:02:29,372  INFO localLoger:117 - Train_1 movement finished.
+01:02:29,373  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_1 complite.
+01:02:29,374  INFO localLoger:113 - Train_12 obtain permission to pass in the Tunnel_1
+01:02:29,374  INFO localLoger:113 - Train_14 obtain permission to pass in the Tunnel_1
+01:02:29,374  INFO localLoger:138 - Train_14 enter the Tunnel_1
+01:02:29,374  INFO localLoger:113 - Train_18 obtain permission to pass in the Tunnel_1
+01:02:29,375  INFO localLoger:138 - Train_18 enter the Tunnel_1
+01:02:29,374  INFO localLoger:113 - Train_16 obtain permission to pass in the Tunnel_1
+01:02:29,374  INFO localLoger:113 - Train_8 obtain permission to pass in the Tunnel_1
+01:02:29,374  INFO localLoger:138 - Train_12 enter the Tunnel_1
+01:02:39,369  INFO localLoger:138 - Train_3 enter the Tunnel_2
+01:02:39,369  INFO localLoger:150 - Train_21 exit the Tunnel_2
+01:02:39,370  INFO localLoger:117 - Train_21 movement finished.
+01:02:39,370  INFO localLoger:150 - Train_13 exit the Tunnel_2
+01:02:39,370  INFO localLoger:138 - Train_17 enter the Tunnel_2
+01:02:39,370  INFO localLoger:117 - Train_13 movement finished.
+01:02:39,371  INFO localLoger:150 - Train_23 exit the Tunnel_2
+01:02:39,371  INFO localLoger:117 - Train_23 movement finished.
+01:02:39,375  INFO localLoger:150 - Train_14 exit the Tunnel_1
+01:02:39,375  INFO localLoger:117 - Train_14 movement finished.
+01:02:39,375  INFO localLoger:138 - Train_16 enter the Tunnel_1
+01:02:39,377  INFO localLoger:150 - Train_18 exit the Tunnel_1
+01:02:39,377  INFO localLoger:138 - Train_8 enter the Tunnel_1
+01:02:39,377  INFO localLoger:117 - Train_18 movement finished.
+01:02:39,378  INFO localLoger:150 - Train_12 exit the Tunnel_1
+01:02:39,378  INFO localLoger:117 - Train_12 movement finished.
+01:02:49,370  INFO localLoger:150 - Train_3 exit the Tunnel_2
+01:02:49,371  INFO localLoger:117 - Train_3 movement finished.
+01:02:49,371  INFO localLoger:150 - Train_17 exit the Tunnel_2
+01:02:49,371  INFO localLoger:117 - Train_17 movement finished.
+01:02:49,371  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_2 complite.
+01:02:49,372  INFO localLoger:113 - Train_2 obtain permission to pass in the Tunnel_2
+01:02:49,372  INFO localLoger:113 - Train_0 obtain permission to pass in the Tunnel_2
+01:02:49,372  INFO localLoger:138 - Train_2 enter the Tunnel_2
+01:02:49,373  INFO localLoger:113 - Train_10 obtain permission to pass in the Tunnel_2
+01:02:49,373  INFO localLoger:138 - Train_10 enter the Tunnel_2
+01:02:49,372  INFO localLoger:113 - Train_4 obtain permission to pass in the Tunnel_2
+01:02:49,372  INFO localLoger:138 - Train_0 enter the Tunnel_2
+01:02:49,372  INFO localLoger:113 - Train_6 obtain permission to pass in the Tunnel_2
+01:02:49,377  INFO localLoger:150 - Train_16 exit the Tunnel_1
+01:02:49,377  INFO localLoger:117 - Train_16 movement finished.
+01:02:49,378  INFO localLoger:150 - Train_8 exit the Tunnel_1
+01:02:49,378  INFO localLoger:117 - Train_8 movement finished.
+01:02:49,378  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_1 complite.
+01:02:49,379  INFO localLoger:113 - Train_9 obtain permission to pass in the Tunnel_1
+01:02:49,379  INFO localLoger:113 - Train_7 obtain permission to pass in the Tunnel_1
+01:02:49,379  INFO localLoger:113 - Train_15 obtain permission to pass in the Tunnel_1
+01:02:49,379  INFO localLoger:113 - Train_11 obtain permission to pass in the Tunnel_1
+01:02:49,379  INFO localLoger:138 - Train_15 enter the Tunnel_1
+01:02:49,379  INFO localLoger:138 - Train_9 enter the Tunnel_1
+01:02:49,379  INFO localLoger:113 - Train_19 obtain permission to pass in the Tunnel_1
+01:02:49,379  INFO localLoger:138 - Train_7 enter the Tunnel_1
+01:02:59,374  INFO localLoger:138 - Train_4 enter the Tunnel_2
+01:02:59,374  INFO localLoger:150 - Train_2 exit the Tunnel_2
+01:02:59,375  INFO localLoger:117 - Train_2 movement finished.
+01:02:59,375  INFO localLoger:138 - Train_6 enter the Tunnel_2
+01:02:59,375  INFO localLoger:150 - Train_10 exit the Tunnel_2
+01:02:59,375  INFO localLoger:117 - Train_10 movement finished.
+01:02:59,376  INFO localLoger:150 - Train_0 exit the Tunnel_2
+01:02:59,376  INFO localLoger:117 - Train_0 movement finished.
+01:02:59,381  INFO localLoger:150 - Train_7 exit the Tunnel_1
+01:02:59,381  INFO localLoger:138 - Train_11 enter the Tunnel_1
+01:02:59,381  INFO localLoger:138 - Train_19 enter the Tunnel_1
+01:02:59,381  INFO localLoger:150 - Train_15 exit the Tunnel_1
+01:02:59,382  INFO localLoger:117 - Train_15 movement finished.
+01:02:59,381  INFO localLoger:117 - Train_7 movement finished.
+01:02:59,382  INFO localLoger:150 - Train_9 exit the Tunnel_1
+01:02:59,382  INFO localLoger:117 - Train_9 movement finished.
+01:03:09,376  INFO localLoger:150 - Train_6 exit the Tunnel_2
+01:03:09,376  INFO localLoger:117 - Train_6 movement finished.
+01:03:09,376  INFO localLoger:150 - Train_4 exit the Tunnel_2
+01:03:09,376  INFO localLoger:117 - Train_4 movement finished.
+01:03:09,377  INFO localLoger:111 - Phase mooving to the DOMODOSSOLA in Tunnel_2 complite.
+01:03:09,382  INFO localLoger:150 - Train_11 exit the Tunnel_1
+01:03:09,383  INFO localLoger:117 - Train_11 movement finished.
+01:03:09,383  INFO localLoger:150 - Train_19 exit the Tunnel_1
+01:03:09,383  INFO localLoger:117 - Train_19 movement finished.
+01:03:09,383  INFO localLoger:111 - Phase mooving to the BRIG in Tunnel_1 complite.
+01:04:47,814 ERROR localLoger:21 - ProjectException: Can't add tunnel = null.
+01:04:47,825  INFO localLoger:22 - [Ljava.lang.StackTraceElement;@5577140b
+01:04:47,825 ERROR localLoger:21 - EntityInitException: Can't add tunnel = null.
+01:04:47,826  INFO localLoger:22 - [Ljava.lang.StackTraceElement;@1c6b6478
+01:07:55,479  INFO localLoger:109 - Train_0 is running.
+01:08:47,272  INFO localLoger:109 - Train_0 is running.

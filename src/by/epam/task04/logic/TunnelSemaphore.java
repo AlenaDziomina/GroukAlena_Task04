@@ -4,8 +4,9 @@
  * and open the template in the editor.
  */
 
-package by.epam.task04.entity;
+package by.epam.task04.logic;
 
+import by.epam.task04.entity.TrainDirection;
 import java.util.Objects;
 import java.util.concurrent.Semaphore;
 
