@@ -1,6 +1,7 @@
 package by.epam.task04.entity;
 
-import by.epam.task04.logic.TrainAdjustment;
+import by.epam.task04.implement.FollowTheTunnel;
+import by.epam.task04.logic.TunnelAndTrainAdjustment;
 import java.util.Objects;
 import static task04.Task04.LOCAL_LOGGER;
 
@@ -82,33 +83,33 @@ public class Train implements Runnable, FollowTheTunnel{
     @Override
     public void run() {
         
-        LOCAL_LOGGER.info(this.toString() + " is running.");
+        LOCAL_LOGGER.info(this + " is running.");
         
-        Tunnel tunnel = TrainAdjustment.getTunnel(this.direct);
+        Tunnel tunnel = TunnelAndTrainAdjustment.getTunnel(this.direct);
         
-        LOCAL_LOGGER.info(this.toString() + " obtain permission to pass in the " + tunnel.toString());
+        LOCAL_LOGGER.info(this + " obtain permission to pass in the " + tunnel);
         
         moveThrowTunnel(tunnel);
         
-        LOCAL_LOGGER.info(this.toString() + " movement finished.");
+        LOCAL_LOGGER.info(this + " movement finished.");
         
     }
 
     @Override
     public void moveThrowTunnel(Tunnel tunnel) {
         
-        TrainAdjustment.enterTheTunnel(this, tunnel);
-        LOCAL_LOGGER.info(this.toString() + " enter the " + tunnel.toString());
+        TunnelAndTrainAdjustment.enterTheTunnel(this, tunnel);
+        LOCAL_LOGGER.info(this + " enter the " + tunnel);
         
         try {
             Thread.sleep(Train.FOLLOW_THE_TUNNEL_TIME);
         } catch (InterruptedException ex) {
-            LOCAL_LOGGER.error("Movement of the " + this.toString() + " in the "
-                    + tunnel.toString() + " is interrupted");
+            LOCAL_LOGGER.error("Movement of the " + this + " in the "
+                    + tunnel + " is interrupted");
         }
         
-        TrainAdjustment.exitTunnel(this, tunnel);
-        LOCAL_LOGGER.info(this.toString() + " exit the " + tunnel.toString());
+        TunnelAndTrainAdjustment.exitTunnel(this, tunnel);
+        LOCAL_LOGGER.info(this + " exit the " + tunnel);
     }
     
     

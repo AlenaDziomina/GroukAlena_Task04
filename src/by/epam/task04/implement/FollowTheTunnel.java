@@ -4,7 +4,9 @@
  * and open the template in the editor.
  */
 
-package by.epam.task04.entity;
+package by.epam.task04.implement;
+
+import by.epam.task04.entity.Tunnel;
 
 /**
  *

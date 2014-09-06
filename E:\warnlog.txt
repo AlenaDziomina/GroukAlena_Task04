@@ -1,0 +1,1234 @@
+14:15:23,410  INFO localLoger:85 - Train@id: 0 direct: LEFT is running.
+14:15:23,418  INFO localLoger:85 - Train@id: 13 direct: RIGTH is running.
+14:15:23,417  INFO localLoger:85 - Train@id: 12 direct: LEFT is running.
+14:15:23,417  INFO localLoger:85 - Train@id: 11 direct: RIGTH is running.
+14:15:23,417  INFO localLoger:85 - Train@id: 10 direct: LEFT is running.
+14:15:23,416  INFO localLoger:85 - Train@id: 9 direct: RIGTH is running.
+14:15:23,415  INFO localLoger:85 - Train@id: 8 direct: LEFT is running.
+14:15:23,415  INFO localLoger:85 - Train@id: 7 direct: RIGTH is running.
+14:15:23,415  INFO localLoger:85 - Train@id: 6 direct: LEFT is running.
+14:15:23,413  INFO localLoger:85 - Train@id: 4 direct: LEFT is running.
+14:15:23,414  INFO localLoger:85 - Train@id: 5 direct: RIGTH is running.
+14:15:23,411  INFO localLoger:85 - Train@id: 3 direct: RIGTH is running.
+14:15:23,411  INFO localLoger:85 - Train@id: 2 direct: LEFT is running.
+14:15:23,410  INFO localLoger:85 - Train@id: 1 direct: RIGTH is running.
+14:15:23,426  INFO localLoger:85 - Train@id: 29 direct: RIGTH is running.
+14:15:23,425  INFO localLoger:85 - Train@id: 28 direct: LEFT is running.
+14:15:23,425  INFO localLoger:85 - Train@id: 27 direct: RIGTH is running.
+14:15:23,425  INFO localLoger:85 - Train@id: 26 direct: LEFT is running.
+14:15:23,425  INFO localLoger:85 - Train@id: 25 direct: RIGTH is running.
+14:15:23,424  INFO localLoger:85 - Train@id: 24 direct: LEFT is running.
+14:15:23,424  INFO localLoger:85 - Train@id: 23 direct: RIGTH is running.
+14:15:23,439  INFO localLoger:89 - Train@id: 2 direct: LEFT obtain permission to pass in the Tunnel1
+14:15:23,440  INFO localLoger:99 - Train@id: 2 direct: LEFT enter the Tunnel1
+14:15:23,440  INFO localLoger:89 - Train@id: 28 direct: LEFT obtain permission to pass in the Tunnel0
+14:15:23,440  INFO localLoger:99 - Train@id: 28 direct: LEFT enter the Tunnel0
+14:15:23,440  INFO localLoger:89 - Train@id: 10 direct: LEFT obtain permission to pass in the Tunnel0
+14:15:23,441  INFO localLoger:99 - Train@id: 10 direct: LEFT enter the Tunnel0
+14:15:23,441  INFO localLoger:89 - Train@id: 4 direct: LEFT obtain permission to pass in the Tunnel0
+14:15:23,441  INFO localLoger:99 - Train@id: 4 direct: LEFT enter the Tunnel0
+14:15:23,424  INFO localLoger:85 - Train@id: 22 direct: LEFT is running.
+14:15:23,424  INFO localLoger:85 - Train@id: 21 direct: RIGTH is running.
+14:15:23,442  INFO localLoger:89 - Train@id: 8 direct: LEFT obtain permission to pass in the Tunnel1
+14:15:23,442  INFO localLoger:89 - Train@id: 24 direct: LEFT obtain permission to pass in the Tunnel1
+14:15:23,424  INFO localLoger:85 - Train@id: 20 direct: LEFT is running.
+14:15:23,423  INFO localLoger:85 - Train@id: 19 direct: RIGTH is running.
+14:15:23,423  INFO localLoger:85 - Train@id: 18 direct: LEFT is running.
+14:15:23,422  INFO localLoger:85 - Train@id: 17 direct: RIGTH is running.
+14:15:23,422  INFO localLoger:85 - Train@id: 16 direct: LEFT is running.
+14:15:23,422  INFO localLoger:85 - Train@id: 15 direct: RIGTH is running.
+14:15:23,421  INFO localLoger:85 - Train@id: 14 direct: LEFT is running.
+14:15:23,442  INFO localLoger:99 - Train@id: 24 direct: LEFT enter the Tunnel1
+14:15:23,442  INFO localLoger:99 - Train@id: 8 direct: LEFT enter the Tunnel1
+14:15:23,441  INFO localLoger:89 - Train@id: 12 direct: LEFT obtain permission to pass in the Tunnel1
+14:15:23,441  INFO localLoger:89 - Train@id: 6 direct: LEFT obtain permission to pass in the Tunnel0
+14:15:23,441  INFO localLoger:89 - Train@id: 26 direct: LEFT obtain permission to pass in the Tunnel1
+14:15:23,440  INFO localLoger:89 - Train@id: 0 direct: LEFT obtain permission to pass in the Tunnel0
+14:15:33,441  INFO localLoger:109 - Train@id: 28 direct: LEFT exit the Tunnel0
+14:15:33,441  INFO localLoger:99 - Train@id: 6 direct: LEFT enter the Tunnel0
+14:15:33,442  INFO localLoger:99 - Train@id: 0 direct: LEFT enter the Tunnel0
+14:15:33,441  INFO localLoger:109 - Train@id: 10 direct: LEFT exit the Tunnel0
+14:15:33,441  INFO localLoger:99 - Train@id: 12 direct: LEFT enter the Tunnel1
+14:15:33,443  INFO localLoger:109 - Train@id: 4 direct: LEFT exit the Tunnel0
+14:15:33,441  INFO localLoger:109 - Train@id: 2 direct: LEFT exit the Tunnel1
+14:15:33,448  INFO localLoger:109 - Train@id: 24 direct: LEFT exit the Tunnel1
+14:15:33,448  INFO localLoger:109 - Train@id: 8 direct: LEFT exit the Tunnel1
+14:15:33,448  INFO localLoger:99 - Train@id: 26 direct: LEFT enter the Tunnel1
+14:15:43,443  INFO localLoger:109 - Train@id: 0 direct: LEFT exit the Tunnel0
+14:15:43,443  INFO localLoger:89 - Train@id: 1 direct: RIGTH obtain permission to pass in the Tunnel0
+14:15:43,444  INFO localLoger:99 - Train@id: 1 direct: RIGTH enter the Tunnel0
+14:15:43,443  INFO localLoger:109 - Train@id: 12 direct: LEFT exit the Tunnel1
+14:15:43,445  INFO localLoger:89 - Train@id: 9 direct: RIGTH obtain permission to pass in the Tunnel0
+14:15:43,443  INFO localLoger:109 - Train@id: 6 direct: LEFT exit the Tunnel0
+14:15:43,445  INFO localLoger:89 - Train@id: 7 direct: RIGTH obtain permission to pass in the Tunnel0
+14:15:43,446  INFO localLoger:99 - Train@id: 7 direct: RIGTH enter the Tunnel0
+14:15:43,445  INFO localLoger:99 - Train@id: 9 direct: RIGTH enter the Tunnel0
+14:15:43,445  INFO localLoger:89 - Train@id: 27 direct: RIGTH obtain permission to pass in the Tunnel0
+14:15:43,445  INFO localLoger:89 - Train@id: 5 direct: RIGTH obtain permission to pass in the Tunnel0
+14:15:43,450  INFO localLoger:109 - Train@id: 26 direct: LEFT exit the Tunnel1
+14:15:43,450  INFO localLoger:89 - Train@id: 19 direct: RIGTH obtain permission to pass in the Tunnel1
+14:15:43,450  INFO localLoger:99 - Train@id: 19 direct: RIGTH enter the Tunnel1
+14:15:43,451  INFO localLoger:89 - Train@id: 15 direct: RIGTH obtain permission to pass in the Tunnel1
+14:15:43,451  INFO localLoger:89 - Train@id: 11 direct: RIGTH obtain permission to pass in the Tunnel1
+14:15:43,451  INFO localLoger:99 - Train@id: 11 direct: RIGTH enter the Tunnel1
+14:15:43,451  INFO localLoger:89 - Train@id: 23 direct: RIGTH obtain permission to pass in the Tunnel1
+14:15:43,451  INFO localLoger:89 - Train@id: 29 direct: RIGTH obtain permission to pass in the Tunnel1
+14:15:43,451  INFO localLoger:99 - Train@id: 15 direct: RIGTH enter the Tunnel1
+14:15:53,444  INFO localLoger:109 - Train@id: 1 direct: RIGTH exit the Tunnel0
+14:15:53,444  INFO localLoger:99 - Train@id: 27 direct: RIGTH enter the Tunnel0
+14:15:53,447  INFO localLoger:99 - Train@id: 5 direct: RIGTH enter the Tunnel0
+14:15:53,447  INFO localLoger:109 - Train@id: 7 direct: RIGTH exit the Tunnel0
+14:15:53,447  INFO localLoger:109 - Train@id: 9 direct: RIGTH exit the Tunnel0
+14:15:53,451  INFO localLoger:109 - Train@id: 19 direct: RIGTH exit the Tunnel1
+14:15:53,452  INFO localLoger:99 - Train@id: 23 direct: RIGTH enter the Tunnel1
+14:15:53,451  INFO localLoger:109 - Train@id: 11 direct: RIGTH exit the Tunnel1
+14:15:53,452  INFO localLoger:99 - Train@id: 29 direct: RIGTH enter the Tunnel1
+14:15:53,452  INFO localLoger:109 - Train@id: 15 direct: RIGTH exit the Tunnel1
+14:16:03,445  INFO localLoger:109 - Train@id: 27 direct: RIGTH exit the Tunnel0
+14:16:03,448  INFO localLoger:109 - Train@id: 5 direct: RIGTH exit the Tunnel0
+14:16:03,449  INFO localLoger:89 - Train@id: 20 direct: LEFT obtain permission to pass in the Tunnel0
+14:16:03,449  INFO localLoger:99 - Train@id: 20 direct: LEFT enter the Tunnel0
+14:16:03,449  INFO localLoger:89 - Train@id: 16 direct: LEFT obtain permission to pass in the Tunnel0
+14:16:03,450  INFO localLoger:99 - Train@id: 16 direct: LEFT enter the Tunnel0
+14:16:03,450  INFO localLoger:89 - Train@id: 18 direct: LEFT obtain permission to pass in the Tunnel0
+14:16:03,450  INFO localLoger:99 - Train@id: 18 direct: LEFT enter the Tunnel0
+14:16:03,450  INFO localLoger:89 - Train@id: 14 direct: LEFT obtain permission to pass in the Tunnel0
+14:16:03,450  INFO localLoger:89 - Train@id: 22 direct: LEFT obtain permission to pass in the Tunnel0
+14:16:03,452  INFO localLoger:109 - Train@id: 23 direct: RIGTH exit the Tunnel1
+14:16:03,453  INFO localLoger:109 - Train@id: 29 direct: RIGTH exit the Tunnel1
+14:16:03,555  INFO localLoger:89 - Train@id: 13 direct: RIGTH obtain permission to pass in the Tunnel1
+14:16:03,556  INFO localLoger:99 - Train@id: 13 direct: RIGTH enter the Tunnel1
+14:16:03,556  INFO localLoger:89 - Train@id: 17 direct: RIGTH obtain permission to pass in the Tunnel1
+14:16:03,556  INFO localLoger:99 - Train@id: 17 direct: RIGTH enter the Tunnel1
+14:16:03,556  INFO localLoger:89 - Train@id: 25 direct: RIGTH obtain permission to pass in the Tunnel1
+14:16:03,556  INFO localLoger:99 - Train@id: 25 direct: RIGTH enter the Tunnel1
+14:16:03,557  INFO localLoger:89 - Train@id: 3 direct: RIGTH obtain permission to pass in the Tunnel1
+14:16:03,557  INFO localLoger:89 - Train@id: 21 direct: RIGTH obtain permission to pass in the Tunnel1
+14:16:13,451  INFO localLoger:109 - Train@id: 16 direct: LEFT exit the Tunnel0
+14:16:13,451  INFO localLoger:99 - Train@id: 22 direct: LEFT enter the Tunnel0
+14:16:13,451  INFO localLoger:109 - Train@id: 20 direct: LEFT exit the Tunnel0
+14:16:13,451  INFO localLoger:109 - Train@id: 18 direct: LEFT exit the Tunnel0
+14:16:13,451  INFO localLoger:99 - Train@id: 14 direct: LEFT enter the Tunnel0
+14:16:13,557  INFO localLoger:109 - Train@id: 25 direct: RIGTH exit the Tunnel1
+14:16:13,557  INFO localLoger:99 - Train@id: 21 direct: RIGTH enter the Tunnel1
+14:16:13,557  INFO localLoger:99 - Train@id: 3 direct: RIGTH enter the Tunnel1
+14:16:13,557  INFO localLoger:109 - Train@id: 13 direct: RIGTH exit the Tunnel1
+14:16:13,557  INFO localLoger:109 - Train@id: 17 direct: RIGTH exit the Tunnel1
+14:16:23,452  INFO localLoger:109 - Train@id: 22 direct: LEFT exit the Tunnel0
+14:16:23,453  INFO localLoger:109 - Train@id: 14 direct: LEFT exit the Tunnel0
+14:16:23,559  INFO localLoger:109 - Train@id: 21 direct: RIGTH exit the Tunnel1
+14:16:23,559  INFO localLoger:109 - Train@id: 3 direct: RIGTH exit the Tunnel1
+16:29:01,947  INFO localLoger:86 - Train@id: 0 direct: LEFT is running.
+16:29:01,952  INFO localLoger:86 - Train@id: 29 direct: RIGTH is running.
+16:29:01,952  INFO localLoger:86 - Train@id: 28 direct: LEFT is running.
+16:29:01,952  INFO localLoger:86 - Train@id: 26 direct: LEFT is running.
+16:29:01,951  INFO localLoger:86 - Train@id: 27 direct: RIGTH is running.
+16:29:01,951  INFO localLoger:86 - Train@id: 25 direct: RIGTH is running.
+16:29:01,951  INFO localLoger:86 - Train@id: 24 direct: LEFT is running.
+16:29:01,951  INFO localLoger:86 - Train@id: 23 direct: RIGTH is running.
+16:29:01,951  INFO localLoger:86 - Train@id: 22 direct: LEFT is running.
+16:29:01,950  INFO localLoger:86 - Train@id: 21 direct: RIGTH is running.
+16:29:01,950  INFO localLoger:86 - Train@id: 20 direct: LEFT is running.
+16:29:01,950  INFO localLoger:86 - Train@id: 19 direct: RIGTH is running.
+16:29:01,950  INFO localLoger:86 - Train@id: 18 direct: LEFT is running.
+16:29:01,950  INFO localLoger:86 - Train@id: 17 direct: RIGTH is running.
+16:29:01,950  INFO localLoger:86 - Train@id: 16 direct: LEFT is running.
+16:29:01,950  INFO localLoger:86 - Train@id: 15 direct: RIGTH is running.
+16:29:01,949  INFO localLoger:86 - Train@id: 14 direct: LEFT is running.
+16:29:01,949  INFO localLoger:86 - Train@id: 13 direct: RIGTH is running.
+16:29:01,949  INFO localLoger:86 - Train@id: 12 direct: LEFT is running.
+16:29:01,949  INFO localLoger:86 - Train@id: 11 direct: RIGTH is running.
+16:29:01,948  INFO localLoger:86 - Train@id: 10 direct: LEFT is running.
+16:29:01,948  INFO localLoger:86 - Train@id: 9 direct: RIGTH is running.
+16:29:01,948  INFO localLoger:86 - Train@id: 7 direct: RIGTH is running.
+16:29:01,948  INFO localLoger:86 - Train@id: 6 direct: LEFT is running.
+16:29:01,948  INFO localLoger:86 - Train@id: 5 direct: RIGTH is running.
+16:29:01,948  INFO localLoger:86 - Train@id: 4 direct: LEFT is running.
+16:29:01,948  INFO localLoger:86 - Train@id: 3 direct: RIGTH is running.
+16:29:01,947  INFO localLoger:86 - Train@id: 1 direct: RIGTH is running.
+16:29:01,947  INFO localLoger:86 - Train@id: 8 direct: LEFT is running.
+16:29:01,947  INFO localLoger:86 - Train@id: 2 direct: LEFT is running.
+18:11:13,433  INFO localLoger:86 - Train@id: 0 direct: LEFT is running.
+18:11:13,438  INFO localLoger:86 - Train@id: 29 direct: RIGTH is running.
+18:11:13,438  INFO localLoger:86 - Train@id: 28 direct: LEFT is running.
+18:11:13,438  INFO localLoger:86 - Train@id: 27 direct: RIGTH is running.
+18:11:13,438  INFO localLoger:86 - Train@id: 26 direct: LEFT is running.
+18:11:13,438  INFO localLoger:86 - Train@id: 25 direct: RIGTH is running.
+18:11:13,448  INFO localLoger:90 - Train@id: 25 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:13,449  INFO localLoger:102 - Train@id: 25 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:13,437  INFO localLoger:86 - Train@id: 24 direct: LEFT is running.
+18:11:13,437  INFO localLoger:86 - Train@id: 23 direct: RIGTH is running.
+18:11:13,437  INFO localLoger:86 - Train@id: 22 direct: LEFT is running.
+18:11:13,437  INFO localLoger:86 - Train@id: 21 direct: RIGTH is running.
+18:11:13,436  INFO localLoger:86 - Train@id: 20 direct: LEFT is running.
+18:11:13,436  INFO localLoger:86 - Train@id: 19 direct: RIGTH is running.
+18:11:13,436  INFO localLoger:86 - Train@id: 18 direct: LEFT is running.
+18:11:13,436  INFO localLoger:86 - Train@id: 17 direct: RIGTH is running.
+18:11:13,436  INFO localLoger:86 - Train@id: 16 direct: LEFT is running.
+18:11:13,436  INFO localLoger:86 - Train@id: 15 direct: RIGTH is running.
+18:11:13,435  INFO localLoger:86 - Train@id: 14 direct: LEFT is running.
+18:11:13,435  INFO localLoger:86 - Train@id: 13 direct: RIGTH is running.
+18:11:13,435  INFO localLoger:86 - Train@id: 12 direct: LEFT is running.
+18:11:13,435  INFO localLoger:86 - Train@id: 11 direct: RIGTH is running.
+18:11:13,435  INFO localLoger:86 - Train@id: 10 direct: LEFT is running.
+18:11:13,434  INFO localLoger:86 - Train@id: 9 direct: RIGTH is running.
+18:11:13,434  INFO localLoger:86 - Train@id: 8 direct: LEFT is running.
+18:11:13,434  INFO localLoger:86 - Train@id: 6 direct: LEFT is running.
+18:11:13,434  INFO localLoger:86 - Train@id: 5 direct: RIGTH is running.
+18:11:13,434  INFO localLoger:86 - Train@id: 2 direct: LEFT is running.
+18:11:13,433  INFO localLoger:86 - Train@id: 1 direct: RIGTH is running.
+18:11:13,433  INFO localLoger:86 - Train@id: 3 direct: RIGTH is running.
+18:11:13,433  INFO localLoger:86 - Train@id: 7 direct: RIGTH is running.
+18:11:13,433  INFO localLoger:86 - Train@id: 4 direct: LEFT is running.
+18:11:13,452  INFO localLoger:90 - Train@id: 21 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:13,465  INFO localLoger:102 - Train@id: 21 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:13,451  INFO localLoger:90 - Train@id: 22 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:13,451  INFO localLoger:90 - Train@id: 23 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:13,451  INFO localLoger:90 - Train@id: 24 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:13,466  INFO localLoger:102 - Train@id: 24 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:13,447  INFO localLoger:90 - Train@id: 26 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:13,467  INFO localLoger:102 - Train@id: 26 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:13,444  INFO localLoger:90 - Train@id: 27 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:13,444  INFO localLoger:90 - Train@id: 29 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:13,444  INFO localLoger:90 - Train@id: 28 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:13,444  INFO localLoger:90 - Train@id: 0 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:13,466  INFO localLoger:102 - Train@id: 23 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:13,466  INFO localLoger:102 - Train@id: 22 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:23,461  INFO localLoger:112 - Train@id: 25 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:23,470  INFO localLoger:112 - Train@id: 22 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:23,470  INFO localLoger:112 - Train@id: 23 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:23,475  INFO localLoger:94 - Train@id: 23 direct: RIGTH movement finished.
+18:11:23,469  INFO localLoger:102 - Train@id: 0 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:23,469  INFO localLoger:102 - Train@id: 28 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:23,468  INFO localLoger:112 - Train@id: 26 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:23,476  INFO localLoger:94 - Train@id: 26 direct: LEFT movement finished.
+18:11:23,468  INFO localLoger:112 - Train@id: 24 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:23,477  INFO localLoger:94 - Train@id: 24 direct: LEFT movement finished.
+18:11:23,467  INFO localLoger:102 - Train@id: 29 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:23,467  INFO localLoger:112 - Train@id: 21 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:23,478  INFO localLoger:94 - Train@id: 21 direct: RIGTH movement finished.
+18:11:23,461  INFO localLoger:102 - Train@id: 27 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:23,475  INFO localLoger:94 - Train@id: 22 direct: LEFT movement finished.
+18:11:23,474  INFO localLoger:94 - Train@id: 25 direct: RIGTH movement finished.
+18:11:33,477  INFO localLoger:112 - Train@id: 28 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,478  INFO localLoger:112 - Train@id: 29 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:33,478  INFO localLoger:112 - Train@id: 27 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:33,479  INFO localLoger:94 - Train@id: 27 direct: RIGTH movement finished.
+18:11:33,477  INFO localLoger:112 - Train@id: 0 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,481  INFO localLoger:94 - Train@id: 0 direct: LEFT movement finished.
+18:11:33,479  INFO localLoger:94 - Train@id: 29 direct: RIGTH movement finished.
+18:11:33,479  INFO localLoger:94 - Train@id: 28 direct: LEFT movement finished.
+18:11:33,484  INFO localLoger:90 - Train@id: 14 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:33,485  INFO localLoger:102 - Train@id: 14 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:33,485  INFO localLoger:90 - Train@id: 4 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:33,485  INFO localLoger:102 - Train@id: 4 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:33,486  INFO localLoger:90 - Train@id: 19 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,486  INFO localLoger:102 - Train@id: 19 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,486  INFO localLoger:90 - Train@id: 5 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,487  INFO localLoger:102 - Train@id: 5 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,487  INFO localLoger:90 - Train@id: 3 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,487  INFO localLoger:102 - Train@id: 3 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,487  INFO localLoger:90 - Train@id: 11 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,493  INFO localLoger:90 - Train@id: 18 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:33,493  INFO localLoger:102 - Train@id: 18 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:33,493  INFO localLoger:90 - Train@id: 12 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:33,493  INFO localLoger:90 - Train@id: 9 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:33,495  INFO localLoger:90 - Train@id: 6 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:43,486  INFO localLoger:112 - Train@id: 4 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:43,487  INFO localLoger:102 - Train@id: 9 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:43,487  INFO localLoger:102 - Train@id: 11 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:43,487  INFO localLoger:112 - Train@id: 5 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:43,489  INFO localLoger:94 - Train@id: 5 direct: RIGTH movement finished.
+18:11:43,487  INFO localLoger:112 - Train@id: 19 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:43,489  INFO localLoger:94 - Train@id: 19 direct: RIGTH movement finished.
+18:11:43,486  INFO localLoger:102 - Train@id: 12 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:43,486  INFO localLoger:102 - Train@id: 6 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:43,486  INFO localLoger:112 - Train@id: 14 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:43,490  INFO localLoger:94 - Train@id: 14 direct: LEFT movement finished.
+18:11:43,488  INFO localLoger:112 - Train@id: 3 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:43,490  INFO localLoger:94 - Train@id: 3 direct: RIGTH movement finished.
+18:11:43,488  INFO localLoger:94 - Train@id: 4 direct: LEFT movement finished.
+18:11:43,494  INFO localLoger:112 - Train@id: 18 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:43,495  INFO localLoger:94 - Train@id: 18 direct: LEFT movement finished.
+18:11:53,489  INFO localLoger:112 - Train@id: 11 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,489  INFO localLoger:94 - Train@id: 11 direct: RIGTH movement finished.
+18:11:53,489  INFO localLoger:112 - Train@id: 9 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,490  INFO localLoger:94 - Train@id: 9 direct: RIGTH movement finished.
+18:11:53,490  INFO localLoger:90 - Train@id: 10 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,490  INFO localLoger:90 - Train@id: 8 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,490  INFO localLoger:90 - Train@id: 20 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,491  INFO localLoger:112 - Train@id: 6 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:53,491  INFO localLoger:90 - Train@id: 16 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,490  INFO localLoger:102 - Train@id: 10 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,491  INFO localLoger:90 - Train@id: 2 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,491  INFO localLoger:94 - Train@id: 6 direct: LEFT movement finished.
+18:11:53,492  INFO localLoger:90 - Train@id: 15 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:53,492  INFO localLoger:102 - Train@id: 15 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:53,491  INFO localLoger:102 - Train@id: 20 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,492  INFO localLoger:90 - Train@id: 1 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:53,492  INFO localLoger:102 - Train@id: 1 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:53,491  INFO localLoger:112 - Train@id: 12 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:53,493  INFO localLoger:94 - Train@id: 12 direct: LEFT movement finished.
+18:11:53,490  INFO localLoger:102 - Train@id: 8 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:11:53,492  INFO localLoger:90 - Train@id: 17 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:53,492  INFO localLoger:90 - Train@id: 13 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:53,492  INFO localLoger:90 - Train@id: 7 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:11:53,493  INFO localLoger:102 - Train@id: 17 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:12:03,492  INFO localLoger:112 - Train@id: 10 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:12:03,493  INFO localLoger:102 - Train@id: 13 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:12:03,493  INFO localLoger:102 - Train@id: 7 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:12:03,493  INFO localLoger:102 - Train@id: 2 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:12:03,493  INFO localLoger:112 - Train@id: 1 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:12:03,493  INFO localLoger:112 - Train@id: 20 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:12:03,494  INFO localLoger:94 - Train@id: 20 direct: LEFT movement finished.
+18:12:03,495  INFO localLoger:112 - Train@id: 17 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:12:03,493  INFO localLoger:112 - Train@id: 15 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:12:03,492  INFO localLoger:102 - Train@id: 16 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:12:03,495  INFO localLoger:94 - Train@id: 15 direct: RIGTH movement finished.
+18:12:03,495  INFO localLoger:94 - Train@id: 17 direct: RIGTH movement finished.
+18:12:03,495  INFO localLoger:112 - Train@id: 8 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:12:03,494  INFO localLoger:94 - Train@id: 1 direct: RIGTH movement finished.
+18:12:03,493  INFO localLoger:94 - Train@id: 10 direct: LEFT movement finished.
+18:12:03,496  INFO localLoger:94 - Train@id: 8 direct: LEFT movement finished.
+18:12:13,495  INFO localLoger:112 - Train@id: 2 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:12:13,495  INFO localLoger:94 - Train@id: 2 direct: LEFT movement finished.
+18:12:13,495  INFO localLoger:112 - Train@id: 13 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:12:13,495  INFO localLoger:112 - Train@id: 7 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@17502dab
+18:12:13,496  INFO localLoger:112 - Train@id: 16 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@2dd744c5
+18:12:13,496  INFO localLoger:94 - Train@id: 16 direct: LEFT movement finished.
+18:12:13,496  INFO localLoger:94 - Train@id: 13 direct: RIGTH movement finished.
+18:12:13,498  INFO localLoger:94 - Train@id: 7 direct: RIGTH movement finished.
+18:36:58,660  INFO localLoger:86 - Train@id: 2 direct: LEFT is running.
+18:36:58,662  INFO localLoger:86 - Train@id: 29 direct: RIGTH is running.
+18:36:58,662  INFO localLoger:86 - Train@id: 28 direct: LEFT is running.
+18:36:58,662  INFO localLoger:86 - Train@id: 27 direct: RIGTH is running.
+18:36:58,662  INFO localLoger:86 - Train@id: 26 direct: LEFT is running.
+18:36:58,662  INFO localLoger:86 - Train@id: 25 direct: RIGTH is running.
+18:36:58,673  INFO localLoger:90 - Train@id: 25 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:36:58,673  INFO localLoger:102 - Train@id: 25 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:36:58,662  INFO localLoger:86 - Train@id: 24 direct: LEFT is running.
+18:36:58,662  INFO localLoger:86 - Train@id: 23 direct: RIGTH is running.
+18:36:58,662  INFO localLoger:86 - Train@id: 22 direct: LEFT is running.
+18:36:58,662  INFO localLoger:86 - Train@id: 21 direct: RIGTH is running.
+18:36:58,662  INFO localLoger:86 - Train@id: 20 direct: LEFT is running.
+18:36:58,661  INFO localLoger:86 - Train@id: 19 direct: RIGTH is running.
+18:36:58,661  INFO localLoger:86 - Train@id: 18 direct: LEFT is running.
+18:36:58,661  INFO localLoger:86 - Train@id: 17 direct: RIGTH is running.
+18:36:58,661  INFO localLoger:86 - Train@id: 16 direct: LEFT is running.
+18:36:58,661  INFO localLoger:86 - Train@id: 15 direct: RIGTH is running.
+18:36:58,661  INFO localLoger:86 - Train@id: 14 direct: LEFT is running.
+18:36:58,661  INFO localLoger:86 - Train@id: 13 direct: RIGTH is running.
+18:36:58,661  INFO localLoger:86 - Train@id: 12 direct: LEFT is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 11 direct: RIGTH is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 7 direct: RIGTH is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 8 direct: LEFT is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 9 direct: RIGTH is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 6 direct: LEFT is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 5 direct: RIGTH is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 0 direct: LEFT is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 1 direct: RIGTH is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 3 direct: RIGTH is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 10 direct: LEFT is running.
+18:36:58,660  INFO localLoger:86 - Train@id: 4 direct: LEFT is running.
+18:36:58,675  INFO localLoger:90 - Train@id: 21 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:36:58,689  INFO localLoger:102 - Train@id: 21 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:36:58,674  INFO localLoger:90 - Train@id: 22 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:36:58,693  INFO localLoger:102 - Train@id: 22 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:36:58,674  INFO localLoger:90 - Train@id: 23 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:36:58,694  INFO localLoger:102 - Train@id: 23 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:36:58,674  INFO localLoger:90 - Train@id: 24 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:36:58,697  INFO localLoger:102 - Train@id: 24 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:36:58,670  INFO localLoger:90 - Train@id: 26 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:36:58,704  INFO localLoger:102 - Train@id: 26 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:36:58,670  INFO localLoger:90 - Train@id: 27 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:36:58,670  INFO localLoger:90 - Train@id: 29 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:36:58,670  INFO localLoger:90 - Train@id: 28 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:36:58,670  INFO localLoger:90 - Train@id: 2 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:08,685  INFO localLoger:112 - Train@id: 25 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:08,692  INFO localLoger:102 - Train@id: 29 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:08,692  INFO localLoger:112 - Train@id: 21 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:08,695  INFO localLoger:94 - Train@id: 21 direct: RIGTH movement finished.
+18:37:08,695  INFO localLoger:112 - Train@id: 22 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:08,695  INFO localLoger:94 - Train@id: 22 direct: LEFT movement finished.
+18:37:08,685  INFO localLoger:102 - Train@id: 27 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:08,695  INFO localLoger:112 - Train@id: 23 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:08,696  INFO localLoger:94 - Train@id: 23 direct: RIGTH movement finished.
+18:37:08,697  INFO localLoger:102 - Train@id: 28 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:08,694  INFO localLoger:94 - Train@id: 25 direct: RIGTH movement finished.
+18:37:08,698  INFO localLoger:112 - Train@id: 24 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:08,698  INFO localLoger:94 - Train@id: 24 direct: LEFT movement finished.
+18:37:08,700  INFO localLoger:102 - Train@id: 2 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:08,705  INFO localLoger:112 - Train@id: 26 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:08,706  INFO localLoger:94 - Train@id: 26 direct: LEFT movement finished.
+18:37:18,695  INFO localLoger:112 - Train@id: 29 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,696  INFO localLoger:94 - Train@id: 29 direct: RIGTH movement finished.
+18:37:18,697  INFO localLoger:112 - Train@id: 28 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:18,697  INFO localLoger:91 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69 complite. Passed trains: []
+18:37:18,697  INFO localLoger:112 - Train@id: 27 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,698  INFO localLoger:94 - Train@id: 27 direct: RIGTH movement finished.
+18:37:18,697  INFO localLoger:94 - Train@id: 28 direct: LEFT movement finished.
+18:37:18,701  INFO localLoger:90 - Train@id: 16 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,701  INFO localLoger:102 - Train@id: 16 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,701  INFO localLoger:112 - Train@id: 2 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:18,702  INFO localLoger:94 - Train@id: 2 direct: LEFT movement finished.
+18:37:18,702  INFO localLoger:91 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3 complite. Passed trains: []
+18:37:18,702  INFO localLoger:90 - Train@id: 18 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,702  INFO localLoger:102 - Train@id: 18 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,702  INFO localLoger:90 - Train@id: 12 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,703  INFO localLoger:102 - Train@id: 12 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,702  INFO localLoger:90 - Train@id: 0 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,703  INFO localLoger:90 - Train@id: 13 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:18,703  INFO localLoger:102 - Train@id: 13 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:18,704  INFO localLoger:90 - Train@id: 11 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:18,704  INFO localLoger:102 - Train@id: 11 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:18,704  INFO localLoger:90 - Train@id: 1 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:18,705  INFO localLoger:102 - Train@id: 1 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:18,705  INFO localLoger:90 - Train@id: 10 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:18,709  INFO localLoger:90 - Train@id: 7 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:18,709  INFO localLoger:90 - Train@id: 3 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:28,702  INFO localLoger:112 - Train@id: 16 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:28,703  INFO localLoger:94 - Train@id: 16 direct: LEFT movement finished.
+18:37:28,702  INFO localLoger:102 - Train@id: 0 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:28,704  INFO localLoger:112 - Train@id: 18 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:28,704  INFO localLoger:94 - Train@id: 18 direct: LEFT movement finished.
+18:37:28,704  INFO localLoger:112 - Train@id: 12 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:28,704  INFO localLoger:94 - Train@id: 12 direct: LEFT movement finished.
+18:37:28,706  INFO localLoger:102 - Train@id: 10 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:28,706  INFO localLoger:112 - Train@id: 13 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:28,706  INFO localLoger:94 - Train@id: 13 direct: RIGTH movement finished.
+18:37:28,706  INFO localLoger:112 - Train@id: 11 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:28,706  INFO localLoger:94 - Train@id: 11 direct: RIGTH movement finished.
+18:37:28,707  INFO localLoger:112 - Train@id: 1 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:28,707  INFO localLoger:94 - Train@id: 1 direct: RIGTH movement finished.
+18:37:28,708  INFO localLoger:102 - Train@id: 7 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:28,708  INFO localLoger:102 - Train@id: 3 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,704  INFO localLoger:112 - Train@id: 0 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,704  INFO localLoger:94 - Train@id: 0 direct: LEFT movement finished.
+18:37:38,707  INFO localLoger:112 - Train@id: 10 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,707  INFO localLoger:94 - Train@id: 10 direct: LEFT movement finished.
+18:37:38,707  INFO localLoger:91 - Phase mooving to the LEFT in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69 complite. Passed trains: []
+18:37:38,708  INFO localLoger:90 - Train@id: 15 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,708  INFO localLoger:102 - Train@id: 15 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,709  INFO localLoger:90 - Train@id: 17 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,709  INFO localLoger:102 - Train@id: 17 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,708  INFO localLoger:90 - Train@id: 9 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,709  INFO localLoger:102 - Train@id: 9 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,710  INFO localLoger:112 - Train@id: 3 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,710  INFO localLoger:94 - Train@id: 3 direct: RIGTH movement finished.
+18:37:38,710  INFO localLoger:90 - Train@id: 19 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,710  INFO localLoger:91 - Phase mooving to the RIGTH in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3 complite. Passed trains: []
+18:37:38,709  INFO localLoger:90 - Train@id: 5 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:38,709  INFO localLoger:112 - Train@id: 7 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,711  INFO localLoger:94 - Train@id: 7 direct: RIGTH movement finished.
+18:37:38,711  INFO localLoger:90 - Train@id: 4 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,711  INFO localLoger:90 - Train@id: 6 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,711  INFO localLoger:90 - Train@id: 8 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,711  INFO localLoger:90 - Train@id: 20 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,711  INFO localLoger:90 - Train@id: 14 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,712  INFO localLoger:102 - Train@id: 8 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,711  INFO localLoger:102 - Train@id: 6 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:38,711  INFO localLoger:102 - Train@id: 4 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:48,709  INFO localLoger:112 - Train@id: 15 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:48,709  INFO localLoger:102 - Train@id: 19 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:48,709  INFO localLoger:94 - Train@id: 15 direct: RIGTH movement finished.
+18:37:48,710  INFO localLoger:112 - Train@id: 17 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:48,710  INFO localLoger:102 - Train@id: 5 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:48,710  INFO localLoger:112 - Train@id: 9 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:48,710  INFO localLoger:94 - Train@id: 17 direct: RIGTH movement finished.
+18:37:48,711  INFO localLoger:94 - Train@id: 9 direct: RIGTH movement finished.
+18:37:48,713  INFO localLoger:112 - Train@id: 6 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:48,713  INFO localLoger:102 - Train@id: 14 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:48,713  INFO localLoger:102 - Train@id: 20 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:48,713  INFO localLoger:112 - Train@id: 4 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:48,713  INFO localLoger:112 - Train@id: 8 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:48,714  INFO localLoger:94 - Train@id: 4 direct: LEFT movement finished.
+18:37:48,713  INFO localLoger:94 - Train@id: 6 direct: LEFT movement finished.
+18:37:48,714  INFO localLoger:94 - Train@id: 8 direct: LEFT movement finished.
+18:37:58,711  INFO localLoger:112 - Train@id: 19 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:58,711  INFO localLoger:91 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69 complite. Passed trains: []
+18:37:58,711  INFO localLoger:112 - Train@id: 5 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@72e75e69
+18:37:58,711  INFO localLoger:94 - Train@id: 19 direct: RIGTH movement finished.
+18:37:58,712  INFO localLoger:94 - Train@id: 5 direct: RIGTH movement finished.
+18:37:58,715  INFO localLoger:112 - Train@id: 20 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:58,715  INFO localLoger:91 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3 complite. Passed trains: []
+18:37:58,715  INFO localLoger:112 - Train@id: 14 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@5468ab3
+18:37:58,715  INFO localLoger:94 - Train@id: 20 direct: LEFT movement finished.
+18:37:58,715  INFO localLoger:94 - Train@id: 14 direct: LEFT movement finished.
+18:38:51,489  INFO localLoger:86 - Train@id: 8 direct: LEFT is running.
+18:38:51,495  INFO localLoger:86 - Train@id: 21 direct: RIGTH is running.
+18:38:51,495  INFO localLoger:86 - Train@id: 20 direct: LEFT is running.
+18:38:51,494  INFO localLoger:86 - Train@id: 19 direct: RIGTH is running.
+18:38:51,496  INFO localLoger:86 - Train@id: 23 direct: RIGTH is running.
+18:38:51,494  INFO localLoger:86 - Train@id: 18 direct: LEFT is running.
+18:38:51,493  INFO localLoger:86 - Train@id: 17 direct: RIGTH is running.
+18:38:51,493  INFO localLoger:86 - Train@id: 16 direct: LEFT is running.
+18:38:51,491  INFO localLoger:86 - Train@id: 15 direct: RIGTH is running.
+18:38:51,491  INFO localLoger:86 - Train@id: 14 direct: LEFT is running.
+18:38:51,491  INFO localLoger:86 - Train@id: 13 direct: RIGTH is running.
+18:38:51,490  INFO localLoger:86 - Train@id: 12 direct: LEFT is running.
+18:38:51,490  INFO localLoger:86 - Train@id: 11 direct: RIGTH is running.
+18:38:51,490  INFO localLoger:86 - Train@id: 0 direct: LEFT is running.
+18:38:51,490  INFO localLoger:86 - Train@id: 10 direct: LEFT is running.
+18:38:51,490  INFO localLoger:86 - Train@id: 7 direct: RIGTH is running.
+18:38:51,490  INFO localLoger:86 - Train@id: 6 direct: LEFT is running.
+18:38:51,490  INFO localLoger:86 - Train@id: 2 direct: LEFT is running.
+18:38:51,490  INFO localLoger:86 - Train@id: 1 direct: RIGTH is running.
+18:38:51,489  INFO localLoger:86 - Train@id: 3 direct: RIGTH is running.
+18:38:51,489  INFO localLoger:86 - Train@id: 4 direct: LEFT is running.
+18:38:51,489  INFO localLoger:86 - Train@id: 5 direct: RIGTH is running.
+18:38:51,489  INFO localLoger:86 - Train@id: 9 direct: RIGTH is running.
+18:38:51,511  INFO localLoger:90 - Train@id: 12 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:38:51,514  INFO localLoger:102 - Train@id: 12 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:38:51,510  INFO localLoger:90 - Train@id: 14 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:38:51,515  INFO localLoger:102 - Train@id: 14 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:38:51,509  INFO localLoger:90 - Train@id: 16 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:38:51,515  INFO localLoger:102 - Train@id: 16 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:38:51,509  INFO localLoger:90 - Train@id: 17 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:38:51,517  INFO localLoger:102 - Train@id: 17 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:38:51,509  INFO localLoger:90 - Train@id: 21 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:38:51,519  INFO localLoger:102 - Train@id: 21 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:38:51,509  INFO localLoger:90 - Train@id: 18 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:38:51,509  INFO localLoger:90 - Train@id: 23 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:38:51,521  INFO localLoger:102 - Train@id: 23 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:38:51,508  INFO localLoger:90 - Train@id: 19 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:38:51,508  INFO localLoger:90 - Train@id: 8 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:38:51,507  INFO localLoger:90 - Train@id: 11 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:38:51,506  INFO localLoger:86 - Train@id: 29 direct: RIGTH is running.
+18:38:51,506  INFO localLoger:86 - Train@id: 28 direct: LEFT is running.
+18:38:51,505  INFO localLoger:86 - Train@id: 27 direct: RIGTH is running.
+18:38:51,503  INFO localLoger:86 - Train@id: 26 direct: LEFT is running.
+18:38:51,499  INFO localLoger:86 - Train@id: 25 direct: RIGTH is running.
+18:38:51,498  INFO localLoger:86 - Train@id: 24 direct: LEFT is running.
+18:38:51,496  INFO localLoger:86 - Train@id: 22 direct: LEFT is running.
+18:39:01,516  INFO localLoger:112 - Train@id: 14 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:01,516  INFO localLoger:94 - Train@id: 14 direct: LEFT movement finished.
+18:39:01,516  INFO localLoger:112 - Train@id: 16 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:01,517  INFO localLoger:94 - Train@id: 16 direct: LEFT movement finished.
+18:39:01,517  INFO localLoger:102 - Train@id: 8 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:01,517  INFO localLoger:112 - Train@id: 12 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:01,517  INFO localLoger:94 - Train@id: 12 direct: LEFT movement finished.
+18:39:01,516  INFO localLoger:102 - Train@id: 18 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:01,519  INFO localLoger:112 - Train@id: 17 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:01,519  INFO localLoger:94 - Train@id: 17 direct: RIGTH movement finished.
+18:39:01,519  INFO localLoger:102 - Train@id: 19 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:01,521  INFO localLoger:112 - Train@id: 21 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:01,521  INFO localLoger:94 - Train@id: 21 direct: RIGTH movement finished.
+18:39:01,521  INFO localLoger:102 - Train@id: 11 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:01,522  INFO localLoger:112 - Train@id: 23 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:01,522  INFO localLoger:94 - Train@id: 23 direct: RIGTH movement finished.
+18:39:11,518  INFO localLoger:112 - Train@id: 8 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,518  INFO localLoger:94 - Train@id: 8 direct: LEFT movement finished.
+18:39:11,519  INFO localLoger:112 - Train@id: 18 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,519  INFO localLoger:94 - Train@id: 18 direct: LEFT movement finished.
+18:39:11,520  INFO localLoger:91 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575 complite.
+18:39:11,520  INFO localLoger:90 - Train@id: 9 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,520  INFO localLoger:102 - Train@id: 9 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,521  INFO localLoger:90 - Train@id: 1 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,521  INFO localLoger:102 - Train@id: 1 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,521  INFO localLoger:112 - Train@id: 19 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:11,521  INFO localLoger:94 - Train@id: 19 direct: RIGTH movement finished.
+18:39:11,522  INFO localLoger:90 - Train@id: 15 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,522  INFO localLoger:102 - Train@id: 15 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,523  INFO localLoger:90 - Train@id: 25 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,526  INFO localLoger:90 - Train@id: 3 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:11,529  INFO localLoger:112 - Train@id: 11 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:11,529  INFO localLoger:94 - Train@id: 11 direct: RIGTH movement finished.
+18:39:11,529  INFO localLoger:91 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063 complite.
+18:39:11,530  INFO localLoger:90 - Train@id: 2 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:11,530  INFO localLoger:102 - Train@id: 2 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:11,530  INFO localLoger:90 - Train@id: 20 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:11,531  INFO localLoger:102 - Train@id: 20 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:11,531  INFO localLoger:90 - Train@id: 22 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:11,531  INFO localLoger:102 - Train@id: 22 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:11,530  INFO localLoger:90 - Train@id: 4 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:11,533  INFO localLoger:90 - Train@id: 26 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:21,522  INFO localLoger:112 - Train@id: 9 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:21,522  INFO localLoger:94 - Train@id: 9 direct: RIGTH movement finished.
+18:39:21,522  INFO localLoger:102 - Train@id: 3 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:21,522  INFO localLoger:112 - Train@id: 1 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:21,523  INFO localLoger:94 - Train@id: 1 direct: RIGTH movement finished.
+18:39:21,523  INFO localLoger:112 - Train@id: 15 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:21,523  INFO localLoger:94 - Train@id: 15 direct: RIGTH movement finished.
+18:39:21,522  INFO localLoger:102 - Train@id: 25 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:21,532  INFO localLoger:112 - Train@id: 20 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:21,532  INFO localLoger:94 - Train@id: 20 direct: LEFT movement finished.
+18:39:21,532  INFO localLoger:102 - Train@id: 26 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:21,532  INFO localLoger:102 - Train@id: 4 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:21,532  INFO localLoger:112 - Train@id: 2 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:21,533  INFO localLoger:94 - Train@id: 2 direct: LEFT movement finished.
+18:39:21,532  INFO localLoger:112 - Train@id: 22 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:21,533  INFO localLoger:94 - Train@id: 22 direct: LEFT movement finished.
+18:39:31,524  INFO localLoger:112 - Train@id: 3 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,525  INFO localLoger:91 - Phase mooving to the RIGTH in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575 complite.
+18:39:31,525  INFO localLoger:112 - Train@id: 25 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,526  INFO localLoger:94 - Train@id: 25 direct: RIGTH movement finished.
+18:39:31,525  INFO localLoger:94 - Train@id: 3 direct: RIGTH movement finished.
+18:39:31,527  INFO localLoger:90 - Train@id: 0 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,527  INFO localLoger:102 - Train@id: 0 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,527  INFO localLoger:90 - Train@id: 24 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,527  INFO localLoger:102 - Train@id: 24 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,528  INFO localLoger:90 - Train@id: 10 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,528  INFO localLoger:102 - Train@id: 10 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,528  INFO localLoger:90 - Train@id: 28 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,528  INFO localLoger:90 - Train@id: 6 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:31,535  INFO localLoger:112 - Train@id: 4 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:31,536  INFO localLoger:94 - Train@id: 4 direct: LEFT movement finished.
+18:39:31,535  INFO localLoger:91 - Phase mooving to the LEFT in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063 complite.
+18:39:31,535  INFO localLoger:112 - Train@id: 26 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:31,536  INFO localLoger:94 - Train@id: 26 direct: LEFT movement finished.
+18:39:31,536  INFO localLoger:90 - Train@id: 27 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:31,537  INFO localLoger:102 - Train@id: 27 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:31,537  INFO localLoger:90 - Train@id: 13 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:31,537  INFO localLoger:102 - Train@id: 13 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:31,537  INFO localLoger:90 - Train@id: 5 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:31,537  INFO localLoger:102 - Train@id: 5 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:31,537  INFO localLoger:90 - Train@id: 29 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:31,537  INFO localLoger:90 - Train@id: 7 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:41,530  INFO localLoger:102 - Train@id: 28 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:41,532  INFO localLoger:112 - Train@id: 24 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:41,534  INFO localLoger:94 - Train@id: 24 direct: LEFT movement finished.
+18:39:41,531  INFO localLoger:112 - Train@id: 0 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:41,535  INFO localLoger:94 - Train@id: 0 direct: LEFT movement finished.
+18:39:41,530  INFO localLoger:102 - Train@id: 6 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:41,530  INFO localLoger:112 - Train@id: 10 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:41,536  INFO localLoger:94 - Train@id: 10 direct: LEFT movement finished.
+18:39:41,538  INFO localLoger:112 - Train@id: 27 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:41,538  INFO localLoger:94 - Train@id: 27 direct: RIGTH movement finished.
+18:39:41,538  INFO localLoger:112 - Train@id: 13 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:41,539  INFO localLoger:94 - Train@id: 13 direct: RIGTH movement finished.
+18:39:41,539  INFO localLoger:102 - Train@id: 7 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:41,539  INFO localLoger:102 - Train@id: 29 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:41,538  INFO localLoger:112 - Train@id: 5 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:41,540  INFO localLoger:94 - Train@id: 5 direct: RIGTH movement finished.
+18:39:51,533  INFO localLoger:112 - Train@id: 28 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:51,533  INFO localLoger:94 - Train@id: 28 direct: LEFT movement finished.
+18:39:51,537  INFO localLoger:91 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575 complite.
+18:39:51,539  INFO localLoger:112 - Train@id: 6 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@913d575
+18:39:51,539  INFO localLoger:94 - Train@id: 6 direct: LEFT movement finished.
+18:39:51,539  INFO localLoger:112 - Train@id: 7 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:51,540  INFO localLoger:94 - Train@id: 7 direct: RIGTH movement finished.
+18:39:51,541  INFO localLoger:112 - Train@id: 29 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063
+18:39:51,542  INFO localLoger:94 - Train@id: 29 direct: RIGTH movement finished.
+18:39:51,542  INFO localLoger:91 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@21fb8063 complite.
+15:55:39,938  INFO localLoger:86 - Train@id: 7 direct: RIGTH is running.
+15:55:39,943  INFO localLoger:86 - Train@id: 29 direct: RIGTH is running.
+15:55:39,943  INFO localLoger:86 - Train@id: 28 direct: LEFT is running.
+15:55:39,942  INFO localLoger:86 - Train@id: 27 direct: RIGTH is running.
+15:55:39,942  INFO localLoger:86 - Train@id: 26 direct: LEFT is running.
+15:55:39,942  INFO localLoger:86 - Train@id: 25 direct: RIGTH is running.
+15:55:39,942  INFO localLoger:86 - Train@id: 24 direct: LEFT is running.
+15:55:39,972  INFO localLoger:90 - Train@id: 24 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:39,942  INFO localLoger:86 - Train@id: 23 direct: RIGTH is running.
+15:55:39,942  INFO localLoger:86 - Train@id: 22 direct: LEFT is running.
+15:55:39,942  INFO localLoger:86 - Train@id: 21 direct: RIGTH is running.
+15:55:39,942  INFO localLoger:86 - Train@id: 20 direct: LEFT is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 19 direct: RIGTH is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 18 direct: LEFT is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 17 direct: RIGTH is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 16 direct: LEFT is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 15 direct: RIGTH is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 11 direct: RIGTH is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 10 direct: LEFT is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 9 direct: RIGTH is running.
+15:55:39,940  INFO localLoger:86 - Train@id: 12 direct: LEFT is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 8 direct: LEFT is running.
+15:55:39,941  INFO localLoger:86 - Train@id: 14 direct: LEFT is running.
+15:55:39,940  INFO localLoger:86 - Train@id: 2 direct: LEFT is running.
+15:55:39,940  INFO localLoger:86 - Train@id: 3 direct: RIGTH is running.
+15:55:39,939  INFO localLoger:86 - Train@id: 1 direct: RIGTH is running.
+15:55:39,940  INFO localLoger:86 - Train@id: 4 direct: LEFT is running.
+15:55:39,939  INFO localLoger:86 - Train@id: 5 direct: RIGTH is running.
+15:55:39,939  INFO localLoger:86 - Train@id: 13 direct: RIGTH is running.
+15:55:39,938  INFO localLoger:86 - Train@id: 0 direct: LEFT is running.
+15:55:39,938  INFO localLoger:86 - Train@id: 6 direct: LEFT is running.
+15:55:39,974  INFO localLoger:90 - Train@id: 20 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:39,973  INFO localLoger:90 - Train@id: 22 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:39,982  INFO localLoger:102 - Train@id: 22 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:39,973  INFO localLoger:90 - Train@id: 23 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:39,983  INFO localLoger:102 - Train@id: 23 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:39,973  INFO localLoger:102 - Train@id: 24 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:39,972  INFO localLoger:90 - Train@id: 25 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:39,987  INFO localLoger:102 - Train@id: 25 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:39,960  INFO localLoger:90 - Train@id: 28 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:39,960  INFO localLoger:90 - Train@id: 26 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:39,960  INFO localLoger:90 - Train@id: 7 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:39,993  INFO localLoger:102 - Train@id: 7 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:39,960  INFO localLoger:90 - Train@id: 27 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:39,960  INFO localLoger:90 - Train@id: 29 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:39,982  INFO localLoger:102 - Train@id: 20 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:49,983  INFO localLoger:112 - Train@id: 22 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:49,985  INFO localLoger:102 - Train@id: 26 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:49,985  INFO localLoger:112 - Train@id: 24 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:49,986  INFO localLoger:94 - Train@id: 24 direct: LEFT movement finished.
+15:55:49,984  INFO localLoger:102 - Train@id: 27 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:49,984  INFO localLoger:112 - Train@id: 23 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:49,987  INFO localLoger:94 - Train@id: 23 direct: RIGTH movement finished.
+15:55:49,983  INFO localLoger:102 - Train@id: 28 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:49,985  INFO localLoger:94 - Train@id: 22 direct: LEFT movement finished.
+15:55:49,988  INFO localLoger:112 - Train@id: 25 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:49,989  INFO localLoger:94 - Train@id: 25 direct: RIGTH movement finished.
+15:55:49,989  INFO localLoger:102 - Train@id: 29 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:49,995  INFO localLoger:112 - Train@id: 7 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:49,995  INFO localLoger:94 - Train@id: 7 direct: RIGTH movement finished.
+15:55:50,000  INFO localLoger:112 - Train@id: 20 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:50,001  INFO localLoger:94 - Train@id: 20 direct: LEFT movement finished.
+15:55:59,986  INFO localLoger:112 - Train@id: 26 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,987  INFO localLoger:94 - Train@id: 26 direct: LEFT movement finished.
+15:55:59,988  INFO localLoger:112 - Train@id: 27 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:59,988  INFO localLoger:112 - Train@id: 28 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,988  INFO localLoger:103 - Phase mooving to the LEFT in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff complite.
+15:55:59,988  INFO localLoger:94 - Train@id: 27 direct: RIGTH movement finished.
+15:55:59,988  INFO localLoger:94 - Train@id: 28 direct: LEFT movement finished.
+15:55:59,989  INFO localLoger:90 - Train@id: 13 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,989  INFO localLoger:102 - Train@id: 13 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,989  INFO localLoger:90 - Train@id: 5 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,989  INFO localLoger:102 - Train@id: 5 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,989  INFO localLoger:90 - Train@id: 11 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,990  INFO localLoger:102 - Train@id: 11 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,990  INFO localLoger:90 - Train@id: 19 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,989  INFO localLoger:90 - Train@id: 15 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:55:59,991  INFO localLoger:112 - Train@id: 29 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:59,991  INFO localLoger:94 - Train@id: 29 direct: RIGTH movement finished.
+15:55:59,991  INFO localLoger:103 - Phase mooving to the RIGTH in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64 complite.
+15:55:59,991  INFO localLoger:90 - Train@id: 14 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:59,992  INFO localLoger:102 - Train@id: 14 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:59,992  INFO localLoger:90 - Train@id: 2 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:59,992  INFO localLoger:102 - Train@id: 2 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:59,993  INFO localLoger:90 - Train@id: 4 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:59,993  INFO localLoger:102 - Train@id: 4 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:59,993  INFO localLoger:90 - Train@id: 16 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:55:59,993  INFO localLoger:90 - Train@id: 10 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:09,990  INFO localLoger:112 - Train@id: 13 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:09,990  INFO localLoger:94 - Train@id: 13 direct: RIGTH movement finished.
+15:56:09,990  INFO localLoger:102 - Train@id: 19 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:09,991  INFO localLoger:112 - Train@id: 5 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:09,991  INFO localLoger:94 - Train@id: 5 direct: RIGTH movement finished.
+15:56:09,991  INFO localLoger:112 - Train@id: 11 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:09,991  INFO localLoger:94 - Train@id: 11 direct: RIGTH movement finished.
+15:56:09,991  INFO localLoger:102 - Train@id: 15 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:09,993  INFO localLoger:112 - Train@id: 14 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:09,993  INFO localLoger:94 - Train@id: 14 direct: LEFT movement finished.
+15:56:09,993  INFO localLoger:102 - Train@id: 16 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:09,994  INFO localLoger:102 - Train@id: 10 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:09,993  INFO localLoger:112 - Train@id: 2 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:09,994  INFO localLoger:94 - Train@id: 2 direct: LEFT movement finished.
+15:56:09,994  INFO localLoger:112 - Train@id: 4 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:09,994  INFO localLoger:94 - Train@id: 4 direct: LEFT movement finished.
+15:56:19,991  INFO localLoger:112 - Train@id: 19 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,991  INFO localLoger:94 - Train@id: 19 direct: RIGTH movement finished.
+15:56:19,992  INFO localLoger:112 - Train@id: 15 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,992  INFO localLoger:94 - Train@id: 15 direct: RIGTH movement finished.
+15:56:19,993  INFO localLoger:103 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff complite.
+15:56:19,994  INFO localLoger:90 - Train@id: 8 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,994  INFO localLoger:102 - Train@id: 8 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,994  INFO localLoger:112 - Train@id: 16 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:19,994  INFO localLoger:103 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64 complite.
+15:56:19,994  INFO localLoger:112 - Train@id: 10 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:19,995  INFO localLoger:94 - Train@id: 10 direct: LEFT movement finished.
+15:56:19,995  INFO localLoger:90 - Train@id: 18 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,996  INFO localLoger:102 - Train@id: 18 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,996  INFO localLoger:90 - Train@id: 6 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,996  INFO localLoger:102 - Train@id: 6 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,995  INFO localLoger:90 - Train@id: 12 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,996  INFO localLoger:90 - Train@id: 3 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:19,994  INFO localLoger:90 - Train@id: 0 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:19,994  INFO localLoger:94 - Train@id: 16 direct: LEFT movement finished.
+15:56:19,997  INFO localLoger:102 - Train@id: 3 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:19,996  INFO localLoger:90 - Train@id: 1 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:19,997  INFO localLoger:102 - Train@id: 1 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:19,996  INFO localLoger:90 - Train@id: 17 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:19,998  INFO localLoger:102 - Train@id: 17 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:19,996  INFO localLoger:90 - Train@id: 21 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:19,996  INFO localLoger:90 - Train@id: 9 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:29,995  INFO localLoger:102 - Train@id: 12 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:29,995  INFO localLoger:112 - Train@id: 8 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:29,996  INFO localLoger:94 - Train@id: 8 direct: LEFT movement finished.
+15:56:29,997  INFO localLoger:112 - Train@id: 18 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:29,997  INFO localLoger:94 - Train@id: 18 direct: LEFT movement finished.
+15:56:29,997  INFO localLoger:102 - Train@id: 0 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:29,997  INFO localLoger:112 - Train@id: 6 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:29,997  INFO localLoger:94 - Train@id: 6 direct: LEFT movement finished.
+15:56:29,998  INFO localLoger:112 - Train@id: 3 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:29,998  INFO localLoger:102 - Train@id: 9 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:29,998  INFO localLoger:112 - Train@id: 17 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:29,998  INFO localLoger:102 - Train@id: 21 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:29,998  INFO localLoger:112 - Train@id: 1 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:29,999  INFO localLoger:94 - Train@id: 1 direct: RIGTH movement finished.
+15:56:29,999  INFO localLoger:94 - Train@id: 17 direct: RIGTH movement finished.
+15:56:29,998  INFO localLoger:94 - Train@id: 3 direct: RIGTH movement finished.
+15:56:39,996  INFO localLoger:112 - Train@id: 12 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:39,998  INFO localLoger:94 - Train@id: 12 direct: LEFT movement finished.
+15:56:39,998  INFO localLoger:112 - Train@id: 0 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff
+15:56:39,998  INFO localLoger:94 - Train@id: 0 direct: LEFT movement finished.
+15:56:39,998  INFO localLoger:103 - Phase mooving to the LEFT in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@398f34ff complite.
+15:56:40,000  INFO localLoger:112 - Train@id: 9 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:40,001  INFO localLoger:94 - Train@id: 9 direct: RIGTH movement finished.
+15:56:40,004  INFO localLoger:112 - Train@id: 21 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64
+15:56:40,004  INFO localLoger:94 - Train@id: 21 direct: RIGTH movement finished.
+15:56:40,007  INFO localLoger:103 - Phase mooving to the RIGTH in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@12408c64 complite.
+15:57:52,167  INFO localLoger:86 - Train@id: 0 direct: LEFT is running.
+15:57:52,171  INFO localLoger:86 - Train@id: 21 direct: RIGTH is running.
+15:57:52,171  INFO localLoger:86 - Train@id: 20 direct: LEFT is running.
+15:57:52,170  INFO localLoger:86 - Train@id: 19 direct: RIGTH is running.
+15:57:52,170  INFO localLoger:86 - Train@id: 18 direct: LEFT is running.
+15:57:52,170  INFO localLoger:86 - Train@id: 17 direct: RIGTH is running.
+15:57:52,170  INFO localLoger:86 - Train@id: 16 direct: LEFT is running.
+15:57:52,182  INFO localLoger:90 - Train@id: 16 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:57:52,182  INFO localLoger:102 - Train@id: 16 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:57:52,170  INFO localLoger:86 - Train@id: 15 direct: RIGTH is running.
+15:57:52,183  INFO localLoger:90 - Train@id: 15 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:57:52,185  INFO localLoger:102 - Train@id: 15 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:57:52,169  INFO localLoger:86 - Train@id: 14 direct: LEFT is running.
+15:57:52,185  INFO localLoger:90 - Train@id: 14 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:57:52,185  INFO localLoger:102 - Train@id: 14 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:57:52,169  INFO localLoger:86 - Train@id: 12 direct: LEFT is running.
+15:57:52,169  INFO localLoger:86 - Train@id: 13 direct: RIGTH is running.
+15:57:52,192  INFO localLoger:90 - Train@id: 13 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:57:52,192  INFO localLoger:102 - Train@id: 13 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:57:52,169  INFO localLoger:86 - Train@id: 11 direct: RIGTH is running.
+15:57:52,169  INFO localLoger:86 - Train@id: 10 direct: LEFT is running.
+15:57:52,169  INFO localLoger:86 - Train@id: 9 direct: RIGTH is running.
+15:57:52,168  INFO localLoger:86 - Train@id: 8 direct: LEFT is running.
+15:57:52,168  INFO localLoger:86 - Train@id: 7 direct: RIGTH is running.
+15:57:52,168  INFO localLoger:86 - Train@id: 6 direct: LEFT is running.
+15:57:52,168  INFO localLoger:86 - Train@id: 5 direct: RIGTH is running.
+15:57:52,167  INFO localLoger:86 - Train@id: 4 direct: LEFT is running.
+15:57:52,167  INFO localLoger:86 - Train@id: 1 direct: RIGTH is running.
+15:57:52,167  INFO localLoger:86 - Train@id: 2 direct: LEFT is running.
+15:57:52,167  INFO localLoger:86 - Train@id: 3 direct: RIGTH is running.
+15:57:52,181  INFO localLoger:90 - Train@id: 17 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:57:52,198  INFO localLoger:102 - Train@id: 17 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:57:52,181  INFO localLoger:86 - Train@id: 29 direct: RIGTH is running.
+15:57:52,180  INFO localLoger:86 - Train@id: 28 direct: LEFT is running.
+15:57:52,180  INFO localLoger:86 - Train@id: 27 direct: RIGTH is running.
+15:57:52,180  INFO localLoger:86 - Train@id: 26 direct: LEFT is running.
+15:57:52,180  INFO localLoger:86 - Train@id: 25 direct: RIGTH is running.
+15:57:52,179  INFO localLoger:86 - Train@id: 24 direct: LEFT is running.
+15:57:52,177  INFO localLoger:86 - Train@id: 23 direct: RIGTH is running.
+15:57:52,176  INFO localLoger:90 - Train@id: 18 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:57:52,176  INFO localLoger:90 - Train@id: 19 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:57:52,175  INFO localLoger:90 - Train@id: 20 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:57:52,175  INFO localLoger:90 - Train@id: 0 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:57:52,174  INFO localLoger:90 - Train@id: 21 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:57:52,174  INFO localLoger:86 - Train@id: 22 direct: LEFT is running.
+15:57:52,204  INFO localLoger:102 - Train@id: 18 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:02,191  INFO localLoger:112 - Train@id: 15 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:02,195  INFO localLoger:102 - Train@id: 21 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:02,195  INFO localLoger:112 - Train@id: 13 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:02,200  INFO localLoger:94 - Train@id: 13 direct: RIGTH movement finished.
+15:58:02,191  INFO localLoger:102 - Train@id: 0 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:02,191  INFO localLoger:112 - Train@id: 16 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:02,206  INFO localLoger:94 - Train@id: 16 direct: LEFT movement finished.
+15:58:02,206  INFO localLoger:112 - Train@id: 17 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:02,208  INFO localLoger:94 - Train@id: 17 direct: RIGTH movement finished.
+15:58:02,191  INFO localLoger:102 - Train@id: 19 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:02,191  INFO localLoger:112 - Train@id: 14 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:02,214  INFO localLoger:94 - Train@id: 14 direct: LEFT movement finished.
+15:58:02,191  INFO localLoger:102 - Train@id: 20 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:02,213  INFO localLoger:112 - Train@id: 18 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:02,215  INFO localLoger:94 - Train@id: 18 direct: LEFT movement finished.
+15:58:02,199  INFO localLoger:94 - Train@id: 15 direct: RIGTH movement finished.
+15:58:12,200  INFO localLoger:112 - Train@id: 21 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,200  INFO localLoger:94 - Train@id: 21 direct: RIGTH movement finished.
+15:58:12,203  INFO localLoger:112 - Train@id: 0 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:12,204  INFO localLoger:94 - Train@id: 0 direct: LEFT movement finished.
+15:58:12,212  INFO localLoger:112 - Train@id: 19 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,213  INFO localLoger:94 - Train@id: 19 direct: RIGTH movement finished.
+15:58:12,214  INFO localLoger:103 - Phase mooving to the RIGTH in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4 complite.
+15:58:12,215  INFO localLoger:90 - Train@id: 26 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,216  INFO localLoger:102 - Train@id: 26 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,216  INFO localLoger:112 - Train@id: 20 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:12,216  INFO localLoger:94 - Train@id: 20 direct: LEFT movement finished.
+15:58:12,224  INFO localLoger:103 - Phase mooving to the LEFT in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70 complite.
+15:58:12,224  INFO localLoger:90 - Train@id: 8 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,224  INFO localLoger:102 - Train@id: 8 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,226  INFO localLoger:90 - Train@id: 28 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,226  INFO localLoger:102 - Train@id: 28 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,227  INFO localLoger:90 - Train@id: 4 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,229  INFO localLoger:90 - Train@id: 12 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:12,229  INFO localLoger:90 - Train@id: 11 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:12,230  INFO localLoger:102 - Train@id: 11 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:12,232  INFO localLoger:90 - Train@id: 23 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:12,232  INFO localLoger:102 - Train@id: 23 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:12,233  INFO localLoger:90 - Train@id: 9 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:12,234  INFO localLoger:102 - Train@id: 9 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:12,234  INFO localLoger:90 - Train@id: 27 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:12,236  INFO localLoger:90 - Train@id: 1 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:22,216  INFO localLoger:112 - Train@id: 26 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:22,219  INFO localLoger:94 - Train@id: 26 direct: LEFT movement finished.
+15:58:22,217  INFO localLoger:102 - Train@id: 4 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:22,225  INFO localLoger:102 - Train@id: 12 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:22,225  INFO localLoger:112 - Train@id: 8 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:22,226  INFO localLoger:94 - Train@id: 8 direct: LEFT movement finished.
+15:58:22,228  INFO localLoger:112 - Train@id: 28 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:22,228  INFO localLoger:94 - Train@id: 28 direct: LEFT movement finished.
+15:58:22,231  INFO localLoger:112 - Train@id: 11 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:22,231  INFO localLoger:94 - Train@id: 11 direct: RIGTH movement finished.
+15:58:22,231  INFO localLoger:102 - Train@id: 27 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:22,233  INFO localLoger:112 - Train@id: 23 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:22,234  INFO localLoger:94 - Train@id: 23 direct: RIGTH movement finished.
+15:58:22,234  INFO localLoger:102 - Train@id: 1 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:22,235  INFO localLoger:112 - Train@id: 9 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:22,235  INFO localLoger:94 - Train@id: 9 direct: RIGTH movement finished.
+15:58:32,220  INFO localLoger:112 - Train@id: 4 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,220  INFO localLoger:94 - Train@id: 4 direct: LEFT movement finished.
+15:58:32,226  INFO localLoger:112 - Train@id: 12 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,226  INFO localLoger:94 - Train@id: 12 direct: LEFT movement finished.
+15:58:32,227  INFO localLoger:103 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4 complite.
+15:58:32,227  INFO localLoger:90 - Train@id: 29 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,227  INFO localLoger:102 - Train@id: 29 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,227  INFO localLoger:90 - Train@id: 5 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,228  INFO localLoger:102 - Train@id: 5 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,228  INFO localLoger:90 - Train@id: 25 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,227  INFO localLoger:90 - Train@id: 7 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,228  INFO localLoger:102 - Train@id: 25 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,228  INFO localLoger:90 - Train@id: 3 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:32,233  INFO localLoger:112 - Train@id: 27 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:32,233  INFO localLoger:94 - Train@id: 27 direct: RIGTH movement finished.
+15:58:32,235  INFO localLoger:112 - Train@id: 1 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:32,235  INFO localLoger:94 - Train@id: 1 direct: RIGTH movement finished.
+15:58:32,235  INFO localLoger:103 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70 complite.
+15:58:32,236  INFO localLoger:90 - Train@id: 24 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:32,236  INFO localLoger:102 - Train@id: 24 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:32,236  INFO localLoger:90 - Train@id: 22 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:32,236  INFO localLoger:90 - Train@id: 2 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:32,237  INFO localLoger:90 - Train@id: 6 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:32,236  INFO localLoger:90 - Train@id: 10 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:32,237  INFO localLoger:102 - Train@id: 2 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:32,236  INFO localLoger:102 - Train@id: 22 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:42,229  INFO localLoger:112 - Train@id: 29 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:42,229  INFO localLoger:102 - Train@id: 3 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:42,229  INFO localLoger:102 - Train@id: 7 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:42,229  INFO localLoger:112 - Train@id: 25 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:42,231  INFO localLoger:94 - Train@id: 25 direct: RIGTH movement finished.
+15:58:42,229  INFO localLoger:112 - Train@id: 5 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:42,231  INFO localLoger:94 - Train@id: 5 direct: RIGTH movement finished.
+15:58:42,231  INFO localLoger:94 - Train@id: 29 direct: RIGTH movement finished.
+15:58:42,237  INFO localLoger:102 - Train@id: 6 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:42,237  INFO localLoger:102 - Train@id: 10 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:42,237  INFO localLoger:112 - Train@id: 2 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:42,239  INFO localLoger:94 - Train@id: 2 direct: LEFT movement finished.
+15:58:42,237  INFO localLoger:112 - Train@id: 24 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:42,239  INFO localLoger:94 - Train@id: 24 direct: LEFT movement finished.
+15:58:42,239  INFO localLoger:112 - Train@id: 22 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:42,240  INFO localLoger:94 - Train@id: 22 direct: LEFT movement finished.
+15:58:52,232  INFO localLoger:112 - Train@id: 7 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:52,232  INFO localLoger:103 - Phase mooving to the RIGTH in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4 complite.
+15:58:52,232  INFO localLoger:112 - Train@id: 3 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@4f16bca4
+15:58:52,233  INFO localLoger:94 - Train@id: 7 direct: RIGTH movement finished.
+15:58:52,233  INFO localLoger:94 - Train@id: 3 direct: RIGTH movement finished.
+15:58:52,238  INFO localLoger:112 - Train@id: 6 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:52,238  INFO localLoger:103 - Phase mooving to the LEFT in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70 complite.
+15:58:52,238  INFO localLoger:112 - Train@id: 10 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@49191b70
+15:58:52,238  INFO localLoger:94 - Train@id: 6 direct: LEFT movement finished.
+15:58:52,239  INFO localLoger:94 - Train@id: 10 direct: LEFT movement finished.
+17:21:35,327  INFO localLoger:86 - Train@id: 0 direct: LEFT is running.
+17:21:35,333  INFO localLoger:86 - Train@id: 26 direct: LEFT is running.
+17:21:35,333  INFO localLoger:86 - Train@id: 25 direct: RIGTH is running.
+17:21:35,332  INFO localLoger:86 - Train@id: 22 direct: LEFT is running.
+17:21:35,332  INFO localLoger:86 - Train@id: 24 direct: LEFT is running.
+17:21:35,332  INFO localLoger:86 - Train@id: 23 direct: RIGTH is running.
+17:21:35,341  INFO localLoger:90 - Train@id: 23 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:35,342  INFO localLoger:102 - Train@id: 23 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:35,332  INFO localLoger:86 - Train@id: 21 direct: RIGTH is running.
+17:21:35,344  INFO localLoger:90 - Train@id: 21 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:35,344  INFO localLoger:102 - Train@id: 21 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:35,332  INFO localLoger:86 - Train@id: 20 direct: LEFT is running.
+17:21:35,345  INFO localLoger:90 - Train@id: 20 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:35,345  INFO localLoger:102 - Train@id: 20 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:35,332  INFO localLoger:86 - Train@id: 19 direct: RIGTH is running.
+17:21:35,348  INFO localLoger:90 - Train@id: 19 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:35,332  INFO localLoger:86 - Train@id: 18 direct: LEFT is running.
+17:21:35,331  INFO localLoger:86 - Train@id: 17 direct: RIGTH is running.
+17:21:35,352  INFO localLoger:90 - Train@id: 17 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:35,331  INFO localLoger:86 - Train@id: 15 direct: RIGTH is running.
+17:21:35,331  INFO localLoger:86 - Train@id: 16 direct: LEFT is running.
+17:21:35,331  INFO localLoger:86 - Train@id: 14 direct: LEFT is running.
+17:21:35,331  INFO localLoger:86 - Train@id: 13 direct: RIGTH is running.
+17:21:35,330  INFO localLoger:86 - Train@id: 12 direct: LEFT is running.
+17:21:35,330  INFO localLoger:86 - Train@id: 11 direct: RIGTH is running.
+17:21:35,330  INFO localLoger:86 - Train@id: 10 direct: LEFT is running.
+17:21:35,330  INFO localLoger:86 - Train@id: 9 direct: RIGTH is running.
+17:21:35,330  INFO localLoger:86 - Train@id: 8 direct: LEFT is running.
+17:21:35,329  INFO localLoger:86 - Train@id: 7 direct: RIGTH is running.
+17:21:35,328  INFO localLoger:86 - Train@id: 6 direct: LEFT is running.
+17:21:35,328  INFO localLoger:86 - Train@id: 1 direct: RIGTH is running.
+17:21:35,328  INFO localLoger:86 - Train@id: 2 direct: LEFT is running.
+17:21:35,328  INFO localLoger:86 - Train@id: 3 direct: RIGTH is running.
+17:21:35,328  INFO localLoger:86 - Train@id: 4 direct: LEFT is running.
+17:21:35,328  INFO localLoger:86 - Train@id: 5 direct: RIGTH is running.
+17:21:35,352  INFO localLoger:102 - Train@id: 19 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:35,340  INFO localLoger:90 - Train@id: 24 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:35,403  INFO localLoger:102 - Train@id: 24 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:35,340  INFO localLoger:90 - Train@id: 22 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:35,404  INFO localLoger:102 - Train@id: 22 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:35,339  INFO localLoger:90 - Train@id: 25 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:35,339  INFO localLoger:90 - Train@id: 0 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:35,337  INFO localLoger:90 - Train@id: 26 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:35,336  INFO localLoger:86 - Train@id: 29 direct: RIGTH is running.
+17:21:35,335  INFO localLoger:86 - Train@id: 28 direct: LEFT is running.
+17:21:35,333  INFO localLoger:86 - Train@id: 27 direct: RIGTH is running.
+17:21:45,344  INFO localLoger:112 - Train@id: 23 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:45,345  INFO localLoger:94 - Train@id: 23 direct: RIGTH movement finished.
+17:21:45,344  INFO localLoger:102 - Train@id: 17 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:45,345  INFO localLoger:102 - Train@id: 25 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:45,345  INFO localLoger:112 - Train@id: 21 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:45,346  INFO localLoger:94 - Train@id: 21 direct: RIGTH movement finished.
+17:21:45,349  INFO localLoger:112 - Train@id: 20 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:45,350  INFO localLoger:94 - Train@id: 20 direct: LEFT movement finished.
+17:21:45,350  INFO localLoger:102 - Train@id: 0 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:45,402  INFO localLoger:112 - Train@id: 19 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:45,403  INFO localLoger:94 - Train@id: 19 direct: RIGTH movement finished.
+17:21:45,405  INFO localLoger:112 - Train@id: 24 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:45,405  INFO localLoger:94 - Train@id: 24 direct: LEFT movement finished.
+17:21:45,405  INFO localLoger:112 - Train@id: 22 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:45,405  INFO localLoger:94 - Train@id: 22 direct: LEFT movement finished.
+17:21:45,407  INFO localLoger:102 - Train@id: 26 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,347  INFO localLoger:112 - Train@id: 17 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,350  INFO localLoger:94 - Train@id: 17 direct: RIGTH movement finished.
+17:21:55,348  INFO localLoger:100 - Phase mooving to the RIGTH in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42 complite.
+17:21:55,347  INFO localLoger:112 - Train@id: 25 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,357  INFO localLoger:112 - Train@id: 0 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,358  INFO localLoger:94 - Train@id: 25 direct: RIGTH movement finished.
+17:21:55,358  INFO localLoger:94 - Train@id: 0 direct: LEFT movement finished.
+17:21:55,389  INFO localLoger:90 - Train@id: 16 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,390  INFO localLoger:102 - Train@id: 16 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,391  INFO localLoger:90 - Train@id: 12 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,391  INFO localLoger:102 - Train@id: 12 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,409  INFO localLoger:112 - Train@id: 26 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,409  INFO localLoger:94 - Train@id: 26 direct: LEFT movement finished.
+17:21:55,410  INFO localLoger:100 - Phase mooving to the LEFT in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33 complite.
+17:21:55,466  INFO localLoger:90 - Train@id: 14 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,468  INFO localLoger:102 - Train@id: 14 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,468  INFO localLoger:90 - Train@id: 4 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,469  INFO localLoger:90 - Train@id: 29 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,470  INFO localLoger:102 - Train@id: 29 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,467  INFO localLoger:90 - Train@id: 2 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:21:55,476  INFO localLoger:100 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33 complite.
+17:21:55,486  INFO localLoger:90 - Train@id: 7 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,487  INFO localLoger:102 - Train@id: 7 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,488  INFO localLoger:90 - Train@id: 1 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,489  INFO localLoger:102 - Train@id: 1 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,497  INFO localLoger:90 - Train@id: 27 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,496  INFO localLoger:90 - Train@id: 3 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,578  INFO localLoger:90 - Train@id: 5 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,579  INFO localLoger:90 - Train@id: 9 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,579  INFO localLoger:90 - Train@id: 13 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,579  INFO localLoger:90 - Train@id: 15 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:21:55,579  INFO localLoger:90 - Train@id: 11 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:05,391  INFO localLoger:102 - Train@id: 4 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:05,391  INFO localLoger:112 - Train@id: 16 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:05,392  INFO localLoger:94 - Train@id: 16 direct: LEFT movement finished.
+17:22:05,393  INFO localLoger:112 - Train@id: 12 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:05,393  INFO localLoger:94 - Train@id: 12 direct: LEFT movement finished.
+17:22:05,393  INFO localLoger:102 - Train@id: 2 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:05,470  INFO localLoger:112 - Train@id: 14 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:05,470  INFO localLoger:94 - Train@id: 14 direct: LEFT movement finished.
+17:22:05,472  INFO localLoger:102 - Train@id: 27 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:05,472  INFO localLoger:112 - Train@id: 29 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:05,473  INFO localLoger:94 - Train@id: 29 direct: RIGTH movement finished.
+17:22:05,488  INFO localLoger:102 - Train@id: 3 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:05,488  INFO localLoger:112 - Train@id: 7 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:05,489  INFO localLoger:94 - Train@id: 7 direct: RIGTH movement finished.
+17:22:05,498  INFO localLoger:112 - Train@id: 1 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:05,498  INFO localLoger:94 - Train@id: 1 direct: RIGTH movement finished.
+17:22:05,498  INFO localLoger:102 - Train@id: 5 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:15,392  INFO localLoger:112 - Train@id: 4 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,393  INFO localLoger:94 - Train@id: 4 direct: LEFT movement finished.
+17:22:15,394  INFO localLoger:100 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42 complite.
+17:22:15,394  INFO localLoger:112 - Train@id: 2 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,395  INFO localLoger:94 - Train@id: 2 direct: LEFT movement finished.
+17:22:15,472  INFO localLoger:112 - Train@id: 27 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:15,472  INFO localLoger:94 - Train@id: 27 direct: RIGTH movement finished.
+17:22:15,473  INFO localLoger:102 - Train@id: 9 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:15,489  INFO localLoger:102 - Train@id: 13 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:15,489  INFO localLoger:112 - Train@id: 3 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:15,489  INFO localLoger:94 - Train@id: 3 direct: RIGTH movement finished.
+17:22:15,496  INFO localLoger:90 - Train@id: 6 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,496  INFO localLoger:90 - Train@id: 8 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,497  INFO localLoger:90 - Train@id: 10 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,497  INFO localLoger:102 - Train@id: 6 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,496  INFO localLoger:90 - Train@id: 18 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,496  INFO localLoger:90 - Train@id: 28 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,497  INFO localLoger:102 - Train@id: 10 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,497  INFO localLoger:102 - Train@id: 8 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:15,500  INFO localLoger:112 - Train@id: 5 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:15,500  INFO localLoger:94 - Train@id: 5 direct: RIGTH movement finished.
+17:22:15,500  INFO localLoger:102 - Train@id: 15 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:25,474  INFO localLoger:112 - Train@id: 9 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:25,474  INFO localLoger:102 - Train@id: 11 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:25,474  INFO localLoger:94 - Train@id: 9 direct: RIGTH movement finished.
+17:22:25,490  INFO localLoger:112 - Train@id: 13 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:25,491  INFO localLoger:94 - Train@id: 13 direct: RIGTH movement finished.
+17:22:25,497  INFO localLoger:112 - Train@id: 6 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:25,497  INFO localLoger:102 - Train@id: 18 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:25,498  INFO localLoger:94 - Train@id: 6 direct: LEFT movement finished.
+17:22:25,499  INFO localLoger:112 - Train@id: 8 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:25,499  INFO localLoger:94 - Train@id: 8 direct: LEFT movement finished.
+17:22:25,499  INFO localLoger:102 - Train@id: 28 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:25,499  INFO localLoger:112 - Train@id: 10 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:25,500  INFO localLoger:94 - Train@id: 10 direct: LEFT movement finished.
+17:22:25,503  INFO localLoger:112 - Train@id: 15 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33
+17:22:25,503  INFO localLoger:94 - Train@id: 15 direct: RIGTH movement finished.
+17:22:25,504  INFO localLoger:100 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@5d7ffd33 complite.
+17:22:35,499  INFO localLoger:112 - Train@id: 18 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:35,500  INFO localLoger:94 - Train@id: 18 direct: LEFT movement finished.
+17:22:35,500  INFO localLoger:112 - Train@id: 28 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42
+17:22:35,501  INFO localLoger:100 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@70fcce42 complite.
+17:22:35,501  INFO localLoger:94 - Train@id: 28 direct: LEFT movement finished.
+17:23:42,478  INFO localLoger:86 - Train@id: 0 direct: LEFT is running.
+17:23:42,480  INFO localLoger:86 - Train@id: 29 direct: RIGTH is running.
+17:23:42,480  INFO localLoger:86 - Train@id: 28 direct: LEFT is running.
+17:23:42,480  INFO localLoger:86 - Train@id: 27 direct: RIGTH is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 26 direct: LEFT is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 25 direct: RIGTH is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 24 direct: LEFT is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 23 direct: RIGTH is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 22 direct: LEFT is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 21 direct: RIGTH is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 20 direct: LEFT is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 19 direct: RIGTH is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 18 direct: LEFT is running.
+17:23:42,479  INFO localLoger:86 - Train@id: 17 direct: RIGTH is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 16 direct: LEFT is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 15 direct: RIGTH is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 14 direct: LEFT is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 10 direct: LEFT is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 9 direct: RIGTH is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 2 direct: LEFT is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 3 direct: RIGTH is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 13 direct: RIGTH is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 1 direct: RIGTH is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 4 direct: LEFT is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 5 direct: RIGTH is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 12 direct: LEFT is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 6 direct: LEFT is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 8 direct: LEFT is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 7 direct: RIGTH is running.
+17:23:42,478  INFO localLoger:86 - Train@id: 11 direct: RIGTH is running.
+17:23:42,489  INFO localLoger:90 - Train@id: 21 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:42,589  INFO localLoger:102 - Train@id: 21 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:42,489  INFO localLoger:90 - Train@id: 22 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:42,592  INFO localLoger:102 - Train@id: 22 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:42,488  INFO localLoger:90 - Train@id: 23 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:42,592  INFO localLoger:102 - Train@id: 23 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:42,488  INFO localLoger:90 - Train@id: 24 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:42,634  INFO localLoger:102 - Train@id: 24 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:42,488  INFO localLoger:90 - Train@id: 25 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:42,635  INFO localLoger:102 - Train@id: 25 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:42,486  INFO localLoger:90 - Train@id: 26 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:42,636  INFO localLoger:102 - Train@id: 26 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:42,486  INFO localLoger:90 - Train@id: 27 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:42,486  INFO localLoger:90 - Train@id: 0 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:42,486  INFO localLoger:90 - Train@id: 28 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:42,485  INFO localLoger:90 - Train@id: 29 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:52,591  INFO localLoger:112 - Train@id: 21 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:52,593  INFO localLoger:94 - Train@id: 21 direct: RIGTH movement finished.
+17:23:52,592  INFO localLoger:102 - Train@id: 0 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:52,592  INFO localLoger:112 - Train@id: 22 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:52,593  INFO localLoger:94 - Train@id: 22 direct: LEFT movement finished.
+17:23:52,595  INFO localLoger:112 - Train@id: 23 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:52,595  INFO localLoger:94 - Train@id: 23 direct: RIGTH movement finished.
+17:23:52,595  INFO localLoger:102 - Train@id: 29 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:52,591  INFO localLoger:102 - Train@id: 27 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:52,635  INFO localLoger:102 - Train@id: 28 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:52,636  INFO localLoger:112 - Train@id: 24 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:52,636  INFO localLoger:94 - Train@id: 24 direct: LEFT movement finished.
+17:23:52,635  INFO localLoger:112 - Train@id: 25 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:23:52,638  INFO localLoger:112 - Train@id: 26 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:23:52,699  INFO localLoger:94 - Train@id: 26 direct: LEFT movement finished.
+17:23:52,699  INFO localLoger:94 - Train@id: 25 direct: RIGTH movement finished.
+17:24:02,608  INFO localLoger:112 - Train@id: 0 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:02,636  INFO localLoger:112 - Train@id: 29 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,637  INFO localLoger:94 - Train@id: 29 direct: RIGTH movement finished.
+17:24:02,636  INFO localLoger:94 - Train@id: 0 direct: LEFT movement finished.
+17:24:02,627  INFO localLoger:112 - Train@id: 27 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,639  INFO localLoger:94 - Train@id: 27 direct: RIGTH movement finished.
+17:24:02,646  INFO localLoger:112 - Train@id: 28 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:02,647  INFO localLoger:94 - Train@id: 28 direct: LEFT movement finished.
+17:24:02,648  INFO localLoger:100 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7 complite.
+17:24:02,654  INFO localLoger:90 - Train@id: 4 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,655  INFO localLoger:102 - Train@id: 4 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,654  INFO localLoger:90 - Train@id: 6 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,656  INFO localLoger:102 - Train@id: 6 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,657  INFO localLoger:90 - Train@id: 8 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,657  INFO localLoger:102 - Train@id: 8 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,660  INFO localLoger:90 - Train@id: 14 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,656  INFO localLoger:90 - Train@id: 12 direct: LEFT obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:02,684  INFO localLoger:100 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6 complite.
+17:24:02,705  INFO localLoger:90 - Train@id: 19 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:02,706  INFO localLoger:102 - Train@id: 19 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:02,707  INFO localLoger:90 - Train@id: 13 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:02,709  INFO localLoger:102 - Train@id: 13 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:02,707  INFO localLoger:90 - Train@id: 3 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:02,712  INFO localLoger:102 - Train@id: 3 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:02,714  INFO localLoger:90 - Train@id: 7 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:02,738  INFO localLoger:90 - Train@id: 17 direct: RIGTH obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:12,656  INFO localLoger:112 - Train@id: 4 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:12,656  INFO localLoger:102 - Train@id: 14 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:12,656  INFO localLoger:94 - Train@id: 4 direct: LEFT movement finished.
+17:24:12,657  INFO localLoger:112 - Train@id: 6 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:12,658  INFO localLoger:94 - Train@id: 6 direct: LEFT movement finished.
+17:24:12,658  INFO localLoger:102 - Train@id: 12 direct: LEFT enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:12,659  INFO localLoger:112 - Train@id: 8 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:12,659  INFO localLoger:94 - Train@id: 8 direct: LEFT movement finished.
+17:24:12,707  INFO localLoger:112 - Train@id: 19 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:12,708  INFO localLoger:94 - Train@id: 19 direct: RIGTH movement finished.
+17:24:12,707  INFO localLoger:102 - Train@id: 7 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:12,710  INFO localLoger:102 - Train@id: 17 direct: RIGTH enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:12,710  INFO localLoger:112 - Train@id: 13 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:12,711  INFO localLoger:94 - Train@id: 13 direct: RIGTH movement finished.
+17:24:12,713  INFO localLoger:112 - Train@id: 3 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:12,713  INFO localLoger:94 - Train@id: 3 direct: RIGTH movement finished.
+17:24:22,657  INFO localLoger:112 - Train@id: 14 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,658  INFO localLoger:94 - Train@id: 14 direct: LEFT movement finished.
+17:24:22,659  INFO localLoger:112 - Train@id: 12 direct: LEFT exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,659  INFO localLoger:94 - Train@id: 12 direct: LEFT movement finished.
+17:24:22,661  INFO localLoger:100 - Phase mooving to the LEFT in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7 complite.
+17:24:22,661  INFO localLoger:90 - Train@id: 9 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,662  INFO localLoger:102 - Train@id: 9 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,662  INFO localLoger:90 - Train@id: 11 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,662  INFO localLoger:102 - Train@id: 11 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,662  INFO localLoger:90 - Train@id: 15 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,662  INFO localLoger:102 - Train@id: 15 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,663  INFO localLoger:90 - Train@id: 1 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,662  INFO localLoger:90 - Train@id: 5 direct: RIGTH obtain permission to pass in the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:22,709  INFO localLoger:112 - Train@id: 7 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:22,709  INFO localLoger:94 - Train@id: 7 direct: RIGTH movement finished.
+17:24:22,711  INFO localLoger:112 - Train@id: 17 direct: RIGTH exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:22,711  INFO localLoger:100 - Phase mooving to the RIGTH in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6 complite.
+17:24:22,712  INFO localLoger:94 - Train@id: 17 direct: RIGTH movement finished.
+17:24:22,712  INFO localLoger:90 - Train@id: 2 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:22,712  INFO localLoger:102 - Train@id: 2 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:22,713  INFO localLoger:90 - Train@id: 16 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:22,713  INFO localLoger:90 - Train@id: 18 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:22,712  INFO localLoger:90 - Train@id: 20 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:22,713  INFO localLoger:102 - Train@id: 18 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:22,713  INFO localLoger:102 - Train@id: 16 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:22,713  INFO localLoger:90 - Train@id: 10 direct: LEFT obtain permission to pass in the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:32,663  INFO localLoger:112 - Train@id: 9 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:32,663  INFO localLoger:102 - Train@id: 5 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:32,663  INFO localLoger:102 - Train@id: 1 direct: RIGTH enter the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:32,663  INFO localLoger:112 - Train@id: 15 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:32,663  INFO localLoger:112 - Train@id: 11 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:32,665  INFO localLoger:94 - Train@id: 11 direct: RIGTH movement finished.
+17:24:32,664  INFO localLoger:94 - Train@id: 15 direct: RIGTH movement finished.
+17:24:32,664  INFO localLoger:94 - Train@id: 9 direct: RIGTH movement finished.
+17:24:32,713  INFO localLoger:112 - Train@id: 2 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:32,713  INFO localLoger:102 - Train@id: 20 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:32,714  INFO localLoger:94 - Train@id: 2 direct: LEFT movement finished.
+17:24:32,714  INFO localLoger:112 - Train@id: 18 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:32,715  INFO localLoger:94 - Train@id: 18 direct: LEFT movement finished.
+17:24:32,715  INFO localLoger:102 - Train@id: 10 direct: LEFT enter the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:32,715  INFO localLoger:112 - Train@id: 16 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:32,716  INFO localLoger:94 - Train@id: 16 direct: LEFT movement finished.
+17:24:42,665  INFO localLoger:112 - Train@id: 1 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:42,665  INFO localLoger:112 - Train@id: 5 direct: RIGTH exit the Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7
+17:24:42,666  INFO localLoger:94 - Train@id: 5 direct: RIGTH movement finished.
+17:24:42,665  INFO localLoger:100 - Phase mooving to the RIGTH in Tunnel@id: 2 control: by.epam.task04.entity.TunnelControlSystem@34aabad7 complite.
+17:24:42,666  INFO localLoger:94 - Train@id: 1 direct: RIGTH movement finished.
+17:24:42,715  INFO localLoger:112 - Train@id: 20 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:42,715  INFO localLoger:94 - Train@id: 20 direct: LEFT movement finished.
+17:24:42,717  INFO localLoger:112 - Train@id: 10 direct: LEFT exit the Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6
+17:24:42,717  INFO localLoger:94 - Train@id: 10 direct: LEFT movement finished.
+17:24:42,717  INFO localLoger:100 - Phase mooving to the LEFT in Tunnel@id: 1 control: by.epam.task04.entity.TunnelControlSystem@1949a7c6 complite.
