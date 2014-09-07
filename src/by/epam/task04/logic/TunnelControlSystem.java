@@ -29,7 +29,7 @@ public class TunnelControlSystem {
     
     public BlockingQueue<Train> trainsInTunnel = new ArrayBlockingQueue(MAX_TRAIN_COUNT);
     
-    public TunnelControlSystem(){}
+    private TunnelControlSystem(){}
     public TunnelControlSystem(TrainDirection direct1, TrainDirection direct2){
         sem1 = new TunnelSemaphore(MAX_IN_SAME_DIRECTION, true, direct1);
         sem2 = new TunnelSemaphore(MAX_IN_SAME_DIRECTION, true, direct2);

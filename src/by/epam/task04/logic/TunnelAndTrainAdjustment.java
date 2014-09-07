@@ -24,7 +24,6 @@ import java.util.concurrent.Phaser;
  */
 public class TunnelAndTrainAdjustment {
     
-    public static final int TUNNEL_COUNT = 2;
     private static ConcurrentHashMap<Integer, Tunnel> tunnels = new ConcurrentHashMap();
     
     private TunnelAndTrainAdjustment(){}
@@ -38,7 +37,6 @@ public class TunnelAndTrainAdjustment {
     
     public static void addAllTunnels(HashMap<Integer, Tunnel> tunnels) {
         TunnelAndTrainAdjustment.tunnels.putAll(tunnels);
-        System.out.println("!!!!!!!!!!!" + tunnels);
     }
     
     public static Tunnel getTunnel(TrainDirection from, TrainDirection to) {
@@ -47,10 +45,10 @@ public class TunnelAndTrainAdjustment {
         while (true) {
             for (Map.Entry<Integer, Tunnel> ent : tunnels.entrySet()) {
                 Tunnel tunnel = ent.getValue();
-                TunnelSemaphore semaphore = tunnel.control.getSemaphore(direct);
-                if (null != semaphore) {
+                if (isSameDirection(from, to, tunnel)) {
                     try {
                         tunnel.control.controlLock.lock();
+                        TunnelSemaphore semaphore = tunnel.control.getSemaphore(direct);
                         if (semaphore.tryAcquire()) {
                             TunnelPhaser tp = tunnel.control.tunnelPhaser;
                             if (null == tp) {
@@ -85,13 +83,7 @@ public class TunnelAndTrainAdjustment {
     
     private static TunnelPhaser createTunnelPhaser(Tunnel tunnel, TrainDirection direct){
         Phaser phaser;
-        phaser = new Phaser(1) {
-            @Override
-            protected boolean onAdvance(int phase, int registeredParties) {
-                return this.getUnarrivedParties() == 0;
-            }
-        };
-        
+        phaser = new Phaser(1);
         TunnelPhaser tp = new TunnelPhaser(phaser, tunnel, direct);
         tunnel.control.tunnelPhaser = tp;
         new Thread(tp).start();
@@ -107,9 +99,10 @@ public class TunnelAndTrainAdjustment {
             control.controlLock.lock();
             LOCAL_LOGGER.info("Phase mooving to the " + control.tunnelPhaser.getDirect() + " in " + control.tunnelPhaser.getTunnel() + " complite.");
             
-            
             TunnelSemaphore semaphore = control.getSemaphore(control.tunnelPhaser.getDirect());
             int permitsCount = semaphore.availablePermits();
+
+            control.tunnelPhaser.getPhaser().forceTermination();
             control.tunnelPhaser = null;
             
             if (0 == permitsCount) {
@@ -142,8 +135,10 @@ public class TunnelAndTrainAdjustment {
     public static void exitTunnel(Train train, Tunnel tunnel) {
         try { 
             tunnel.control.controlLock.lock();
-            tunnel.control.trainsInTunnel.remove(train);    
-            tunnel.control.tunnelPhaser.getPhaser().arrive();
+            if (!tunnel.control.trainsInTunnel.remove(train)) {
+                LOCAL_LOGGER.info("ERROR REMOVE TRAIN: " + train);
+            }
+            tunnel.control.tunnelPhaser.getPhaser().arriveAndDeregister();
             LOCAL_LOGGER.info(train + " exit the " + tunnel);
         } catch (NullPointerException ex) {
             LOCAL_LOGGER.info(ex);
